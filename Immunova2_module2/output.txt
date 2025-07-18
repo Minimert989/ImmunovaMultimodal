@@ -1,0 +1,660 @@
+.
+├── ACC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── SUMMARY.md
+│   ├── TCGA_clinical_ACC.csv
+│   ├── TCGA_copy_number_ACC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_ACC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_ACC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_ACC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_ACC_immune_proteins_with_metadata.csv
+├── BLCA
+│   ├── CLINICAL_SUMMARY.md
+│   ├── SUMMARY.md
+│   ├── TCGA_clinical_BLCA.csv
+│   ├── TCGA_copy_number_BLCA_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_BLCA_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_BLCA_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_BLCA_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_BLCA_immune_proteins_with_metadata.csv
+├── BRCA
+│   ├── CLINICAL_SUMMARY.md
+│   ├── SUMMARY.md
+│   ├── TCGA_clinical_BRCA.csv
+│   ├── TCGA_copy_number_BRCA_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_BRCA_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_BRCA_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_BRCA_immune_markers_with_metadata.csv
+├── CESC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_CESC.csv
+│   ├── TCGA_copy_number_CESC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_CESC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_CESC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_CESC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_CESC_immune_proteins_with_metadata.csv
+├── CHOL
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_CHOL.csv
+│   ├── TCGA_copy_number_CHOL_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_CHOL_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_CHOL_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_CHOL_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_CHOL_immune_proteins_with_metadata.csv
+├── COADREAD
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_COADREAD.csv
+│   ├── TCGA_copy_number_COADREAD_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_COADREAD_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_COADREAD_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_COADREAD_immune_markers_with_metadata.csv
+├── cptac_zipped
+│   ├── cptac_brca
+│   │   ├── cptac_brca
+│   │   │   ├── download_log.txt
+│   │   │   ├── processed_data
+│   │   │   │   ├── cptac-brca_clinical_processed.csv
+│   │   │   │   ├── cptac-brca_proteome_normal_processed.csv
+│   │   │   │   ├── cptac-brca_proteome_processed.csv
+│   │   │   │   ├── cptac-brca_rnaseq_normal_processed.csv
+│   │   │   │   └── cptac-brca_rnaseq_processed.csv
+│   │   │   └── raw_data
+│   │   │       ├── HS_CPTAC_BRCA_2018_Acetylome_Ratio_Norm_Gene_Median.cct
+│   │   │       ├── HS_CPTAC_BRCA_2018_Acetylome_Ratio_Norm_Site.cct
+│   │   │       ├── HS_CPTAC_BRCA_2018_CLI.tsi
+│   │   │       ├── HS_CPTAC_BRCA_2018_CNA.cct
+│   │   │       ├── HS_CPTAC_BRCA_2018_MUT_GENE.cbt
+│   │   │       ├── HS_CPTAC_BRCA_2018_Phosphoproteome_Ratio_Norm_Gene_median.cct
+│   │   │       ├── HS_CPTAC_BRCA_2018_Phosphoproteome_Ratio_Norm_Site.cct
+│   │   │       ├── HS_CPTAC_BRCA_2018_Proteome_Ratio_Norm_gene_Median.cct
+│   │   │       └── HS_CPTAC_BRCA_2018_RNA_GENE.cct
+│   │   ├── cptac_coad
+│   │   │   ├── download_log.txt
+│   │   │   ├── processed_data
+│   │   │   │   ├── cptac-coad_clinical_processed.csv
+│   │   │   │   ├── cptac-coad_proteome_normal_processed.csv
+│   │   │   │   ├── cptac-coad_proteome_processed.csv
+│   │   │   │   ├── cptac-coad_rnaseq_normal_processed.csv
+│   │   │   │   └── cptac-coad_rnaseq_processed.csv
+│   │   │   └── raw_data
+│   │   │       ├── final_oncotator_all.maf
+│   │   │       ├── Human__CPTAC_COAD__MS__Clinical__Clinical__03_01_2017__CPTAC__Clinical__BCM.tsi
+│   │   │       ├── Human__CPTAC_COAD__PNNL__Phosphoproteome__TMT__03_01_2017__BCM__Site__Normal_PNNL_TMT_LogRatio.cct.gz
+│   │   │       ├── Human__CPTAC_COAD__PNNL__Phosphoproteome__TMT__03_01_2017__BCM__Site__Tumor_Normal_log2FC.cct.gz
+│   │   │       ├── Human__CPTAC_COAD__PNNL__Phosphoproteome__TMT__03_01_2017__BCM__Site__Tumor_PNNL_TMT_LogRatio.cct.gz
+│   │   │       ├── Human__CPTAC_COAD__PNNL__Proteome__TMT__03_01_2017__BCM__Gene__PNNL_Normal_TMT_UnsharedLogRatio.cct
+│   │   │       ├── Human__CPTAC_COAD__PNNL__Proteome__TMT__03_01_2017__BCM__Gene__PNNL_Tumor_TMT_UnsharedLogRatio.cct
+│   │   │       ├── Human__CPTAC_COAD__PNNL__Proteome__TMT__03_01_2017__BCM__Gene__Tumor_Normal_log2FC.cct
+│   │   │       ├── Human__CPTAC_COAD__UNC__miRNAseq__GA_miR__03_01_2017__BCM__Gene__BCM_log2.cct
+│   │   │       ├── Human__CPTAC_COAD__UNC__RNAseq__HiSeq_RNA__03_01_2017__BCM__Gene__BCM_RSEM_UpperQuartile_log2.cct.gz
+│   │   │       ├── Human__CPTAC_COAD__VU__Proteome__QExact__03_01_2017__BCM__Gene__VU_Tumor_LF_UnsharedCounts.cct
+│   │   │       ├── Human__CPTAC_COAD__VU__SCNA__ExomeSeq__01_28_2016__BCM__Gene__BCM_CopyWriteR_GISTIC2_threshold.cct.gz
+│   │   │       ├── Human__CPTAC_COAD__VU__SCNA__ExomeSeq__01_28_2016__BCM__Gene__BCM_CopyWriteR_GISTIC2.cct.gz
+│   │   │       ├── Human__CPTAC_COAD__WUSM__Mutation__GAIIx__03_01_2017__BCM__Gene__GATK_Pipeline.cbt
+│   │   │       └── Human__CPTAC_COAD__WUSM__Mutation__GAIIx__03_01_2017__BCM__Site__GATK_Pipeline.cbt
+│   │   ├── cptac_gbm
+│   │   │   ├── processed_data
+│   │   │   │   ├── cptac_gbm_clinical_processed.csv
+│   │   │   │   ├── cptac_gbm_copy_number_processed.csv
+│   │   │   │   ├── cptac_gbm_integrated_multiomics.csv
+│   │   │   │   ├── cptac_gbm_integration_results.txt
+│   │   │   │   ├── cptac_gbm_mirna_processed.csv
+│   │   │   │   ├── cptac_gbm_proteome_processed.csv
+│   │   │   │   ├── cptac_gbm_rnaseq_processed.csv
+│   │   │   │   └── cptac_gbm_selected_features.csv
+│   │   │   └── raw_data
+│   │   │       ├── acetylome
+│   │   │       ├── circular_rna
+│   │   │       ├── clinical
+│   │   │       │   └── cptac_gbm_clinical.tsi
+│   │   │       ├── copy_number
+│   │   │       │   └── cptac_gbm_wgs_somatic_cnv_per_gene.cct
+│   │   │       ├── mirna
+│   │   │       │   └── cptac_gbm_mirna_mature_tpm_log2.cct
+│   │   │       ├── mutation
+│   │   │       ├── phosphoproteome
+│   │   │       │   └── cptac_gbm_phosphoproteome_mssm_site.cct
+│   │   │       ├── proteome
+│   │   │       │   └── cptac_gbm_proteome_mssm_per_gene.cct
+│   │   │       └── rnaseq
+│   │   │           └── cptac_gbm_rnaseq_fpkm_uq_log2.cct
+│   │   ├── cptac_hnscc
+│   │   │   ├── download_log.txt
+│   │   │   ├── processed_data
+│   │   │   │   ├── cptac-hnscc_clinical_processed.csv
+│   │   │   │   ├── cptac-hnscc_proteome_normal_processed.csv
+│   │   │   │   ├── cptac-hnscc_proteome_processed.csv
+│   │   │   │   ├── cptac-hnscc_rnaseq_normal_processed.csv
+│   │   │   │   └── cptac-hnscc_rnaseq_processed.csv
+│   │   │   └── raw_data
+│   │   │       ├── HS_CPTAC_HNSCC_circRNAseq_RSEM_UQ_log2_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_circRNAseq_RSEM_UQ_log2_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_CLI.tsi
+│   │   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Gene_level_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Gene_level_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Probe_level_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Probe_level_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_microRNA_log2_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_microRNA_log2_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_Gene_level_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_Gene_level_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_peptide_level_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_peptide_level_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_site_level_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_site_level_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Proteomics_TMT_Gene_level_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_Proteomics_TMT_Gene_level_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_RNAseq_isoform_FPKM_Log2_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_RNAseq_isoform_FPKM_Log2_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_RNAseq_RSEM_UQ_log2_Normal.cct
+│   │   │       ├── HS_CPTAC_HNSCC_RNAseq_RSEM_UQ_log2_Tumor.cct
+│   │   │       ├── HS_CPTAC_HNSCC_SCNA_call_gene_level.cct
+│   │   │       ├── HS_CPTAC_HNSCC_SCNA_log2_gene_level.cct
+│   │   │       ├── HS_CPTAC_HNSCC_SCNA_log2_segment_level.cct
+│   │   │       ├── HS_CPTAC_HNSCC_SomaticMutations_gene_level.cbt
+│   │   │       └── HS_CPTAC_HNSCC_SomaticMutations_site_level.cbt
+│   │   ├── cptac_lscc
+│   │   │   ├── download_log.txt
+│   │   │   ├── processed_data
+│   │   │   │   ├── cptac-lscc_clinical_processed.csv
+│   │   │   │   ├── cptac-lscc_proteome_normal_processed.csv
+│   │   │   │   ├── cptac-lscc_proteome_processed.csv
+│   │   │   │   ├── cptac-lscc_rnaseq_normal_processed.csv
+│   │   │   │   └── cptac-lscc_rnaseq_processed.csv
+│   │   │   └── raw_data
+│   │   │       ├── HS_CPTAC_LSCC_2020_acetyl_ratio_norm_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_acetyl_ratio_norm_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_ciRNA_rsem_uq_log2_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_ciRNA_rsem_uq_log2_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_clinical_phenotypes_NORMAL.tsi
+│   │   │       ├── HS_CPTAC_LSCC_2020_clinical_phenotypes_TUMOR.tsi
+│   │   │       ├── HS_CPTAC_LSCC_2020_cnv_gene_gistic2_log_ratio.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_methylation_mean_gene_normal.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_methylation_mean_gene_tumor.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_miRNA_tpm_log2_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_miRNA_tpm_log2_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_molecular_phenotypes_NORMAL.tsi
+│   │   │       ├── HS_CPTAC_LSCC_2020_molecular_phenotypes_TUMOR.tsi
+│   │   │       ├── HS_CPTAC_LSCC_2020_phospho_ratio_norm_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_phospho_ratio_norm_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_proteome_ratio_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_proteome_ratio_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_rnaseq_uq_fpkm_log2_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_rnaseq_uq_fpkm_log2_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LSCC_2020_somatic_mutation_gene.cbt
+│   │   │       ├── HS_CPTAC_LSCC_2020_ubiquitin_ratio_norm_NArm_NORMAL.cct
+│   │   │       └── HS_CPTAC_LSCC_2020_ubiquitin_ratio_norm_NArm_TUMOR.cct
+│   │   ├── cptac_luad
+│   │   │   ├── download_log.txt
+│   │   │   ├── processed_data
+│   │   │   │   ├── cptac-luad_clinical_processed.csv
+│   │   │   │   ├── cptac-luad_proteome_normal_processed.csv
+│   │   │   │   ├── cptac-luad_proteome_processed.csv
+│   │   │   │   ├── cptac-luad_rnaseq_normal_processed.csv
+│   │   │   │   └── cptac-luad_rnaseq_processed.csv
+│   │   │   └── raw_data
+│   │   │       ├── HS_CPTAC_LUAD_acetylproteome_ratio_norm_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LUAD_acetylproteome_ratio_norm_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LUAD_cli.tsi
+│   │   │       ├── HS_CPTAC_LUAD_cnv_gene_LR.cct
+│   │   │       ├── HS_CPTAC_LUAD_cnv_gene_MZD.cct
+│   │   │       ├── HS_CPTAC_LUAD_methylation_mean_gene_normal.cct
+│   │   │       ├── HS_CPTAC_LUAD_methylation_mean_gene_tumor.cct
+│   │   │       ├── HS_CPTAC_LUAD_phosphoproteome_ratio_norm_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LUAD_phosphoproteome_ratio_norm_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LUAD_proteome_ratio_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LUAD_proteome_ratio_NArm_TUMOR.cct
+│   │   │       ├── HS_CPTAC_LUAD_rnaseq_uq_rpkm_log2_NArm_NORMAL.cct
+│   │   │       ├── HS_CPTAC_LUAD_rnaseq_uq_rpkm_log2_NArm_TUMOR.cct
+│   │   │       └── HS_CPTAC_LUAD_somatic_mutation_gene.cbt
+│   │   └── cptac_ucec
+│   │       ├── download_log.txt
+│   │       ├── processed_data
+│   │       │   ├── cptac-ucec_clinical_processed.csv
+│   │       │   ├── cptac-ucec_proteome_normal_processed.csv
+│   │       │   ├── cptac-ucec_proteome_processed.csv
+│   │       │   ├── cptac-ucec_rnaseq_normal_processed.csv
+│   │       │   └── cptac-ucec_rnaseq_processed.csv
+│   │       └── raw_data
+│   │           ├── HS_CPTAC_UCEC_Acetylproteomics_site_level_log2_Normal.cct
+│   │           ├── HS_CPTAC_UCEC_Acetylproteomics_site_level_log2_Tumor.cct
+│   │           ├── HS_CPTAC_UCEC_circRNAseq_RSEM_UQ_log2_Normal.cct
+│   │           ├── HS_CPTAC_UCEC_circRNAseq_RSEM_UQ_log2_Tumor.cct
+│   │           ├── HS_CPTAC_UCEC_CLI.txt
+│   │           ├── HS_CPTAC_UCEC_Methylation_betaValue_gene_level_mean.cct
+│   │           ├── HS_CPTAC_UCEC_microRNA_log2_Normal.cct
+│   │           ├── HS_CPTAC_UCEC_microRNA_log2_Tumor.cct
+│   │           ├── HS_CPTAC_UCEC_Phosphoproteomics_site_level_log2_Normal.cct
+│   │           ├── HS_CPTAC_UCEC_Phosphoproteomics_site_level_log2_Tumor.cct
+│   │           ├── HS_CPTAC_UCEC_Proteomics_TMT_gene_level_Normal.cct
+│   │           ├── HS_CPTAC_UCEC_Proteomics_TMT_gene_level_Tumor.cct
+│   │           ├── HS_CPTAC_UCEC_RNAseq_RSEM_UQ_log2_Normal.cct
+│   │           ├── HS_CPTAC_UCEC_RNAseq_RSEM_UQ_log2_Tumor.cct
+│   │           ├── HS_CPTAC_UCEC_SCNA_log2_gene_level.cct
+│   │           ├── HS_CPTAC_UCEC_SomaticMutations_gene_level.cbt
+│   │           ├── HS_CPTAC_UCEC_SomaticMutations_site_level.cbt
+│   │           └── UCEC_somatic_mutation_site_level_V2.1.maf
+│   ├── cptac_coad
+│   │   ├── download_log.txt
+│   │   ├── processed_data
+│   │   │   ├── cptac-coad_clinical_processed.csv
+│   │   │   ├── cptac-coad_proteome_normal_processed.csv
+│   │   │   ├── cptac-coad_proteome_processed.csv
+│   │   │   ├── cptac-coad_rnaseq_normal_processed.csv
+│   │   │   └── cptac-coad_rnaseq_processed.csv
+│   │   └── raw_data
+│   │       ├── final_oncotator_all.maf
+│   │       ├── Human__CPTAC_COAD__MS__Clinical__Clinical__03_01_2017__CPTAC__Clinical__BCM.tsi
+│   │       ├── Human__CPTAC_COAD__PNNL__Phosphoproteome__TMT__03_01_2017__BCM__Site__Normal_PNNL_TMT_LogRatio.cct.gz
+│   │       ├── Human__CPTAC_COAD__PNNL__Phosphoproteome__TMT__03_01_2017__BCM__Site__Tumor_Normal_log2FC.cct.gz
+│   │       ├── Human__CPTAC_COAD__PNNL__Phosphoproteome__TMT__03_01_2017__BCM__Site__Tumor_PNNL_TMT_LogRatio.cct.gz
+│   │       ├── Human__CPTAC_COAD__PNNL__Proteome__TMT__03_01_2017__BCM__Gene__PNNL_Normal_TMT_UnsharedLogRatio.cct
+│   │       ├── Human__CPTAC_COAD__PNNL__Proteome__TMT__03_01_2017__BCM__Gene__PNNL_Tumor_TMT_UnsharedLogRatio.cct
+│   │       ├── Human__CPTAC_COAD__PNNL__Proteome__TMT__03_01_2017__BCM__Gene__Tumor_Normal_log2FC.cct
+│   │       ├── Human__CPTAC_COAD__UNC__miRNAseq__GA_miR__03_01_2017__BCM__Gene__BCM_log2.cct
+│   │       ├── Human__CPTAC_COAD__UNC__RNAseq__HiSeq_RNA__03_01_2017__BCM__Gene__BCM_RSEM_UpperQuartile_log2.cct.gz
+│   │       ├── Human__CPTAC_COAD__VU__Proteome__QExact__03_01_2017__BCM__Gene__VU_Tumor_LF_UnsharedCounts.cct
+│   │       ├── Human__CPTAC_COAD__VU__SCNA__ExomeSeq__01_28_2016__BCM__Gene__BCM_CopyWriteR_GISTIC2_threshold.cct.gz
+│   │       ├── Human__CPTAC_COAD__VU__SCNA__ExomeSeq__01_28_2016__BCM__Gene__BCM_CopyWriteR_GISTIC2.cct.gz
+│   │       ├── Human__CPTAC_COAD__WUSM__Mutation__GAIIx__03_01_2017__BCM__Gene__GATK_Pipeline.cbt
+│   │       └── Human__CPTAC_COAD__WUSM__Mutation__GAIIx__03_01_2017__BCM__Site__GATK_Pipeline.cbt
+│   ├── cptac_gbm
+│   │   ├── processed_data
+│   │   │   ├── cptac_gbm_clinical_processed.csv
+│   │   │   ├── cptac_gbm_copy_number_processed.csv
+│   │   │   ├── cptac_gbm_integrated_multiomics.csv
+│   │   │   ├── cptac_gbm_integration_results.txt
+│   │   │   ├── cptac_gbm_mirna_processed.csv
+│   │   │   ├── cptac_gbm_proteome_processed.csv
+│   │   │   ├── cptac_gbm_rnaseq_processed.csv
+│   │   │   └── cptac_gbm_selected_features.csv
+│   │   └── raw_data
+│   │       ├── acetylome
+│   │       ├── circular_rna
+│   │       ├── clinical
+│   │       │   └── cptac_gbm_clinical.tsi
+│   │       ├── copy_number
+│   │       │   └── cptac_gbm_wgs_somatic_cnv_per_gene.cct
+│   │       ├── mirna
+│   │       │   └── cptac_gbm_mirna_mature_tpm_log2.cct
+│   │       ├── mutation
+│   │       ├── phosphoproteome
+│   │       │   └── cptac_gbm_phosphoproteome_mssm_site.cct
+│   │       ├── proteome
+│   │       │   └── cptac_gbm_proteome_mssm_per_gene.cct
+│   │       └── rnaseq
+│   │           └── cptac_gbm_rnaseq_fpkm_uq_log2.cct
+│   ├── cptac_hnscc
+│   │   ├── download_log.txt
+│   │   ├── processed_data
+│   │   │   ├── cptac-hnscc_clinical_processed.csv
+│   │   │   ├── cptac-hnscc_proteome_normal_processed.csv
+│   │   │   ├── cptac-hnscc_proteome_processed.csv
+│   │   │   ├── cptac-hnscc_rnaseq_normal_processed.csv
+│   │   │   └── cptac-hnscc_rnaseq_processed.csv
+│   │   └── raw_data
+│   │       ├── HS_CPTAC_HNSCC_circRNAseq_RSEM_UQ_log2_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_circRNAseq_RSEM_UQ_log2_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_CLI.tsi
+│   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Gene_level_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Gene_level_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Probe_level_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_Methylation_betaValue_Probe_level_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_microRNA_log2_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_microRNA_log2_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_Gene_level_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_Gene_level_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_peptide_level_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_peptide_level_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_site_level_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_Phosphoproteomics_TMT_site_level_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_Proteomics_TMT_Gene_level_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_Proteomics_TMT_Gene_level_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_RNAseq_isoform_FPKM_Log2_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_RNAseq_isoform_FPKM_Log2_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_RNAseq_RSEM_UQ_log2_Normal.cct
+│   │       ├── HS_CPTAC_HNSCC_RNAseq_RSEM_UQ_log2_Tumor.cct
+│   │       ├── HS_CPTAC_HNSCC_SCNA_call_gene_level.cct
+│   │       ├── HS_CPTAC_HNSCC_SCNA_log2_gene_level.cct
+│   │       ├── HS_CPTAC_HNSCC_SCNA_log2_segment_level.cct
+│   │       ├── HS_CPTAC_HNSCC_SomaticMutations_gene_level.cbt
+│   │       └── HS_CPTAC_HNSCC_SomaticMutations_site_level.cbt
+│   ├── cptac_lscc
+│   │   ├── download_log.txt
+│   │   ├── processed_data
+│   │   │   ├── cptac-lscc_clinical_processed.csv
+│   │   │   ├── cptac-lscc_proteome_normal_processed.csv
+│   │   │   ├── cptac-lscc_proteome_processed.csv
+│   │   │   ├── cptac-lscc_rnaseq_normal_processed.csv
+│   │   │   └── cptac-lscc_rnaseq_processed.csv
+│   │   └── raw_data
+│   │       ├── HS_CPTAC_LSCC_2020_acetyl_ratio_norm_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LSCC_2020_acetyl_ratio_norm_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LSCC_2020_ciRNA_rsem_uq_log2_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LSCC_2020_ciRNA_rsem_uq_log2_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LSCC_2020_clinical_phenotypes_NORMAL.tsi
+│   │       ├── HS_CPTAC_LSCC_2020_clinical_phenotypes_TUMOR.tsi
+│   │       ├── HS_CPTAC_LSCC_2020_cnv_gene_gistic2_log_ratio.cct
+│   │       ├── HS_CPTAC_LSCC_2020_methylation_mean_gene_normal.cct
+│   │       ├── HS_CPTAC_LSCC_2020_methylation_mean_gene_tumor.cct
+│   │       ├── HS_CPTAC_LSCC_2020_miRNA_tpm_log2_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LSCC_2020_miRNA_tpm_log2_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LSCC_2020_molecular_phenotypes_NORMAL.tsi
+│   │       ├── HS_CPTAC_LSCC_2020_molecular_phenotypes_TUMOR.tsi
+│   │       ├── HS_CPTAC_LSCC_2020_phospho_ratio_norm_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LSCC_2020_phospho_ratio_norm_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LSCC_2020_proteome_ratio_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LSCC_2020_proteome_ratio_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LSCC_2020_rnaseq_uq_fpkm_log2_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LSCC_2020_rnaseq_uq_fpkm_log2_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LSCC_2020_somatic_mutation_gene.cbt
+│   │       ├── HS_CPTAC_LSCC_2020_ubiquitin_ratio_norm_NArm_NORMAL.cct
+│   │       └── HS_CPTAC_LSCC_2020_ubiquitin_ratio_norm_NArm_TUMOR.cct
+│   ├── cptac_luad
+│   │   ├── download_log.txt
+│   │   ├── processed_data
+│   │   │   ├── cptac-luad_clinical_processed.csv
+│   │   │   ├── cptac-luad_proteome_normal_processed.csv
+│   │   │   ├── cptac-luad_proteome_processed.csv
+│   │   │   ├── cptac-luad_rnaseq_normal_processed.csv
+│   │   │   └── cptac-luad_rnaseq_processed.csv
+│   │   └── raw_data
+│   │       ├── HS_CPTAC_LUAD_acetylproteome_ratio_norm_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LUAD_acetylproteome_ratio_norm_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LUAD_cli.tsi
+│   │       ├── HS_CPTAC_LUAD_cnv_gene_LR.cct
+│   │       ├── HS_CPTAC_LUAD_cnv_gene_MZD.cct
+│   │       ├── HS_CPTAC_LUAD_methylation_mean_gene_normal.cct
+│   │       ├── HS_CPTAC_LUAD_methylation_mean_gene_tumor.cct
+│   │       ├── HS_CPTAC_LUAD_phosphoproteome_ratio_norm_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LUAD_phosphoproteome_ratio_norm_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LUAD_proteome_ratio_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LUAD_proteome_ratio_NArm_TUMOR.cct
+│   │       ├── HS_CPTAC_LUAD_rnaseq_uq_rpkm_log2_NArm_NORMAL.cct
+│   │       ├── HS_CPTAC_LUAD_rnaseq_uq_rpkm_log2_NArm_TUMOR.cct
+│   │       └── HS_CPTAC_LUAD_somatic_mutation_gene.cbt
+│   └── cptac_ucec
+│       ├── download_log.txt
+│       ├── processed_data
+│       │   ├── cptac-ucec_clinical_processed.csv
+│       │   ├── cptac-ucec_proteome_normal_processed.csv
+│       │   ├── cptac-ucec_proteome_processed.csv
+│       │   ├── cptac-ucec_rnaseq_normal_processed.csv
+│       │   └── cptac-ucec_rnaseq_processed.csv
+│       └── raw_data
+│           ├── HS_CPTAC_UCEC_Acetylproteomics_site_level_log2_Normal.cct
+│           ├── HS_CPTAC_UCEC_Acetylproteomics_site_level_log2_Tumor.cct
+│           ├── HS_CPTAC_UCEC_circRNAseq_RSEM_UQ_log2_Normal.cct
+│           ├── HS_CPTAC_UCEC_circRNAseq_RSEM_UQ_log2_Tumor.cct
+│           ├── HS_CPTAC_UCEC_CLI.txt
+│           ├── HS_CPTAC_UCEC_Methylation_betaValue_gene_level_mean.cct
+│           ├── HS_CPTAC_UCEC_microRNA_log2_Normal.cct
+│           ├── HS_CPTAC_UCEC_microRNA_log2_Tumor.cct
+│           ├── HS_CPTAC_UCEC_Phosphoproteomics_site_level_log2_Normal.cct
+│           ├── HS_CPTAC_UCEC_Phosphoproteomics_site_level_log2_Tumor.cct
+│           ├── HS_CPTAC_UCEC_Proteomics_TMT_gene_level_Normal.cct
+│           ├── HS_CPTAC_UCEC_Proteomics_TMT_gene_level_Tumor.cct
+│           ├── HS_CPTAC_UCEC_RNAseq_RSEM_UQ_log2_Normal.cct
+│           ├── HS_CPTAC_UCEC_RNAseq_RSEM_UQ_log2_Tumor.cct
+│           ├── HS_CPTAC_UCEC_SCNA_log2_gene_level.cct
+│           ├── HS_CPTAC_UCEC_SomaticMutations_gene_level.cbt
+│           ├── HS_CPTAC_UCEC_SomaticMutations_site_level.cbt
+│           └── UCEC_somatic_mutation_site_level_V2.1.maf
+├── DLBC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_DLBC.csv
+│   ├── TCGA_copy_number_DLBC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_DLBC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_DLBC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_DLBC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_DLBC_immune_proteins_with_metadata.csv
+├── ESCA
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_ESCA.csv
+│   ├── TCGA_copy_number_ESCA_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_ESCA_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_ESCA_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_ESCA_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_ESCA_immune_proteins_with_metadata.csv
+├── GBM
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_GBM.csv
+│   ├── TCGA_copy_number_GBM_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_GBM_immune_sites_with_metadata.csv
+│   ├── TCGA_rnaseq_GBM_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_GBM_immune_proteins_with_metadata.csv
+├── GBMLGG
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_GBMLGG.csv
+│   ├── TCGA_copy_number_GBMLGG_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_GBMLGG_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_GBMLGG_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_GBMLGG_immune_markers_with_metadata.csv
+├── HNSC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_HNSC.csv
+│   ├── TCGA_copy_number_HNSC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_HNSC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_HNSC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_HNSC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_HNSC_immune_proteins_with_metadata.csv
+├── KICH
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_KICH.csv
+│   ├── TCGA_methylation_KICH_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_KICH_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_KICH_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_KICH_immune_proteins_with_metadata.csv
+├── KIPAN
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_KIPAN.csv
+│   ├── TCGA_copy_number_KIPAN_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_KIPAN_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_KIPAN_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_KIPAN_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_KIPAN_immune_proteins_with_metadata.csv
+├── KIRC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_KIRC.csv
+│   ├── TCGA_copy_number_KIRC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_KIRC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_KIRC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_KIRC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_KIRC_immune_proteins_with_metadata.csv
+├── KIRP
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_KIRP.csv
+│   ├── TCGA_copy_number_KIRP_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_KIRP_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_KIRP_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_KIRP_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_KIRP_immune_proteins_with_metadata.csv
+├── LAML
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_LAML.csv
+│   ├── TCGA_methylation_LAML_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_LAML_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_LAML_immune_markers_with_metadata.csv
+├── LGG
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_LGG.csv
+│   ├── TCGA_copy_number_LGG_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_LGG_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_LGG_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_LGG_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_LGG_immune_proteins_with_metadata.csv
+├── LIHC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_LIHC.csv
+│   ├── TCGA_copy_number_LIHC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_LIHC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_LIHC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_LIHC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_LIHC_immune_proteins_with_metadata.csv
+├── LUAD
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_LUAD.csv
+│   ├── TCGA_copy_number_LUAD_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_LUAD_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_LUAD_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_LUAD_immune_markers_with_metadata.csv
+├── LUSC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_LUSC.csv
+│   ├── TCGA_copy_number_LUSC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_LUSC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_LUSC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_LUSC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_LUSC_immune_proteins_with_metadata.csv
+├── MESO
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_MESO.csv
+│   ├── TCGA_copy_number_MESO_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_MESO_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_MESO_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_MESO_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_MESO_immune_proteins_with_metadata.csv
+├── output.txt
+├── OV
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_OV.csv
+│   ├── TCGA_copy_number_OV_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_OV_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_OV_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_OV_immune_markers_with_metadata.csv
+├── PAAD
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_PAAD.csv
+│   ├── TCGA_copy_number_PAAD_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_PAAD_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_PAAD_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_PAAD_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_PAAD_immune_proteins_with_metadata.csv
+├── PCPG
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_PCPG.csv
+│   ├── TCGA_copy_number_PCPG_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_PCPG_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_PCPG_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_PCPG_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_PCPG_immune_proteins_with_metadata.csv
+├── PRAD
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_PRAD.csv
+│   ├── TCGA_copy_number_PRAD_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_PRAD_immune_sites_with_metadata.csv
+│   ├── TCGA_rnaseq_PRAD_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_PRAD_immune_proteins_with_metadata.csv
+├── SARC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── SUMMARY.md
+│   ├── TCGA_clinical_SARC.csv
+│   ├── TCGA_copy_number_SARC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_SARC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_SARC_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_SARC_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_SARC_immune_proteins_with_metadata.csv
+├── SKCM
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_SKCM.csv
+│   ├── TCGA_copy_number_SKCM_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_SKCM_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_SKCM_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_SKCM_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_SKCM_immune_proteins_with_metadata.csv
+├── STAD
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_STAD.csv
+│   ├── TCGA_copy_number_STAD_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_STAD_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_STAD_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_STAD_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_STAD_immune_proteins_with_metadata.csv
+├── STES
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_STES.csv
+│   ├── TCGA_copy_number_STES_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_STES_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_STES_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_STES_immune_markers_with_metadata.csv
+├── TGCT
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_TGCT.csv
+│   ├── TCGA_copy_number_TGCT_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_TGCT_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_TGCT_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_TGCT_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_TGCT_immune_proteins_with_metadata.csv
+├── THCA
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_THCA.csv
+│   ├── TCGA_copy_number_THCA_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_THCA_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_THCA_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_THCA_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_THCA_immune_proteins_with_metadata.csv
+├── THYM
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_THYM.csv
+│   ├── TCGA_copy_number_THYM_immune_features_with_metadata.csv
+│   ├── TCGA_mirna_THYM_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_THYM_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_THYM_immune_proteins_with_metadata.csv
+├── train.py
+├── UCEC
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── SUMMARY.md
+│   ├── TCGA_clinical_UCEC.csv
+│   ├── TCGA_copy_number_UCEC_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_UCEC_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_UCEC_immune_markers_with_metadata.csv
+│   └── TCGA_rnaseq_UCEC_immune_markers_with_metadata.csv
+├── UCS
+│   ├── CLINICAL_SUMMARY.md
+│   ├── MULTIOMICS_SUMMARY.md
+│   ├── TCGA_clinical_UCS.csv
+│   ├── TCGA_copy_number_UCS_immune_features_with_metadata.csv
+│   ├── TCGA_methylation_UCS_immune_sites_with_metadata.csv
+│   ├── TCGA_mirna_UCS_immune_markers_with_metadata.csv
+│   ├── TCGA_rnaseq_UCS_immune_markers_with_metadata.csv
+│   └── TCGA_rppa_UCS_immune_proteins_with_metadata.csv
+└── UVM
+    ├── CLINICAL_SUMMARY.md
+    ├── MULTIOMICS_SUMMARY.md
+    ├── TCGA_clinical_UVM.csv
+    ├── TCGA_copy_number_UVM_immune_features_with_metadata.csv
+    ├── TCGA_methylation_UVM_immune_sites_with_metadata.csv
+    ├── TCGA_mirna_UVM_immune_markers_with_metadata.csv
+    └── TCGA_rnaseq_UVM_immune_markers_with_metadata.csv
+
+95 directories, 563 files

@@ -1,0 +1,52 @@
+# Task Data Requirements
+
+This document outlines the data requirements for the 'til', 'response', and 'survival' tasks based on the current codebase.
+
+---
+
+## 1. 'response' Task
+
+**Purpose:** Binary classification (e.g., patient responded to treatment or not).
+
+**Data Source:** Expected to come from the clinical CSV files processed by `label_feature.py`.
+
+**Specific Requirements:**
+-   **Column Name:** The clinical CSV must contain a column named `response_label`.
+-   **Values:** This column should contain binary values (e.g., `0` or `1`).
+-   **Missing Data:** If a patient does not have a `response_label` or if its value is invalid/missing, `dataset.py` will default it to `-1.0`. The training loop will mask out these `-1.0` values, meaning patients without valid response data will not contribute to the 'response' task training.
+-   **Format in `label_dict`:** A single float tensor (e.g., `torch.tensor([0.0])` or `torch.tensor([1.0])`).
+
+---
+
+## 2. 'survival' Task
+
+**Purpose:** Survival prediction (time until an event, and whether the event occurred).
+
+**Data Source:** Expected to come from the clinical CSV files processed by `label_feature.py`.
+
+**Specific Requirements:**
+-   **Column Names:** The clinical CSV must contain columns named `status` and `overall_survival`.
+-   **`status` Values:** Should indicate whether the event occurred (e.g., `1` for 'Dead', `0` for 'Alive'). `label_feature.py` currently maps 'Dead' to 1 and 'Alive' to 0.
+-   **`overall_survival` Values:** Should be a numeric value representing time (e.g., days, months).
+-   **Missing Data:** If `status` or `overall_survival` are missing for a patient, `label_feature.py` will drop that patient. `dataset.py` will default `status_label` and `survival_time` to `-1.0` if they are not found in `label_dict`.
+-   **Format in `label_dict`:** Single float tensors (e.g., `torch.tensor([0.0])` or `torch.tensor([1.0])` for status, and `torch.tensor([123.45])` for survival time).
+
+---
+
+## 3. 'til' Task
+
+**Purpose:** Multi-class classification (e.g., classifying TILs into 4 categories).
+
+**Data Source:** **Currently problematic.** The `label_feature.py` script does **not** currently extract any 'til' specific labels from your clinical CSVs.
+
+**Specific Requirements:**
+-   **Missing Source:** As implemented, `dataset.py` defaults `til_label` to `torch.tensor([0, 0, 0, 0], dtype=torch.float32)` if no 'til' key is found in `label_dict`.
+-   **Impact:** If you train for the 'til' task with the current setup, your model will always be learning to predict `[0, 0, 0, 0]`, which will result in meaningless training and evaluation.
+-   **To Enable:** You need to:
+    1.  Identify a data source for your 4-class TIL labels (e.g., another column in your clinical CSVs, or a separate file).
+    2.  Modify `label_feature.py` to read and process these TIL labels, storing them under the 'til' key in the `label_dict` as a 4-element float tensor (e.g., `torch.tensor([0.0, 1.0, 0.0, 0.0])` for a one-hot encoded label, or `torch.tensor([class_index])` if you prefer integer labels and adjust the loss function accordingly).
+
+---
+
+**Recommendation:**
+Given that your 'response' task currently has no valid labels and the 'til' task has no data source, the 'survival' task is the most likely to work with your existing data, assuming your clinical CSVs have valid `status` and `overall_survival` columns.

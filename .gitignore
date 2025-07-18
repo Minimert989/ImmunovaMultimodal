@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyTorch
+*.pth
+*.pt
+
+# Data files
+*.pkl
+*.h5
+*.hdf5
+*.csv
+*.npy
+*.joblib
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large data directories
+*/data/
+*/datasets/
+*/models/
+**/cptac_zipped/
+**/label_feature/*.pkl
+**/omics_feature/*.pkl
+**/wsi_feature/*.pkl
+
+# Model weights and checkpoints
+model.pth
+til_model.pth
+*.pth
+*.pt
+*.ckpt
+
+# Patient data
+patient_data_modality_status.csv

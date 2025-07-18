@@ -1,0 +1,8612 @@
+{
+  "acc": {
+    "TCGA-OR-A5J5": {
+      "num_patches": 36,
+      "file": "TCGA-OR-A5J5.pt"
+    },
+    "TCGA-OR-A5J7": {
+      "num_patches": 2000,
+      "file": "TCGA-OR-A5J7.pt"
+    },
+    "TCGA-OR-A5J8": {
+      "num_patches": 219,
+      "file": "TCGA-OR-A5J8.pt"
+    },
+    "TCGA-OR-A5JA": {
+      "num_patches": 1816,
+      "file": "TCGA-OR-A5JA.pt"
+    },
+    "TCGA-OR-A5JF": {
+      "num_patches": 2000,
+      "file": "TCGA-OR-A5JF.pt"
+    },
+    "TCGA-OR-A5JG": {
+      "num_patches": 1470,
+      "file": "TCGA-OR-A5JG.pt"
+    },
+    "TCGA-OR-A5JM": {
+      "num_patches": 2000,
+      "file": "TCGA-OR-A5JM.pt"
+    },
+    "TCGA-OR-A5JQ": {
+      "num_patches": 1084,
+      "file": "TCGA-OR-A5JQ.pt"
+    },
+    "TCGA-OR-A5JW": {
+      "num_patches": 2000,
+      "file": "TCGA-OR-A5JW.pt"
+    },
+    "TCGA-OR-A5JY": {
+      "num_patches": 963,
+      "file": "TCGA-OR-A5JY.pt"
+    },
+    "TCGA-OR-A5JZ": {
+      "num_patches": 386,
+      "file": "TCGA-OR-A5JZ.pt"
+    },
+    "TCGA-OR-A5K0": {
+      "num_patches": 2000,
+      "file": "TCGA-OR-A5K0.pt"
+    },
+    "TCGA-OR-A5K8": {
+      "num_patches": 1385,
+      "file": "TCGA-OR-A5K8.pt"
+    },
+    "TCGA-OR-A5LM": {
+      "num_patches": 1567,
+      "file": "TCGA-OR-A5LM.pt"
+    },
+    "TCGA-OR-A5LO": {
+      "num_patches": 2000,
+      "file": "TCGA-OR-A5LO.pt"
+    },
+    "TCGA-OR-A5LS": {
+      "num_patches": 1044,
+      "file": "TCGA-OR-A5LS.pt"
+    },
+    "TCGA-OU-A5PI": {
+      "num_patches": 24,
+      "file": "TCGA-OU-A5PI.pt"
+    },
+    "TCGA-P6-A5OG": {
+      "num_patches": 31,
+      "file": "TCGA-P6-A5OG.pt"
+    },
+    "TCGA-PA-A5YG": {
+      "num_patches": 15,
+      "file": "TCGA-PA-A5YG.pt"
+    },
+    "TCGA-PK-A5H8": {
+      "num_patches": 1681,
+      "file": "TCGA-PK-A5H8.pt"
+    },
+    "TCGA-PK-A5HA": {
+      "num_patches": 28,
+      "file": "TCGA-PK-A5HA.pt"
+    },
+    "TCGA-PK-A5HC": {
+      "num_patches": 1541,
+      "file": "TCGA-PK-A5HC.pt"
+    }
+  },
+  "blca": {
+    "TCGA-2F-A9KP": {
+      "num_patches": 1,
+      "file": "TCGA-2F-A9KP.pt"
+    },
+    "TCGA-2F-A9KW": {
+      "num_patches": 1,
+      "file": "TCGA-2F-A9KW.pt"
+    },
+    "TCGA-4Z-AA7Q": {
+      "num_patches": 1,
+      "file": "TCGA-4Z-AA7Q.pt"
+    },
+    "TCGA-4Z-AA80": {
+      "num_patches": 1,
+      "file": "TCGA-4Z-AA80.pt"
+    },
+    "TCGA-4Z-AA86": {
+      "num_patches": 1,
+      "file": "TCGA-4Z-AA86.pt"
+    },
+    "TCGA-5N-A9KM": {
+      "num_patches": 1,
+      "file": "TCGA-5N-A9KM.pt"
+    },
+    "TCGA-BL-A13J": {
+      "num_patches": 1,
+      "file": "TCGA-BL-A13J.pt"
+    },
+    "TCGA-BT-A0YX": {
+      "num_patches": 1,
+      "file": "TCGA-BT-A0YX.pt"
+    },
+    "TCGA-BT-A20Q": {
+      "num_patches": 1,
+      "file": "TCGA-BT-A20Q.pt"
+    },
+    "TCGA-BT-A2LA": {
+      "num_patches": 1,
+      "file": "TCGA-BT-A2LA.pt"
+    },
+    "TCGA-BT-A2LD": {
+      "num_patches": 1,
+      "file": "TCGA-BT-A2LD.pt"
+    },
+    "TCGA-BT-A42B": {
+      "num_patches": 1,
+      "file": "TCGA-BT-A42B.pt"
+    },
+    "TCGA-BT-A42F": {
+      "num_patches": 1,
+      "file": "TCGA-BT-A42F.pt"
+    },
+    "TCGA-CF-A3MG": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A3MG.pt"
+    },
+    "TCGA-CF-A3MH": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A3MH.pt"
+    },
+    "TCGA-CF-A47S": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A47S.pt"
+    },
+    "TCGA-CF-A47X": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A47X.pt"
+    },
+    "TCGA-CF-A47Y": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A47Y.pt"
+    },
+    "TCGA-CF-A8HX": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A8HX.pt"
+    },
+    "TCGA-CF-A9FM": {
+      "num_patches": 1,
+      "file": "TCGA-CF-A9FM.pt"
+    },
+    "TCGA-CU-A3KJ": {
+      "num_patches": 1,
+      "file": "TCGA-CU-A3KJ.pt"
+    },
+    "TCGA-CU-A5W6": {
+      "num_patches": 1,
+      "file": "TCGA-CU-A5W6.pt"
+    },
+    "TCGA-E5-A2PC": {
+      "num_patches": 1,
+      "file": "TCGA-E5-A2PC.pt"
+    },
+    "TCGA-E5-A4U1": {
+      "num_patches": 1,
+      "file": "TCGA-E5-A4U1.pt"
+    },
+    "TCGA-E7-A519": {
+      "num_patches": 1,
+      "file": "TCGA-E7-A519.pt"
+    },
+    "TCGA-E7-A7DU": {
+      "num_patches": 1,
+      "file": "TCGA-E7-A7DU.pt"
+    },
+    "TCGA-FD-A3B7": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A3B7.pt"
+    },
+    "TCGA-FD-A3N5": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A3N5.pt"
+    },
+    "TCGA-FD-A3N6": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A3N6.pt"
+    },
+    "TCGA-FD-A3SL": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A3SL.pt"
+    },
+    "TCGA-FD-A3SN": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A3SN.pt"
+    },
+    "TCGA-FD-A3SQ": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A3SQ.pt"
+    },
+    "TCGA-FD-A5BY": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A5BY.pt"
+    },
+    "TCGA-FD-A5C0": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A5C0.pt"
+    },
+    "TCGA-FD-A62S": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A62S.pt"
+    },
+    "TCGA-FD-A6TG": {
+      "num_patches": 1,
+      "file": "TCGA-FD-A6TG.pt"
+    },
+    "TCGA-FJ-A3Z7": {
+      "num_patches": 3,
+      "file": "TCGA-FJ-A3Z7.pt"
+    },
+    "TCGA-FJ-A3ZF": {
+      "num_patches": 1,
+      "file": "TCGA-FJ-A3ZF.pt"
+    },
+    "TCGA-FJ-A871": {
+      "num_patches": 2,
+      "file": "TCGA-FJ-A871.pt"
+    },
+    "TCGA-G2-A2EC": {
+      "num_patches": 2,
+      "file": "TCGA-G2-A2EC.pt"
+    },
+    "TCGA-G2-A2EF": {
+      "num_patches": 1,
+      "file": "TCGA-G2-A2EF.pt"
+    },
+    "TCGA-G2-A2EJ": {
+      "num_patches": 2,
+      "file": "TCGA-G2-A2EJ.pt"
+    },
+    "TCGA-G2-A2EK": {
+      "num_patches": 2,
+      "file": "TCGA-G2-A2EK.pt"
+    },
+    "TCGA-G2-A2EO": {
+      "num_patches": 1,
+      "file": "TCGA-G2-A2EO.pt"
+    },
+    "TCGA-G2-A3IB": {
+      "num_patches": 1,
+      "file": "TCGA-G2-A3IB.pt"
+    },
+    "TCGA-G2-A3VY": {
+      "num_patches": 1,
+      "file": "TCGA-G2-A3VY.pt"
+    },
+    "TCGA-G2-AA3B": {
+      "num_patches": 3,
+      "file": "TCGA-G2-AA3B.pt"
+    },
+    "TCGA-G2-AA3F": {
+      "num_patches": 1,
+      "file": "TCGA-G2-AA3F.pt"
+    },
+    "TCGA-GC-A3WC": {
+      "num_patches": 1,
+      "file": "TCGA-GC-A3WC.pt"
+    },
+    "TCGA-GC-A6I3": {
+      "num_patches": 1,
+      "file": "TCGA-GC-A6I3.pt"
+    },
+    "TCGA-GU-A42P": {
+      "num_patches": 1,
+      "file": "TCGA-GU-A42P.pt"
+    },
+    "TCGA-GU-A42Q": {
+      "num_patches": 1,
+      "file": "TCGA-GU-A42Q.pt"
+    },
+    "TCGA-GV-A3QI": {
+      "num_patches": 1,
+      "file": "TCGA-GV-A3QI.pt"
+    },
+    "TCGA-GV-A3QK": {
+      "num_patches": 1,
+      "file": "TCGA-GV-A3QK.pt"
+    },
+    "TCGA-HQ-A5ND": {
+      "num_patches": 1,
+      "file": "TCGA-HQ-A5ND.pt"
+    },
+    "TCGA-K4-A3WU": {
+      "num_patches": 1,
+      "file": "TCGA-K4-A3WU.pt"
+    },
+    "TCGA-K4-A5RH": {
+      "num_patches": 1,
+      "file": "TCGA-K4-A5RH.pt"
+    },
+    "TCGA-K4-A6FZ": {
+      "num_patches": 1,
+      "file": "TCGA-K4-A6FZ.pt"
+    },
+    "TCGA-LT-A8JT": {
+      "num_patches": 1,
+      "file": "TCGA-LT-A8JT.pt"
+    },
+    "TCGA-PQ-A6FI": {
+      "num_patches": 1,
+      "file": "TCGA-PQ-A6FI.pt"
+    },
+    "TCGA-S5-A6DX": {
+      "num_patches": 1,
+      "file": "TCGA-S5-A6DX.pt"
+    },
+    "TCGA-UY-A78K": {
+      "num_patches": 1,
+      "file": "TCGA-UY-A78K.pt"
+    },
+    "TCGA-UY-A78P": {
+      "num_patches": 1,
+      "file": "TCGA-UY-A78P.pt"
+    },
+    "TCGA-UY-A8OC": {
+      "num_patches": 1,
+      "file": "TCGA-UY-A8OC.pt"
+    },
+    "TCGA-UY-A8OD": {
+      "num_patches": 1,
+      "file": "TCGA-UY-A8OD.pt"
+    },
+    "TCGA-UY-A9PA": {
+      "num_patches": 1,
+      "file": "TCGA-UY-A9PA.pt"
+    },
+    "TCGA-UY-A9PE": {
+      "num_patches": 1,
+      "file": "TCGA-UY-A9PE.pt"
+    },
+    "TCGA-XF-A8HD": {
+      "num_patches": 1,
+      "file": "TCGA-XF-A8HD.pt"
+    },
+    "TCGA-XF-A8HG": {
+      "num_patches": 1,
+      "file": "TCGA-XF-A8HG.pt"
+    },
+    "TCGA-XF-A9SH": {
+      "num_patches": 1,
+      "file": "TCGA-XF-A9SH.pt"
+    },
+    "TCGA-XF-A9SL": {
+      "num_patches": 1,
+      "file": "TCGA-XF-A9SL.pt"
+    },
+    "TCGA-XF-A9T4": {
+      "num_patches": 1,
+      "file": "TCGA-XF-A9T4.pt"
+    },
+    "TCGA-XF-AAMF": {
+      "num_patches": 1,
+      "file": "TCGA-XF-AAMF.pt"
+    },
+    "TCGA-XF-AAMH": {
+      "num_patches": 1,
+      "file": "TCGA-XF-AAMH.pt"
+    },
+    "TCGA-XF-AAMZ": {
+      "num_patches": 1,
+      "file": "TCGA-XF-AAMZ.pt"
+    },
+    "TCGA-XF-AAN2": {
+      "num_patches": 1,
+      "file": "TCGA-XF-AAN2.pt"
+    },
+    "TCGA-YC-A9TC": {
+      "num_patches": 1,
+      "file": "TCGA-YC-A9TC.pt"
+    }
+  },
+  "brca": {
+    "TCGA-3C-AALI": {
+      "num_patches": 280,
+      "file": "TCGA-3C-AALI.pt"
+    },
+    "TCGA-3C-AALJ": {
+      "num_patches": 328,
+      "file": "TCGA-3C-AALJ.pt"
+    },
+    "TCGA-4H-AAAK": {
+      "num_patches": 365,
+      "file": "TCGA-4H-AAAK.pt"
+    },
+    "TCGA-A1-A0SE": {
+      "num_patches": 2,
+      "file": "TCGA-A1-A0SE.pt"
+    },
+    "TCGA-A1-A0SK": {
+      "num_patches": 284,
+      "file": "TCGA-A1-A0SK.pt"
+    },
+    "TCGA-A1-A0SM": {
+      "num_patches": 1,
+      "file": "TCGA-A1-A0SM.pt"
+    },
+    "TCGA-A1-A0SN": {
+      "num_patches": 1,
+      "file": "TCGA-A1-A0SN.pt"
+    },
+    "TCGA-A2-A04P": {
+      "num_patches": 352,
+      "file": "TCGA-A2-A04P.pt"
+    },
+    "TCGA-A2-A04X": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A04X.pt"
+    },
+    "TCGA-A2-A04Y": {
+      "num_patches": 393,
+      "file": "TCGA-A2-A04Y.pt"
+    },
+    "TCGA-A2-A0CO": {
+      "num_patches": 54,
+      "file": "TCGA-A2-A0CO.pt"
+    },
+    "TCGA-A2-A0CR": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0CR.pt"
+    },
+    "TCGA-A2-A0CT": {
+      "num_patches": 250,
+      "file": "TCGA-A2-A0CT.pt"
+    },
+    "TCGA-A2-A0CW": {
+      "num_patches": 335,
+      "file": "TCGA-A2-A0CW.pt"
+    },
+    "TCGA-A2-A0CZ": {
+      "num_patches": 276,
+      "file": "TCGA-A2-A0CZ.pt"
+    },
+    "TCGA-A2-A0D3": {
+      "num_patches": 3,
+      "file": "TCGA-A2-A0D3.pt"
+    },
+    "TCGA-A2-A0EO": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0EO.pt"
+    },
+    "TCGA-A2-A0EQ": {
+      "num_patches": 99,
+      "file": "TCGA-A2-A0EQ.pt"
+    },
+    "TCGA-A2-A0ES": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0ES.pt"
+    },
+    "TCGA-A2-A0ET": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0ET.pt"
+    },
+    "TCGA-A2-A0EV": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0EV.pt"
+    },
+    "TCGA-A2-A0EW": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0EW.pt"
+    },
+    "TCGA-A2-A0SW": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0SW.pt"
+    },
+    "TCGA-A2-A0SY": {
+      "num_patches": 7,
+      "file": "TCGA-A2-A0SY.pt"
+    },
+    "TCGA-A2-A0T0": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0T0.pt"
+    },
+    "TCGA-A2-A0T1": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0T1.pt"
+    },
+    "TCGA-A2-A0T5": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0T5.pt"
+    },
+    "TCGA-A2-A0T6": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0T6.pt"
+    },
+    "TCGA-A2-A0YC": {
+      "num_patches": 2,
+      "file": "TCGA-A2-A0YC.pt"
+    },
+    "TCGA-A2-A0YH": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0YH.pt"
+    },
+    "TCGA-A2-A0YI": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A0YI.pt"
+    },
+    "TCGA-A2-A1G0": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A1G0.pt"
+    },
+    "TCGA-A2-A1G1": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A1G1.pt"
+    },
+    "TCGA-A2-A1G6": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A1G6.pt"
+    },
+    "TCGA-A2-A259": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A259.pt"
+    },
+    "TCGA-A2-A3XT": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A3XT.pt"
+    },
+    "TCGA-A2-A3XV": {
+      "num_patches": 1,
+      "file": "TCGA-A2-A3XV.pt"
+    },
+    "TCGA-A2-A3XZ": {
+      "num_patches": 2,
+      "file": "TCGA-A2-A3XZ.pt"
+    },
+    "TCGA-A2-A4RW": {
+      "num_patches": 2,
+      "file": "TCGA-A2-A4RW.pt"
+    },
+    "TCGA-A7-A0CE": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A0CE.pt"
+    },
+    "TCGA-A7-A0CJ": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A0CJ.pt"
+    },
+    "TCGA-A7-A0D9": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A0D9.pt"
+    },
+    "TCGA-A7-A0DA": {
+      "num_patches": 2,
+      "file": "TCGA-A7-A0DA.pt"
+    },
+    "TCGA-A7-A0DB": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A0DB.pt"
+    },
+    "TCGA-A7-A13F": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A13F.pt"
+    },
+    "TCGA-A7-A13G": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A13G.pt"
+    },
+    "TCGA-A7-A26E": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A26E.pt"
+    },
+    "TCGA-A7-A26J": {
+      "num_patches": 2,
+      "file": "TCGA-A7-A26J.pt"
+    },
+    "TCGA-A7-A3IY": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A3IY.pt"
+    },
+    "TCGA-A7-A3IZ": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A3IZ.pt"
+    },
+    "TCGA-A7-A3RF": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A3RF.pt"
+    },
+    "TCGA-A7-A5ZW": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A5ZW.pt"
+    },
+    "TCGA-A7-A5ZX": {
+      "num_patches": 1,
+      "file": "TCGA-A7-A5ZX.pt"
+    },
+    "TCGA-A7-A6VV": {
+      "num_patches": 2,
+      "file": "TCGA-A7-A6VV.pt"
+    },
+    "TCGA-A8-A06P": {
+      "num_patches": 3,
+      "file": "TCGA-A8-A06P.pt"
+    },
+    "TCGA-A8-A06Q": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A06Q.pt"
+    },
+    "TCGA-A8-A06R": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A06R.pt"
+    },
+    "TCGA-A8-A075": {
+      "num_patches": 2,
+      "file": "TCGA-A8-A075.pt"
+    },
+    "TCGA-A8-A07G": {
+      "num_patches": 1634,
+      "file": "TCGA-A8-A07G.pt"
+    },
+    "TCGA-A8-A07L": {
+      "num_patches": 8,
+      "file": "TCGA-A8-A07L.pt"
+    },
+    "TCGA-A8-A07O": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A07O.pt"
+    },
+    "TCGA-A8-A07W": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A07W.pt"
+    },
+    "TCGA-A8-A083": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A083.pt"
+    },
+    "TCGA-A8-A08B": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A08B.pt"
+    },
+    "TCGA-A8-A08J": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A08J.pt"
+    },
+    "TCGA-A8-A08T": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A08T.pt"
+    },
+    "TCGA-A8-A090": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A090.pt"
+    },
+    "TCGA-A8-A092": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A092.pt"
+    },
+    "TCGA-A8-A096": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A096.pt"
+    },
+    "TCGA-A8-A097": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A097.pt"
+    },
+    "TCGA-A8-A09W": {
+      "num_patches": 2,
+      "file": "TCGA-A8-A09W.pt"
+    },
+    "TCGA-A8-A0A1": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A0A1.pt"
+    },
+    "TCGA-A8-A0A2": {
+      "num_patches": 2,
+      "file": "TCGA-A8-A0A2.pt"
+    },
+    "TCGA-A8-A0A7": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A0A7.pt"
+    },
+    "TCGA-A8-A0A9": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A0A9.pt"
+    },
+    "TCGA-A8-A0AD": {
+      "num_patches": 1,
+      "file": "TCGA-A8-A0AD.pt"
+    },
+    "TCGA-AC-A23H": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A23H.pt"
+    },
+    "TCGA-AC-A2BK": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A2BK.pt"
+    },
+    "TCGA-AC-A2FG": {
+      "num_patches": 2,
+      "file": "TCGA-AC-A2FG.pt"
+    },
+    "TCGA-AC-A2QJ": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A2QJ.pt"
+    },
+    "TCGA-AC-A3EH": {
+      "num_patches": 2,
+      "file": "TCGA-AC-A3EH.pt"
+    },
+    "TCGA-AC-A3HN": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A3HN.pt"
+    },
+    "TCGA-AC-A3TN": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A3TN.pt"
+    },
+    "TCGA-AC-A3W5": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A3W5.pt"
+    },
+    "TCGA-AC-A3YI": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A3YI.pt"
+    },
+    "TCGA-AC-A3YJ": {
+      "num_patches": 10,
+      "file": "TCGA-AC-A3YJ.pt"
+    },
+    "TCGA-AC-A5XU": {
+      "num_patches": 2,
+      "file": "TCGA-AC-A5XU.pt"
+    },
+    "TCGA-AC-A62X": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A62X.pt"
+    },
+    "TCGA-AC-A6NO": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A6NO.pt"
+    },
+    "TCGA-AC-A7VB": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A7VB.pt"
+    },
+    "TCGA-AC-A8OQ": {
+      "num_patches": 1,
+      "file": "TCGA-AC-A8OQ.pt"
+    },
+    "TCGA-AN-A0AS": {
+      "num_patches": 1,
+      "file": "TCGA-AN-A0AS.pt"
+    },
+    "TCGA-AN-A0FS": {
+      "num_patches": 1,
+      "file": "TCGA-AN-A0FS.pt"
+    },
+    "TCGA-AN-A0FV": {
+      "num_patches": 1,
+      "file": "TCGA-AN-A0FV.pt"
+    },
+    "TCGA-AO-A03O": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A03O.pt"
+    },
+    "TCGA-AO-A03V": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A03V.pt"
+    },
+    "TCGA-AO-A0J7": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A0J7.pt"
+    },
+    "TCGA-AO-A0J9": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A0J9.pt"
+    },
+    "TCGA-AO-A0JB": {
+      "num_patches": 2,
+      "file": "TCGA-AO-A0JB.pt"
+    },
+    "TCGA-AO-A0JC": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A0JC.pt"
+    },
+    "TCGA-AO-A0JI": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A0JI.pt"
+    },
+    "TCGA-AO-A0JL": {
+      "num_patches": 2,
+      "file": "TCGA-AO-A0JL.pt"
+    },
+    "TCGA-AO-A12D": {
+      "num_patches": 2,
+      "file": "TCGA-AO-A12D.pt"
+    },
+    "TCGA-AO-A1KP": {
+      "num_patches": 3,
+      "file": "TCGA-AO-A1KP.pt"
+    },
+    "TCGA-AO-A1KQ": {
+      "num_patches": 2,
+      "file": "TCGA-AO-A1KQ.pt"
+    },
+    "TCGA-AO-A1KR": {
+      "num_patches": 1,
+      "file": "TCGA-AO-A1KR.pt"
+    },
+    "TCGA-AR-A0TR": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0TR.pt"
+    },
+    "TCGA-AR-A0TS": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0TS.pt"
+    },
+    "TCGA-AR-A0TU": {
+      "num_patches": 53,
+      "file": "TCGA-AR-A0TU.pt"
+    },
+    "TCGA-AR-A0TV": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0TV.pt"
+    },
+    "TCGA-AR-A0TX": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0TX.pt"
+    },
+    "TCGA-AR-A0U0": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0U0.pt"
+    },
+    "TCGA-AR-A0U1": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0U1.pt"
+    },
+    "TCGA-AR-A0U2": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A0U2.pt"
+    },
+    "TCGA-AR-A0U3": {
+      "num_patches": 3,
+      "file": "TCGA-AR-A0U3.pt"
+    },
+    "TCGA-AR-A1AI": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A1AI.pt"
+    },
+    "TCGA-AR-A1AJ": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A1AJ.pt"
+    },
+    "TCGA-AR-A1AQ": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A1AQ.pt"
+    },
+    "TCGA-AR-A1AS": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A1AS.pt"
+    },
+    "TCGA-AR-A1AT": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A1AT.pt"
+    },
+    "TCGA-AR-A1AU": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A1AU.pt"
+    },
+    "TCGA-AR-A24K": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A24K.pt"
+    },
+    "TCGA-AR-A24L": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A24L.pt"
+    },
+    "TCGA-AR-A24T": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A24T.pt"
+    },
+    "TCGA-AR-A24V": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A24V.pt"
+    },
+    "TCGA-AR-A24X": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A24X.pt"
+    },
+    "TCGA-AR-A252": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A252.pt"
+    },
+    "TCGA-AR-A2LE": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A2LE.pt"
+    },
+    "TCGA-AR-A2LK": {
+      "num_patches": 2,
+      "file": "TCGA-AR-A2LK.pt"
+    },
+    "TCGA-AR-A2LR": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A2LR.pt"
+    },
+    "TCGA-AR-A5QP": {
+      "num_patches": 1,
+      "file": "TCGA-AR-A5QP.pt"
+    },
+    "TCGA-B6-A0I5": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0I5.pt"
+    },
+    "TCGA-B6-A0IG": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0IG.pt"
+    },
+    "TCGA-B6-A0IO": {
+      "num_patches": 2,
+      "file": "TCGA-B6-A0IO.pt"
+    },
+    "TCGA-B6-A0IP": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0IP.pt"
+    },
+    "TCGA-B6-A0IQ": {
+      "num_patches": 47,
+      "file": "TCGA-B6-A0IQ.pt"
+    },
+    "TCGA-B6-A0RI": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0RI.pt"
+    },
+    "TCGA-B6-A0RP": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0RP.pt"
+    },
+    "TCGA-B6-A0WT": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0WT.pt"
+    },
+    "TCGA-B6-A0WV": {
+      "num_patches": 3,
+      "file": "TCGA-B6-A0WV.pt"
+    },
+    "TCGA-B6-A0WW": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0WW.pt"
+    },
+    "TCGA-B6-A0X1": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A0X1.pt"
+    },
+    "TCGA-B6-A1KC": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A1KC.pt"
+    },
+    "TCGA-B6-A1KF": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A1KF.pt"
+    },
+    "TCGA-B6-A1KI": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A1KI.pt"
+    },
+    "TCGA-B6-A1KN": {
+      "num_patches": 1,
+      "file": "TCGA-B6-A1KN.pt"
+    },
+    "TCGA-BH-A0AY": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0AY.pt"
+    },
+    "TCGA-BH-A0B3": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0B3.pt"
+    },
+    "TCGA-BH-A0BA": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0BA.pt"
+    },
+    "TCGA-BH-A0BG": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0BG.pt"
+    },
+    "TCGA-BH-A0BV": {
+      "num_patches": 3,
+      "file": "TCGA-BH-A0BV.pt"
+    },
+    "TCGA-BH-A0C1": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0C1.pt"
+    },
+    "TCGA-BH-A0C3": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0C3.pt"
+    },
+    "TCGA-BH-A0DE": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0DE.pt"
+    },
+    "TCGA-BH-A0DH": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0DH.pt"
+    },
+    "TCGA-BH-A0DI": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0DI.pt"
+    },
+    "TCGA-BH-A0DK": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0DK.pt"
+    },
+    "TCGA-BH-A0DP": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0DP.pt"
+    },
+    "TCGA-BH-A0DS": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0DS.pt"
+    },
+    "TCGA-BH-A0DV": {
+      "num_patches": 2,
+      "file": "TCGA-BH-A0DV.pt"
+    },
+    "TCGA-BH-A0DX": {
+      "num_patches": 2,
+      "file": "TCGA-BH-A0DX.pt"
+    },
+    "TCGA-BH-A0E2": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0E2.pt"
+    },
+    "TCGA-BH-A0E6": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0E6.pt"
+    },
+    "TCGA-BH-A0EA": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0EA.pt"
+    },
+    "TCGA-BH-A0EB": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0EB.pt"
+    },
+    "TCGA-BH-A0H0": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0H0.pt"
+    },
+    "TCGA-BH-A0H7": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0H7.pt"
+    },
+    "TCGA-BH-A0HN": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0HN.pt"
+    },
+    "TCGA-BH-A0HO": {
+      "num_patches": 2,
+      "file": "TCGA-BH-A0HO.pt"
+    },
+    "TCGA-BH-A0W4": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0W4.pt"
+    },
+    "TCGA-BH-A0W7": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A0W7.pt"
+    },
+    "TCGA-BH-A18H": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A18H.pt"
+    },
+    "TCGA-BH-A18J": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A18J.pt"
+    },
+    "TCGA-BH-A18L": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A18L.pt"
+    },
+    "TCGA-BH-A18M": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A18M.pt"
+    },
+    "TCGA-BH-A18U": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A18U.pt"
+    },
+    "TCGA-BH-A1EN": {
+      "num_patches": 2,
+      "file": "TCGA-BH-A1EN.pt"
+    },
+    "TCGA-BH-A1EO": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1EO.pt"
+    },
+    "TCGA-BH-A1ET": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1ET.pt"
+    },
+    "TCGA-BH-A1EV": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1EV.pt"
+    },
+    "TCGA-BH-A1EW": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1EW.pt"
+    },
+    "TCGA-BH-A1F2": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1F2.pt"
+    },
+    "TCGA-BH-A1FG": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1FG.pt"
+    },
+    "TCGA-BH-A1FU": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A1FU.pt"
+    },
+    "TCGA-BH-A202": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A202.pt"
+    },
+    "TCGA-BH-A209": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A209.pt"
+    },
+    "TCGA-BH-A2L8": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A2L8.pt"
+    },
+    "TCGA-BH-A42T": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A42T.pt"
+    },
+    "TCGA-BH-A42V": {
+      "num_patches": 1,
+      "file": "TCGA-BH-A42V.pt"
+    },
+    "TCGA-C8-A12L": {
+      "num_patches": 15,
+      "file": "TCGA-C8-A12L.pt"
+    },
+    "TCGA-C8-A12X": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A12X.pt"
+    },
+    "TCGA-C8-A135": {
+      "num_patches": 2,
+      "file": "TCGA-C8-A135.pt"
+    },
+    "TCGA-C8-A137": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A137.pt"
+    },
+    "TCGA-C8-A1HE": {
+      "num_patches": 2,
+      "file": "TCGA-C8-A1HE.pt"
+    },
+    "TCGA-C8-A1HG": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A1HG.pt"
+    },
+    "TCGA-C8-A1HO": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A1HO.pt"
+    },
+    "TCGA-C8-A26Z": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A26Z.pt"
+    },
+    "TCGA-C8-A275": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A275.pt"
+    },
+    "TCGA-C8-A8HP": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A8HP.pt"
+    },
+    "TCGA-C8-A8HQ": {
+      "num_patches": 21,
+      "file": "TCGA-C8-A8HQ.pt"
+    },
+    "TCGA-C8-A8HR": {
+      "num_patches": 1,
+      "file": "TCGA-C8-A8HR.pt"
+    },
+    "TCGA-D8-A141": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A141.pt"
+    },
+    "TCGA-D8-A143": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A143.pt"
+    },
+    "TCGA-D8-A1JC": {
+      "num_patches": 20,
+      "file": "TCGA-D8-A1JC.pt"
+    },
+    "TCGA-D8-A1JD": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1JD.pt"
+    },
+    "TCGA-D8-A1JF": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1JF.pt"
+    },
+    "TCGA-D8-A1JI": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1JI.pt"
+    },
+    "TCGA-D8-A1JP": {
+      "num_patches": 57,
+      "file": "TCGA-D8-A1JP.pt"
+    },
+    "TCGA-D8-A1JU": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1JU.pt"
+    },
+    "TCGA-D8-A1X5": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1X5.pt"
+    },
+    "TCGA-D8-A1X6": {
+      "num_patches": 2,
+      "file": "TCGA-D8-A1X6.pt"
+    },
+    "TCGA-D8-A1XB": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1XB.pt"
+    },
+    "TCGA-D8-A1XF": {
+      "num_patches": 2,
+      "file": "TCGA-D8-A1XF.pt"
+    },
+    "TCGA-D8-A1XJ": {
+      "num_patches": 2,
+      "file": "TCGA-D8-A1XJ.pt"
+    },
+    "TCGA-D8-A1XR": {
+      "num_patches": 2,
+      "file": "TCGA-D8-A1XR.pt"
+    },
+    "TCGA-D8-A1XS": {
+      "num_patches": 2,
+      "file": "TCGA-D8-A1XS.pt"
+    },
+    "TCGA-D8-A1XW": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1XW.pt"
+    },
+    "TCGA-D8-A1XZ": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1XZ.pt"
+    },
+    "TCGA-D8-A1Y0": {
+      "num_patches": 2,
+      "file": "TCGA-D8-A1Y0.pt"
+    },
+    "TCGA-D8-A1Y3": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A1Y3.pt"
+    },
+    "TCGA-D8-A27F": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A27F.pt"
+    },
+    "TCGA-D8-A27I": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A27I.pt"
+    },
+    "TCGA-D8-A27L": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A27L.pt"
+    },
+    "TCGA-D8-A27P": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A27P.pt"
+    },
+    "TCGA-D8-A3Z6": {
+      "num_patches": 4,
+      "file": "TCGA-D8-A3Z6.pt"
+    },
+    "TCGA-D8-A73U": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A73U.pt"
+    },
+    "TCGA-D8-A73W": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A73W.pt"
+    },
+    "TCGA-D8-A73X": {
+      "num_patches": 1,
+      "file": "TCGA-D8-A73X.pt"
+    },
+    "TCGA-E2-A106": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A106.pt"
+    },
+    "TCGA-E2-A10A": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A10A.pt"
+    },
+    "TCGA-E2-A10B": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A10B.pt"
+    },
+    "TCGA-E2-A14Q": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A14Q.pt"
+    },
+    "TCGA-E2-A14S": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A14S.pt"
+    },
+    "TCGA-E2-A14U": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A14U.pt"
+    },
+    "TCGA-E2-A14V": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A14V.pt"
+    },
+    "TCGA-E2-A154": {
+      "num_patches": 3,
+      "file": "TCGA-E2-A154.pt"
+    },
+    "TCGA-E2-A158": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A158.pt"
+    },
+    "TCGA-E2-A15E": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A15E.pt"
+    },
+    "TCGA-E2-A15F": {
+      "num_patches": 4,
+      "file": "TCGA-E2-A15F.pt"
+    },
+    "TCGA-E2-A15G": {
+      "num_patches": 2,
+      "file": "TCGA-E2-A15G.pt"
+    },
+    "TCGA-E2-A15P": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A15P.pt"
+    },
+    "TCGA-E2-A1B1": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1B1.pt"
+    },
+    "TCGA-E2-A1B4": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1B4.pt"
+    },
+    "TCGA-E2-A1IL": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1IL.pt"
+    },
+    "TCGA-E2-A1L7": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1L7.pt"
+    },
+    "TCGA-E2-A1L8": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1L8.pt"
+    },
+    "TCGA-E2-A1LA": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1LA.pt"
+    },
+    "TCGA-E2-A1LE": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1LE.pt"
+    },
+    "TCGA-E2-A1LI": {
+      "num_patches": 3,
+      "file": "TCGA-E2-A1LI.pt"
+    },
+    "TCGA-E2-A1LL": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1LL.pt"
+    },
+    "TCGA-E2-A1LS": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A1LS.pt"
+    },
+    "TCGA-E2-A56Z": {
+      "num_patches": 15,
+      "file": "TCGA-E2-A56Z.pt"
+    },
+    "TCGA-E2-A572": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A572.pt"
+    },
+    "TCGA-E2-A573": {
+      "num_patches": 1,
+      "file": "TCGA-E2-A573.pt"
+    },
+    "TCGA-E2-A574": {
+      "num_patches": 2,
+      "file": "TCGA-E2-A574.pt"
+    },
+    "TCGA-E9-A1N8": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1N8.pt"
+    },
+    "TCGA-E9-A1N9": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1N9.pt"
+    },
+    "TCGA-E9-A1NA": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1NA.pt"
+    },
+    "TCGA-E9-A1NF": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1NF.pt"
+    },
+    "TCGA-E9-A1NI": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1NI.pt"
+    },
+    "TCGA-E9-A1R3": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1R3.pt"
+    },
+    "TCGA-E9-A1RC": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1RC.pt"
+    },
+    "TCGA-E9-A1RH": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A1RH.pt"
+    },
+    "TCGA-E9-A226": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A226.pt"
+    },
+    "TCGA-E9-A228": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A228.pt"
+    },
+    "TCGA-E9-A229": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A229.pt"
+    },
+    "TCGA-E9-A22H": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A22H.pt"
+    },
+    "TCGA-E9-A244": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A244.pt"
+    },
+    "TCGA-E9-A245": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A245.pt"
+    },
+    "TCGA-E9-A249": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A249.pt"
+    },
+    "TCGA-E9-A2JT": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A2JT.pt"
+    },
+    "TCGA-E9-A5FK": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A5FK.pt"
+    },
+    "TCGA-E9-A6HE": {
+      "num_patches": 1,
+      "file": "TCGA-E9-A6HE.pt"
+    },
+    "TCGA-EW-A1IW": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1IW.pt"
+    },
+    "TCGA-EW-A1J1": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1J1.pt"
+    },
+    "TCGA-EW-A1J2": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1J2.pt"
+    },
+    "TCGA-EW-A1J5": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1J5.pt"
+    },
+    "TCGA-EW-A1P1": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1P1.pt"
+    },
+    "TCGA-EW-A1PA": {
+      "num_patches": 22,
+      "file": "TCGA-EW-A1PA.pt"
+    },
+    "TCGA-EW-A1PB": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1PB.pt"
+    },
+    "TCGA-EW-A1PD": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A1PD.pt"
+    },
+    "TCGA-EW-A1PF": {
+      "num_patches": 8,
+      "file": "TCGA-EW-A1PF.pt"
+    },
+    "TCGA-EW-A2FV": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A2FV.pt"
+    },
+    "TCGA-EW-A3U0": {
+      "num_patches": 1,
+      "file": "TCGA-EW-A3U0.pt"
+    },
+    "TCGA-GI-A2C8": {
+      "num_patches": 1,
+      "file": "TCGA-GI-A2C8.pt"
+    },
+    "TCGA-GM-A2D9": {
+      "num_patches": 3,
+      "file": "TCGA-GM-A2D9.pt"
+    },
+    "TCGA-GM-A2DC": {
+      "num_patches": 1,
+      "file": "TCGA-GM-A2DC.pt"
+    },
+    "TCGA-GM-A2DN": {
+      "num_patches": 2,
+      "file": "TCGA-GM-A2DN.pt"
+    },
+    "TCGA-GM-A3NW": {
+      "num_patches": 1,
+      "file": "TCGA-GM-A3NW.pt"
+    },
+    "TCGA-GM-A3XG": {
+      "num_patches": 1,
+      "file": "TCGA-GM-A3XG.pt"
+    },
+    "TCGA-GM-A3XL": {
+      "num_patches": 1,
+      "file": "TCGA-GM-A3XL.pt"
+    },
+    "TCGA-JL-A3YX": {
+      "num_patches": 2,
+      "file": "TCGA-JL-A3YX.pt"
+    },
+    "TCGA-LL-A441": {
+      "num_patches": 1,
+      "file": "TCGA-LL-A441.pt"
+    },
+    "TCGA-LL-A50Y": {
+      "num_patches": 1,
+      "file": "TCGA-LL-A50Y.pt"
+    },
+    "TCGA-LL-A740": {
+      "num_patches": 1,
+      "file": "TCGA-LL-A740.pt"
+    },
+    "TCGA-OL-A66H": {
+      "num_patches": 1,
+      "file": "TCGA-OL-A66H.pt"
+    },
+    "TCGA-WT-AB41": {
+      "num_patches": 1,
+      "file": "TCGA-WT-AB41.pt"
+    }
+  },
+  "cesc": {
+    "TCGA-2W-A8YY": {
+      "num_patches": 119,
+      "file": "TCGA-2W-A8YY.pt"
+    },
+    "TCGA-4J-AA1J": {
+      "num_patches": 1,
+      "file": "TCGA-4J-AA1J.pt"
+    },
+    "TCGA-BI-A0VR": {
+      "num_patches": 1,
+      "file": "TCGA-BI-A0VR.pt"
+    },
+    "TCGA-BI-A0VS": {
+      "num_patches": 113,
+      "file": "TCGA-BI-A0VS.pt"
+    },
+    "TCGA-BI-A20A": {
+      "num_patches": 1,
+      "file": "TCGA-BI-A20A.pt"
+    },
+    "TCGA-C5-A0TN": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A0TN.pt"
+    },
+    "TCGA-C5-A1BE": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A1BE.pt"
+    },
+    "TCGA-C5-A1BF": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1BF.pt"
+    },
+    "TCGA-C5-A1BI": {
+      "num_patches": 118,
+      "file": "TCGA-C5-A1BI.pt"
+    },
+    "TCGA-C5-A1BM": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1BM.pt"
+    },
+    "TCGA-C5-A1BQ": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A1BQ.pt"
+    },
+    "TCGA-C5-A1M5": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1M5.pt"
+    },
+    "TCGA-C5-A1M8": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A1M8.pt"
+    },
+    "TCGA-C5-A1M9": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A1M9.pt"
+    },
+    "TCGA-C5-A1ME": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1ME.pt"
+    },
+    "TCGA-C5-A1MH": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1MH.pt"
+    },
+    "TCGA-C5-A1MI": {
+      "num_patches": 117,
+      "file": "TCGA-C5-A1MI.pt"
+    },
+    "TCGA-C5-A1MJ": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1MJ.pt"
+    },
+    "TCGA-C5-A1MK": {
+      "num_patches": 117,
+      "file": "TCGA-C5-A1MK.pt"
+    },
+    "TCGA-C5-A1MN": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A1MN.pt"
+    },
+    "TCGA-C5-A1MP": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A1MP.pt"
+    },
+    "TCGA-C5-A2LT": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A2LT.pt"
+    },
+    "TCGA-C5-A2LX": {
+      "num_patches": 118,
+      "file": "TCGA-C5-A2LX.pt"
+    },
+    "TCGA-C5-A2LY": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A2LY.pt"
+    },
+    "TCGA-C5-A2M1": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A2M1.pt"
+    },
+    "TCGA-C5-A3HE": {
+      "num_patches": 118,
+      "file": "TCGA-C5-A3HE.pt"
+    },
+    "TCGA-C5-A7CH": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A7CH.pt"
+    },
+    "TCGA-C5-A7CJ": {
+      "num_patches": 1,
+      "file": "TCGA-C5-A7CJ.pt"
+    },
+    "TCGA-C5-A7CK": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A7CK.pt"
+    },
+    "TCGA-C5-A7CO": {
+      "num_patches": 116,
+      "file": "TCGA-C5-A7CO.pt"
+    },
+    "TCGA-C5-A7UC": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A7UC.pt"
+    },
+    "TCGA-C5-A7UE": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A7UE.pt"
+    },
+    "TCGA-C5-A902": {
+      "num_patches": 119,
+      "file": "TCGA-C5-A902.pt"
+    },
+    "TCGA-DG-A2KH": {
+      "num_patches": 118,
+      "file": "TCGA-DG-A2KH.pt"
+    },
+    "TCGA-DS-A0VK": {
+      "num_patches": 1,
+      "file": "TCGA-DS-A0VK.pt"
+    },
+    "TCGA-DS-A0VM": {
+      "num_patches": 1,
+      "file": "TCGA-DS-A0VM.pt"
+    },
+    "TCGA-DS-A1O9": {
+      "num_patches": 119,
+      "file": "TCGA-DS-A1O9.pt"
+    },
+    "TCGA-DS-A1OC": {
+      "num_patches": 1,
+      "file": "TCGA-DS-A1OC.pt"
+    },
+    "TCGA-DS-A1OD": {
+      "num_patches": 119,
+      "file": "TCGA-DS-A1OD.pt"
+    },
+    "TCGA-DS-A3LQ": {
+      "num_patches": 119,
+      "file": "TCGA-DS-A3LQ.pt"
+    },
+    "TCGA-DS-A7WF": {
+      "num_patches": 119,
+      "file": "TCGA-DS-A7WF.pt"
+    },
+    "TCGA-DS-A7WH": {
+      "num_patches": 1,
+      "file": "TCGA-DS-A7WH.pt"
+    },
+    "TCGA-EA-A1QS": {
+      "num_patches": 118,
+      "file": "TCGA-EA-A1QS.pt"
+    },
+    "TCGA-EA-A1QT": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A1QT.pt"
+    },
+    "TCGA-EA-A3HQ": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A3HQ.pt"
+    },
+    "TCGA-EA-A3HR": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A3HR.pt"
+    },
+    "TCGA-EA-A3HS": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A3HS.pt"
+    },
+    "TCGA-EA-A3QD": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A3QD.pt"
+    },
+    "TCGA-EA-A3Y4": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A3Y4.pt"
+    },
+    "TCGA-EA-A411": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A411.pt"
+    },
+    "TCGA-EA-A439": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A439.pt"
+    },
+    "TCGA-EA-A43B": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A43B.pt"
+    },
+    "TCGA-EA-A44S": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A44S.pt"
+    },
+    "TCGA-EA-A4BA": {
+      "num_patches": 115,
+      "file": "TCGA-EA-A4BA.pt"
+    },
+    "TCGA-EA-A5FO": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A5FO.pt"
+    },
+    "TCGA-EA-A5ZE": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A5ZE.pt"
+    },
+    "TCGA-EA-A5ZF": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A5ZF.pt"
+    },
+    "TCGA-EA-A78R": {
+      "num_patches": 1,
+      "file": "TCGA-EA-A78R.pt"
+    },
+    "TCGA-EA-A97N": {
+      "num_patches": 119,
+      "file": "TCGA-EA-A97N.pt"
+    },
+    "TCGA-EX-A3L1": {
+      "num_patches": 1,
+      "file": "TCGA-EX-A3L1.pt"
+    },
+    "TCGA-EX-A449": {
+      "num_patches": 119,
+      "file": "TCGA-EX-A449.pt"
+    },
+    "TCGA-EX-A69M": {
+      "num_patches": 119,
+      "file": "TCGA-EX-A69M.pt"
+    },
+    "TCGA-EX-A8YF": {
+      "num_patches": 119,
+      "file": "TCGA-EX-A8YF.pt"
+    },
+    "TCGA-FU-A23K": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A23K.pt"
+    },
+    "TCGA-FU-A23L": {
+      "num_patches": 118,
+      "file": "TCGA-FU-A23L.pt"
+    },
+    "TCGA-FU-A3HY": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A3HY.pt"
+    },
+    "TCGA-FU-A3HZ": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A3HZ.pt"
+    },
+    "TCGA-FU-A3NI": {
+      "num_patches": 1,
+      "file": "TCGA-FU-A3NI.pt"
+    },
+    "TCGA-FU-A3TQ": {
+      "num_patches": 118,
+      "file": "TCGA-FU-A3TQ.pt"
+    },
+    "TCGA-FU-A3TX": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A3TX.pt"
+    },
+    "TCGA-FU-A3WB": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A3WB.pt"
+    },
+    "TCGA-FU-A40J": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A40J.pt"
+    },
+    "TCGA-FU-A57G": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A57G.pt"
+    },
+    "TCGA-FU-A5XV": {
+      "num_patches": 1,
+      "file": "TCGA-FU-A5XV.pt"
+    },
+    "TCGA-FU-A770": {
+      "num_patches": 119,
+      "file": "TCGA-FU-A770.pt"
+    },
+    "TCGA-GH-A9DA": {
+      "num_patches": 1,
+      "file": "TCGA-GH-A9DA.pt"
+    },
+    "TCGA-HG-A2PA": {
+      "num_patches": 119,
+      "file": "TCGA-HG-A2PA.pt"
+    },
+    "TCGA-HM-A3JJ": {
+      "num_patches": 119,
+      "file": "TCGA-HM-A3JJ.pt"
+    },
+    "TCGA-HM-A3JK": {
+      "num_patches": 1,
+      "file": "TCGA-HM-A3JK.pt"
+    },
+    "TCGA-HM-A6W2": {
+      "num_patches": 230,
+      "file": "TCGA-HM-A6W2.pt"
+    },
+    "TCGA-IR-A3L7": {
+      "num_patches": 1,
+      "file": "TCGA-IR-A3L7.pt"
+    },
+    "TCGA-IR-A3LA": {
+      "num_patches": 119,
+      "file": "TCGA-IR-A3LA.pt"
+    },
+    "TCGA-IR-A3LB": {
+      "num_patches": 1,
+      "file": "TCGA-IR-A3LB.pt"
+    },
+    "TCGA-IR-A3LF": {
+      "num_patches": 119,
+      "file": "TCGA-IR-A3LF.pt"
+    },
+    "TCGA-IR-A3LK": {
+      "num_patches": 119,
+      "file": "TCGA-IR-A3LK.pt"
+    },
+    "TCGA-IR-A3LL": {
+      "num_patches": 1,
+      "file": "TCGA-IR-A3LL.pt"
+    },
+    "TCGA-JW-A5VG": {
+      "num_patches": 118,
+      "file": "TCGA-JW-A5VG.pt"
+    },
+    "TCGA-JW-A5VK": {
+      "num_patches": 119,
+      "file": "TCGA-JW-A5VK.pt"
+    },
+    "TCGA-JW-A5VL": {
+      "num_patches": 116,
+      "file": "TCGA-JW-A5VL.pt"
+    },
+    "TCGA-LP-A4AU": {
+      "num_patches": 119,
+      "file": "TCGA-LP-A4AU.pt"
+    },
+    "TCGA-LP-A5U3": {
+      "num_patches": 119,
+      "file": "TCGA-LP-A5U3.pt"
+    },
+    "TCGA-LP-A7HU": {
+      "num_patches": 1,
+      "file": "TCGA-LP-A7HU.pt"
+    },
+    "TCGA-MA-AA3W": {
+      "num_patches": 1,
+      "file": "TCGA-MA-AA3W.pt"
+    },
+    "TCGA-MA-AA3X": {
+      "num_patches": 1,
+      "file": "TCGA-MA-AA3X.pt"
+    },
+    "TCGA-MA-AA3Y": {
+      "num_patches": 119,
+      "file": "TCGA-MA-AA3Y.pt"
+    },
+    "TCGA-MA-AA42": {
+      "num_patches": 1,
+      "file": "TCGA-MA-AA42.pt"
+    },
+    "TCGA-MA-AA43": {
+      "num_patches": 119,
+      "file": "TCGA-MA-AA43.pt"
+    },
+    "TCGA-MU-A51Y": {
+      "num_patches": 119,
+      "file": "TCGA-MU-A51Y.pt"
+    },
+    "TCGA-MU-A5YI": {
+      "num_patches": 118,
+      "file": "TCGA-MU-A5YI.pt"
+    },
+    "TCGA-MY-A5BD": {
+      "num_patches": 1,
+      "file": "TCGA-MY-A5BD.pt"
+    },
+    "TCGA-MY-A5BF": {
+      "num_patches": 1,
+      "file": "TCGA-MY-A5BF.pt"
+    },
+    "TCGA-MY-A913": {
+      "num_patches": 1,
+      "file": "TCGA-MY-A913.pt"
+    },
+    "TCGA-Q1-A5R3": {
+      "num_patches": 1,
+      "file": "TCGA-Q1-A5R3.pt"
+    },
+    "TCGA-Q1-A6DT": {
+      "num_patches": 119,
+      "file": "TCGA-Q1-A6DT.pt"
+    },
+    "TCGA-Q1-A6DV": {
+      "num_patches": 119,
+      "file": "TCGA-Q1-A6DV.pt"
+    },
+    "TCGA-Q1-A6DW": {
+      "num_patches": 118,
+      "file": "TCGA-Q1-A6DW.pt"
+    },
+    "TCGA-Q1-A73O": {
+      "num_patches": 1,
+      "file": "TCGA-Q1-A73O.pt"
+    },
+    "TCGA-Q1-A73Q": {
+      "num_patches": 119,
+      "file": "TCGA-Q1-A73Q.pt"
+    },
+    "TCGA-Q1-A73R": {
+      "num_patches": 119,
+      "file": "TCGA-Q1-A73R.pt"
+    },
+    "TCGA-Q1-A73S": {
+      "num_patches": 119,
+      "file": "TCGA-Q1-A73S.pt"
+    },
+    "TCGA-UC-A7PD": {
+      "num_patches": 119,
+      "file": "TCGA-UC-A7PD.pt"
+    },
+    "TCGA-UC-A7PF": {
+      "num_patches": 1,
+      "file": "TCGA-UC-A7PF.pt"
+    },
+    "TCGA-UC-A7PI": {
+      "num_patches": 1,
+      "file": "TCGA-UC-A7PI.pt"
+    },
+    "TCGA-VS-A8EB": {
+      "num_patches": 117,
+      "file": "TCGA-VS-A8EB.pt"
+    },
+    "TCGA-VS-A8EC": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A8EC.pt"
+    },
+    "TCGA-VS-A8EG": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A8EG.pt"
+    },
+    "TCGA-VS-A8EH": {
+      "num_patches": 117,
+      "file": "TCGA-VS-A8EH.pt"
+    },
+    "TCGA-VS-A8EJ": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A8EJ.pt"
+    },
+    "TCGA-VS-A8EK": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A8EK.pt"
+    },
+    "TCGA-VS-A8EL": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A8EL.pt"
+    },
+    "TCGA-VS-A8QC": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A8QC.pt"
+    },
+    "TCGA-VS-A8QH": {
+      "num_patches": 116,
+      "file": "TCGA-VS-A8QH.pt"
+    },
+    "TCGA-VS-A8QM": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A8QM.pt"
+    },
+    "TCGA-VS-A94W": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A94W.pt"
+    },
+    "TCGA-VS-A94X": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A94X.pt"
+    },
+    "TCGA-VS-A94Y": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A94Y.pt"
+    },
+    "TCGA-VS-A94Z": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A94Z.pt"
+    },
+    "TCGA-VS-A950": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A950.pt"
+    },
+    "TCGA-VS-A952": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A952.pt"
+    },
+    "TCGA-VS-A953": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A953.pt"
+    },
+    "TCGA-VS-A954": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A954.pt"
+    },
+    "TCGA-VS-A957": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A957.pt"
+    },
+    "TCGA-VS-A958": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A958.pt"
+    },
+    "TCGA-VS-A959": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A959.pt"
+    },
+    "TCGA-VS-A9U5": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9U5.pt"
+    },
+    "TCGA-VS-A9U6": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9U6.pt"
+    },
+    "TCGA-VS-A9U7": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A9U7.pt"
+    },
+    "TCGA-VS-A9UB": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A9UB.pt"
+    },
+    "TCGA-VS-A9UC": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A9UC.pt"
+    },
+    "TCGA-VS-A9UD": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A9UD.pt"
+    },
+    "TCGA-VS-A9UI": {
+      "num_patches": 117,
+      "file": "TCGA-VS-A9UI.pt"
+    },
+    "TCGA-VS-A9UL": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UL.pt"
+    },
+    "TCGA-VS-A9UM": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UM.pt"
+    },
+    "TCGA-VS-A9UO": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UO.pt"
+    },
+    "TCGA-VS-A9UP": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A9UP.pt"
+    },
+    "TCGA-VS-A9UQ": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UQ.pt"
+    },
+    "TCGA-VS-A9UR": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UR.pt"
+    },
+    "TCGA-VS-A9UT": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A9UT.pt"
+    },
+    "TCGA-VS-A9UU": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UU.pt"
+    },
+    "TCGA-VS-A9UV": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9UV.pt"
+    },
+    "TCGA-VS-A9UY": {
+      "num_patches": 118,
+      "file": "TCGA-VS-A9UY.pt"
+    },
+    "TCGA-VS-A9V0": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9V0.pt"
+    },
+    "TCGA-VS-A9V1": {
+      "num_patches": 119,
+      "file": "TCGA-VS-A9V1.pt"
+    },
+    "TCGA-VS-A9V2": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9V2.pt"
+    },
+    "TCGA-VS-A9V3": {
+      "num_patches": 112,
+      "file": "TCGA-VS-A9V3.pt"
+    },
+    "TCGA-VS-A9V4": {
+      "num_patches": 1,
+      "file": "TCGA-VS-A9V4.pt"
+    },
+    "TCGA-VS-AA62": {
+      "num_patches": 117,
+      "file": "TCGA-VS-AA62.pt"
+    },
+    "TCGA-ZJ-A8QO": {
+      "num_patches": 118,
+      "file": "TCGA-ZJ-A8QO.pt"
+    },
+    "TCGA-ZJ-A8QQ": {
+      "num_patches": 119,
+      "file": "TCGA-ZJ-A8QQ.pt"
+    },
+    "TCGA-ZJ-A8QR": {
+      "num_patches": 1,
+      "file": "TCGA-ZJ-A8QR.pt"
+    },
+    "TCGA-ZJ-AAX8": {
+      "num_patches": 119,
+      "file": "TCGA-ZJ-AAX8.pt"
+    },
+    "TCGA-ZJ-AAXB": {
+      "num_patches": 118,
+      "file": "TCGA-ZJ-AAXB.pt"
+    },
+    "TCGA-ZJ-AAXD": {
+      "num_patches": 1,
+      "file": "TCGA-ZJ-AAXD.pt"
+    },
+    "TCGA-ZJ-AAXI": {
+      "num_patches": 119,
+      "file": "TCGA-ZJ-AAXI.pt"
+    },
+    "TCGA-ZJ-AAXJ": {
+      "num_patches": 1,
+      "file": "TCGA-ZJ-AAXJ.pt"
+    },
+    "TCGA-ZJ-AB0H": {
+      "num_patches": 1,
+      "file": "TCGA-ZJ-AB0H.pt"
+    },
+    "TCGA-ZX-AA5X": {
+      "num_patches": 119,
+      "file": "TCGA-ZX-AA5X.pt"
+    }
+  },
+  "coad": {
+    "TCGA-A6-2678": {
+      "num_patches": 1,
+      "file": "TCGA-A6-2678.pt"
+    },
+    "TCGA-A6-2684": {
+      "num_patches": 1,
+      "file": "TCGA-A6-2684.pt"
+    },
+    "TCGA-A6-2686": {
+      "num_patches": 1,
+      "file": "TCGA-A6-2686.pt"
+    },
+    "TCGA-A6-3807": {
+      "num_patches": 1,
+      "file": "TCGA-A6-3807.pt"
+    },
+    "TCGA-A6-3808": {
+      "num_patches": 1,
+      "file": "TCGA-A6-3808.pt"
+    },
+    "TCGA-A6-6142": {
+      "num_patches": 1,
+      "file": "TCGA-A6-6142.pt"
+    },
+    "TCGA-A6-6648": {
+      "num_patches": 1,
+      "file": "TCGA-A6-6648.pt"
+    },
+    "TCGA-A6-6649": {
+      "num_patches": 1,
+      "file": "TCGA-A6-6649.pt"
+    },
+    "TCGA-A6-6654": {
+      "num_patches": 1,
+      "file": "TCGA-A6-6654.pt"
+    },
+    "TCGA-A6-A566": {
+      "num_patches": 1,
+      "file": "TCGA-A6-A566.pt"
+    },
+    "TCGA-A6-A56B": {
+      "num_patches": 1,
+      "file": "TCGA-A6-A56B.pt"
+    },
+    "TCGA-A6-A5ZU": {
+      "num_patches": 1,
+      "file": "TCGA-A6-A5ZU.pt"
+    },
+    "TCGA-AA-3517": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3517.pt"
+    },
+    "TCGA-AA-3520": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3520.pt"
+    },
+    "TCGA-AA-3522": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3522.pt"
+    },
+    "TCGA-AA-3526": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3526.pt"
+    },
+    "TCGA-AA-3538": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3538.pt"
+    },
+    "TCGA-AA-3544": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3544.pt"
+    },
+    "TCGA-AA-3664": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3664.pt"
+    },
+    "TCGA-AA-3684": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3684.pt"
+    },
+    "TCGA-AA-3811": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3811.pt"
+    },
+    "TCGA-AA-3831": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3831.pt"
+    },
+    "TCGA-AA-3845": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3845.pt"
+    },
+    "TCGA-AA-3848": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3848.pt"
+    },
+    "TCGA-AA-3852": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3852.pt"
+    },
+    "TCGA-AA-3854": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3854.pt"
+    },
+    "TCGA-AA-3861": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3861.pt"
+    },
+    "TCGA-AA-3877": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3877.pt"
+    },
+    "TCGA-AA-3941": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3941.pt"
+    },
+    "TCGA-AA-3949": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3949.pt"
+    },
+    "TCGA-AA-3971": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3971.pt"
+    },
+    "TCGA-AA-3994": {
+      "num_patches": 1,
+      "file": "TCGA-AA-3994.pt"
+    },
+    "TCGA-AA-A00W": {
+      "num_patches": 1,
+      "file": "TCGA-AA-A00W.pt"
+    },
+    "TCGA-AA-A010": {
+      "num_patches": 1,
+      "file": "TCGA-AA-A010.pt"
+    },
+    "TCGA-AA-A01C": {
+      "num_patches": 1,
+      "file": "TCGA-AA-A01C.pt"
+    },
+    "TCGA-AA-A01R": {
+      "num_patches": 1,
+      "file": "TCGA-AA-A01R.pt"
+    },
+    "TCGA-AA-A01T": {
+      "num_patches": 1,
+      "file": "TCGA-AA-A01T.pt"
+    },
+    "TCGA-AA-A022": {
+      "num_patches": 1,
+      "file": "TCGA-AA-A022.pt"
+    },
+    "TCGA-AD-5900": {
+      "num_patches": 1,
+      "file": "TCGA-AD-5900.pt"
+    },
+    "TCGA-AD-6963": {
+      "num_patches": 1,
+      "file": "TCGA-AD-6963.pt"
+    },
+    "TCGA-AU-3779": {
+      "num_patches": 1,
+      "file": "TCGA-AU-3779.pt"
+    },
+    "TCGA-AY-4070": {
+      "num_patches": 1,
+      "file": "TCGA-AY-4070.pt"
+    },
+    "TCGA-AY-6386": {
+      "num_patches": 1,
+      "file": "TCGA-AY-6386.pt"
+    },
+    "TCGA-AY-A71X": {
+      "num_patches": 1,
+      "file": "TCGA-AY-A71X.pt"
+    },
+    "TCGA-AZ-4308": {
+      "num_patches": 1,
+      "file": "TCGA-AZ-4308.pt"
+    },
+    "TCGA-AZ-4681": {
+      "num_patches": 1,
+      "file": "TCGA-AZ-4681.pt"
+    },
+    "TCGA-AZ-5407": {
+      "num_patches": 1,
+      "file": "TCGA-AZ-5407.pt"
+    },
+    "TCGA-CK-5915": {
+      "num_patches": 1,
+      "file": "TCGA-CK-5915.pt"
+    },
+    "TCGA-CM-4751": {
+      "num_patches": 1,
+      "file": "TCGA-CM-4751.pt"
+    },
+    "TCGA-CM-5348": {
+      "num_patches": 1,
+      "file": "TCGA-CM-5348.pt"
+    },
+    "TCGA-CM-5349": {
+      "num_patches": 1,
+      "file": "TCGA-CM-5349.pt"
+    },
+    "TCGA-CM-5863": {
+      "num_patches": 1,
+      "file": "TCGA-CM-5863.pt"
+    },
+    "TCGA-CM-6161": {
+      "num_patches": 1,
+      "file": "TCGA-CM-6161.pt"
+    },
+    "TCGA-CM-6163": {
+      "num_patches": 1,
+      "file": "TCGA-CM-6163.pt"
+    },
+    "TCGA-CM-6166": {
+      "num_patches": 1,
+      "file": "TCGA-CM-6166.pt"
+    },
+    "TCGA-CM-6676": {
+      "num_patches": 1,
+      "file": "TCGA-CM-6676.pt"
+    },
+    "TCGA-D5-6531": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6531.pt"
+    },
+    "TCGA-D5-6540": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6540.pt"
+    },
+    "TCGA-D5-6541": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6541.pt"
+    },
+    "TCGA-D5-6920": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6920.pt"
+    },
+    "TCGA-D5-6923": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6923.pt"
+    },
+    "TCGA-D5-6929": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6929.pt"
+    },
+    "TCGA-D5-6930": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6930.pt"
+    },
+    "TCGA-D5-6931": {
+      "num_patches": 1,
+      "file": "TCGA-D5-6931.pt"
+    },
+    "TCGA-DM-A1DA": {
+      "num_patches": 1,
+      "file": "TCGA-DM-A1DA.pt"
+    },
+    "TCGA-DM-A285": {
+      "num_patches": 1,
+      "file": "TCGA-DM-A285.pt"
+    },
+    "TCGA-DM-A28F": {
+      "num_patches": 1,
+      "file": "TCGA-DM-A28F.pt"
+    },
+    "TCGA-F4-6461": {
+      "num_patches": 1,
+      "file": "TCGA-F4-6461.pt"
+    },
+    "TCGA-F4-6463": {
+      "num_patches": 1,
+      "file": "TCGA-F4-6463.pt"
+    },
+    "TCGA-G4-6298": {
+      "num_patches": 1,
+      "file": "TCGA-G4-6298.pt"
+    },
+    "TCGA-G4-6314": {
+      "num_patches": 1,
+      "file": "TCGA-G4-6314.pt"
+    },
+    "TCGA-G4-6323": {
+      "num_patches": 1,
+      "file": "TCGA-G4-6323.pt"
+    },
+    "TCGA-G4-6586": {
+      "num_patches": 1,
+      "file": "TCGA-G4-6586.pt"
+    },
+    "TCGA-NH-A6GB": {
+      "num_patches": 1,
+      "file": "TCGA-NH-A6GB.pt"
+    },
+    "TCGA-NH-A6GC": {
+      "num_patches": 1,
+      "file": "TCGA-NH-A6GC.pt"
+    },
+    "TCGA-QG-A5YW": {
+      "num_patches": 1,
+      "file": "TCGA-QG-A5YW.pt"
+    },
+    "TCGA-QG-A5Z1": {
+      "num_patches": 1,
+      "file": "TCGA-QG-A5Z1.pt"
+    },
+    "TCGA-SS-A7HO": {
+      "num_patches": 1,
+      "file": "TCGA-SS-A7HO.pt"
+    }
+  },
+  "esca": {
+    "TCGA-2H-A9GI": {
+      "num_patches": 2000,
+      "file": "TCGA-2H-A9GI.pt"
+    },
+    "TCGA-2H-A9GK": {
+      "num_patches": 398,
+      "file": "TCGA-2H-A9GK.pt"
+    },
+    "TCGA-2H-A9GR": {
+      "num_patches": 753,
+      "file": "TCGA-2H-A9GR.pt"
+    },
+    "TCGA-IG-A3I8": {
+      "num_patches": 1712,
+      "file": "TCGA-IG-A3I8.pt"
+    },
+    "TCGA-IG-A50L": {
+      "num_patches": 35,
+      "file": "TCGA-IG-A50L.pt"
+    },
+    "TCGA-JY-A6FB": {
+      "num_patches": 526,
+      "file": "TCGA-JY-A6FB.pt"
+    },
+    "TCGA-JY-A6FG": {
+      "num_patches": 1586,
+      "file": "TCGA-JY-A6FG.pt"
+    },
+    "TCGA-JY-A93C": {
+      "num_patches": 249,
+      "file": "TCGA-JY-A93C.pt"
+    },
+    "TCGA-L7-A56G": {
+      "num_patches": 1205,
+      "file": "TCGA-L7-A56G.pt"
+    },
+    "TCGA-LN-A49O": {
+      "num_patches": 268,
+      "file": "TCGA-LN-A49O.pt"
+    },
+    "TCGA-LN-A4A1": {
+      "num_patches": 399,
+      "file": "TCGA-LN-A4A1.pt"
+    },
+    "TCGA-LN-A4A6": {
+      "num_patches": 261,
+      "file": "TCGA-LN-A4A6.pt"
+    },
+    "TCGA-LN-A5U5": {
+      "num_patches": 290,
+      "file": "TCGA-LN-A5U5.pt"
+    },
+    "TCGA-LN-A5U7": {
+      "num_patches": 489,
+      "file": "TCGA-LN-A5U7.pt"
+    },
+    "TCGA-LN-A7HW": {
+      "num_patches": 5,
+      "file": "TCGA-LN-A7HW.pt"
+    },
+    "TCGA-LN-A8I1": {
+      "num_patches": 355,
+      "file": "TCGA-LN-A8I1.pt"
+    },
+    "TCGA-R6-A6DQ": {
+      "num_patches": 82,
+      "file": "TCGA-R6-A6DQ.pt"
+    },
+    "TCGA-S8-A6BV": {
+      "num_patches": 165,
+      "file": "TCGA-S8-A6BV.pt"
+    },
+    "TCGA-V5-AASW": {
+      "num_patches": 111,
+      "file": "TCGA-V5-AASW.pt"
+    },
+    "TCGA-VR-A8EQ": {
+      "num_patches": 756,
+      "file": "TCGA-VR-A8EQ.pt"
+    },
+    "TCGA-VR-AA4D": {
+      "num_patches": 91,
+      "file": "TCGA-VR-AA4D.pt"
+    },
+    "TCGA-VR-AA7B": {
+      "num_patches": 1129,
+      "file": "TCGA-VR-AA7B.pt"
+    },
+    "TCGA-VR-AA7D": {
+      "num_patches": 1730,
+      "file": "TCGA-VR-AA7D.pt"
+    },
+    "TCGA-ZR-A9CJ": {
+      "num_patches": 287,
+      "file": "TCGA-ZR-A9CJ.pt"
+    }
+  },
+  "hnsc": {
+    "TCGA-BA-4076": {
+      "num_patches": 22,
+      "file": "TCGA-BA-4076.pt"
+    },
+    "TCGA-BB-4225": {
+      "num_patches": 18,
+      "file": "TCGA-BB-4225.pt"
+    },
+    "TCGA-CN-4727": {
+      "num_patches": 10,
+      "file": "TCGA-CN-4727.pt"
+    },
+    "TCGA-CN-4738": {
+      "num_patches": 1391,
+      "file": "TCGA-CN-4738.pt"
+    },
+    "TCGA-CN-5369": {
+      "num_patches": 389,
+      "file": "TCGA-CN-5369.pt"
+    },
+    "TCGA-CN-6010": {
+      "num_patches": 744,
+      "file": "TCGA-CN-6010.pt"
+    },
+    "TCGA-CN-A63U": {
+      "num_patches": 382,
+      "file": "TCGA-CN-A63U.pt"
+    },
+    "TCGA-CV-5978": {
+      "num_patches": 1022,
+      "file": "TCGA-CV-5978.pt"
+    },
+    "TCGA-CV-6936": {
+      "num_patches": 657,
+      "file": "TCGA-CV-6936.pt"
+    },
+    "TCGA-CV-6950": {
+      "num_patches": 134,
+      "file": "TCGA-CV-6950.pt"
+    },
+    "TCGA-CV-7102": {
+      "num_patches": 381,
+      "file": "TCGA-CV-7102.pt"
+    },
+    "TCGA-CV-7238": {
+      "num_patches": 1341,
+      "file": "TCGA-CV-7238.pt"
+    },
+    "TCGA-CV-7407": {
+      "num_patches": 413,
+      "file": "TCGA-CV-7407.pt"
+    },
+    "TCGA-CV-7410": {
+      "num_patches": 140,
+      "file": "TCGA-CV-7410.pt"
+    },
+    "TCGA-CV-A45O": {
+      "num_patches": 183,
+      "file": "TCGA-CV-A45O.pt"
+    },
+    "TCGA-CV-A6JD": {
+      "num_patches": 130,
+      "file": "TCGA-CV-A6JD.pt"
+    },
+    "TCGA-CX-7082": {
+      "num_patches": 541,
+      "file": "TCGA-CX-7082.pt"
+    },
+    "TCGA-D6-A6EP": {
+      "num_patches": 2000,
+      "file": "TCGA-D6-A6EP.pt"
+    },
+    "TCGA-F7-A50J": {
+      "num_patches": 44,
+      "file": "TCGA-F7-A50J.pt"
+    },
+    "TCGA-IQ-7632": {
+      "num_patches": 1690,
+      "file": "TCGA-IQ-7632.pt"
+    },
+    "TCGA-P3-A6T5": {
+      "num_patches": 1186,
+      "file": "TCGA-P3-A6T5.pt"
+    },
+    "TCGA-TN-A7HL": {
+      "num_patches": 492,
+      "file": "TCGA-TN-A7HL.pt"
+    },
+    "TCGA-UF-A71E": {
+      "num_patches": 2000,
+      "file": "TCGA-UF-A71E.pt"
+    },
+    "TCGA-WA-A7GZ": {
+      "num_patches": 1492,
+      "file": "TCGA-WA-A7GZ.pt"
+    }
+  },
+  "kirc": {
+    "TCGA-A3-3308": {
+      "num_patches": 1986,
+      "file": "TCGA-A3-3308.pt"
+    },
+    "TCGA-A3-3311": {
+      "num_patches": 2000,
+      "file": "TCGA-A3-3311.pt"
+    },
+    "TCGA-A3-3343": {
+      "num_patches": 2000,
+      "file": "TCGA-A3-3343.pt"
+    },
+    "TCGA-A3-3373": {
+      "num_patches": 1431,
+      "file": "TCGA-A3-3373.pt"
+    },
+    "TCGA-B0-4698": {
+      "num_patches": 56,
+      "file": "TCGA-B0-4698.pt"
+    },
+    "TCGA-B0-4714": {
+      "num_patches": 2000,
+      "file": "TCGA-B0-4714.pt"
+    },
+    "TCGA-B0-4837": {
+      "num_patches": 2000,
+      "file": "TCGA-B0-4837.pt"
+    },
+    "TCGA-B0-5081": {
+      "num_patches": 981,
+      "file": "TCGA-B0-5081.pt"
+    },
+    "TCGA-B0-5119": {
+      "num_patches": 1613,
+      "file": "TCGA-B0-5119.pt"
+    },
+    "TCGA-B2-5635": {
+      "num_patches": 2000,
+      "file": "TCGA-B2-5635.pt"
+    },
+    "TCGA-B8-A54F": {
+      "num_patches": 2000,
+      "file": "TCGA-B8-A54F.pt"
+    },
+    "TCGA-BP-4164": {
+      "num_patches": 2000,
+      "file": "TCGA-BP-4164.pt"
+    },
+    "TCGA-BP-4173": {
+      "num_patches": 1398,
+      "file": "TCGA-BP-4173.pt"
+    },
+    "TCGA-BP-4774": {
+      "num_patches": 2000,
+      "file": "TCGA-BP-4774.pt"
+    },
+    "TCGA-BP-4987": {
+      "num_patches": 2000,
+      "file": "TCGA-BP-4987.pt"
+    },
+    "TCGA-CJ-6028": {
+      "num_patches": 807,
+      "file": "TCGA-CJ-6028.pt"
+    },
+    "TCGA-CZ-5457": {
+      "num_patches": 9,
+      "file": "TCGA-CZ-5457.pt"
+    }
+  },
+  "lihc": {
+    "TCGA-2Y-A9GT": {
+      "num_patches": 1634,
+      "file": "TCGA-2Y-A9GT.pt"
+    },
+    "TCGA-2Y-A9GV": {
+      "num_patches": 2000,
+      "file": "TCGA-2Y-A9GV.pt"
+    },
+    "TCGA-5C-A9VG": {
+      "num_patches": 1993,
+      "file": "TCGA-5C-A9VG.pt"
+    },
+    "TCGA-5C-AAPD": {
+      "num_patches": 656,
+      "file": "TCGA-5C-AAPD.pt"
+    },
+    "TCGA-BC-A10Q": {
+      "num_patches": 69,
+      "file": "TCGA-BC-A10Q.pt"
+    },
+    "TCGA-BC-A3KG": {
+      "num_patches": 2000,
+      "file": "TCGA-BC-A3KG.pt"
+    },
+    "TCGA-CC-5258": {
+      "num_patches": 2000,
+      "file": "TCGA-CC-5258.pt"
+    },
+    "TCGA-CC-A3MB": {
+      "num_patches": 17,
+      "file": "TCGA-CC-A3MB.pt"
+    },
+    "TCGA-CC-A7IJ": {
+      "num_patches": 47,
+      "file": "TCGA-CC-A7IJ.pt"
+    },
+    "TCGA-DD-A119": {
+      "num_patches": 1558,
+      "file": "TCGA-DD-A119.pt"
+    },
+    "TCGA-DD-A1EE": {
+      "num_patches": 61,
+      "file": "TCGA-DD-A1EE.pt"
+    },
+    "TCGA-DD-A1EI": {
+      "num_patches": 834,
+      "file": "TCGA-DD-A1EI.pt"
+    },
+    "TCGA-DD-A39V": {
+      "num_patches": 1033,
+      "file": "TCGA-DD-A39V.pt"
+    },
+    "TCGA-DD-A4NG": {
+      "num_patches": 1104,
+      "file": "TCGA-DD-A4NG.pt"
+    },
+    "TCGA-G3-AAV0": {
+      "num_patches": 53,
+      "file": "TCGA-G3-AAV0.pt"
+    }
+  },
+  "luad": {
+    "TCGA-05-4245": {
+      "num_patches": 971,
+      "file": "TCGA-05-4245.pt"
+    },
+    "TCGA-05-4249": {
+      "num_patches": 1,
+      "file": "TCGA-05-4249.pt"
+    },
+    "TCGA-05-4250": {
+      "num_patches": 4,
+      "file": "TCGA-05-4250.pt"
+    },
+    "TCGA-05-4395": {
+      "num_patches": 929,
+      "file": "TCGA-05-4395.pt"
+    },
+    "TCGA-05-4396": {
+      "num_patches": 938,
+      "file": "TCGA-05-4396.pt"
+    },
+    "TCGA-05-4397": {
+      "num_patches": 957,
+      "file": "TCGA-05-4397.pt"
+    },
+    "TCGA-05-4398": {
+      "num_patches": 921,
+      "file": "TCGA-05-4398.pt"
+    },
+    "TCGA-05-4402": {
+      "num_patches": 774,
+      "file": "TCGA-05-4402.pt"
+    },
+    "TCGA-05-4403": {
+      "num_patches": 965,
+      "file": "TCGA-05-4403.pt"
+    },
+    "TCGA-05-4405": {
+      "num_patches": 971,
+      "file": "TCGA-05-4405.pt"
+    },
+    "TCGA-05-4410": {
+      "num_patches": 2,
+      "file": "TCGA-05-4410.pt"
+    },
+    "TCGA-05-4415": {
+      "num_patches": 814,
+      "file": "TCGA-05-4415.pt"
+    },
+    "TCGA-05-4417": {
+      "num_patches": 798,
+      "file": "TCGA-05-4417.pt"
+    },
+    "TCGA-05-4418": {
+      "num_patches": 1,
+      "file": "TCGA-05-4418.pt"
+    },
+    "TCGA-05-4422": {
+      "num_patches": 5,
+      "file": "TCGA-05-4422.pt"
+    },
+    "TCGA-05-4425": {
+      "num_patches": 1,
+      "file": "TCGA-05-4425.pt"
+    },
+    "TCGA-05-4426": {
+      "num_patches": 1,
+      "file": "TCGA-05-4426.pt"
+    },
+    "TCGA-05-4430": {
+      "num_patches": 1,
+      "file": "TCGA-05-4430.pt"
+    },
+    "TCGA-05-4432": {
+      "num_patches": 3,
+      "file": "TCGA-05-4432.pt"
+    },
+    "TCGA-05-5423": {
+      "num_patches": 1,
+      "file": "TCGA-05-5423.pt"
+    },
+    "TCGA-05-5425": {
+      "num_patches": 2,
+      "file": "TCGA-05-5425.pt"
+    },
+    "TCGA-05-5428": {
+      "num_patches": 1,
+      "file": "TCGA-05-5428.pt"
+    },
+    "TCGA-05-5715": {
+      "num_patches": 1,
+      "file": "TCGA-05-5715.pt"
+    },
+    "TCGA-35-4122": {
+      "num_patches": 3,
+      "file": "TCGA-35-4122.pt"
+    },
+    "TCGA-35-4123": {
+      "num_patches": 3,
+      "file": "TCGA-35-4123.pt"
+    },
+    "TCGA-35-5375": {
+      "num_patches": 4,
+      "file": "TCGA-35-5375.pt"
+    },
+    "TCGA-38-4625": {
+      "num_patches": 2,
+      "file": "TCGA-38-4625.pt"
+    },
+    "TCGA-38-4628": {
+      "num_patches": 1,
+      "file": "TCGA-38-4628.pt"
+    },
+    "TCGA-38-4629": {
+      "num_patches": 5,
+      "file": "TCGA-38-4629.pt"
+    },
+    "TCGA-38-4631": {
+      "num_patches": 2,
+      "file": "TCGA-38-4631.pt"
+    },
+    "TCGA-38-4632": {
+      "num_patches": 4,
+      "file": "TCGA-38-4632.pt"
+    },
+    "TCGA-38-6178": {
+      "num_patches": 1,
+      "file": "TCGA-38-6178.pt"
+    },
+    "TCGA-38-7271": {
+      "num_patches": 1,
+      "file": "TCGA-38-7271.pt"
+    },
+    "TCGA-38-A44F": {
+      "num_patches": 2,
+      "file": "TCGA-38-A44F.pt"
+    },
+    "TCGA-44-2655": {
+      "num_patches": 4,
+      "file": "TCGA-44-2655.pt"
+    },
+    "TCGA-44-2656": {
+      "num_patches": 4,
+      "file": "TCGA-44-2656.pt"
+    },
+    "TCGA-44-2657": {
+      "num_patches": 3,
+      "file": "TCGA-44-2657.pt"
+    },
+    "TCGA-44-2661": {
+      "num_patches": 3,
+      "file": "TCGA-44-2661.pt"
+    },
+    "TCGA-44-2668": {
+      "num_patches": 3,
+      "file": "TCGA-44-2668.pt"
+    },
+    "TCGA-44-3396": {
+      "num_patches": 4,
+      "file": "TCGA-44-3396.pt"
+    },
+    "TCGA-44-3398": {
+      "num_patches": 5,
+      "file": "TCGA-44-3398.pt"
+    },
+    "TCGA-44-3918": {
+      "num_patches": 4,
+      "file": "TCGA-44-3918.pt"
+    },
+    "TCGA-44-5645": {
+      "num_patches": 4,
+      "file": "TCGA-44-5645.pt"
+    },
+    "TCGA-44-6145": {
+      "num_patches": 4,
+      "file": "TCGA-44-6145.pt"
+    },
+    "TCGA-44-6147": {
+      "num_patches": 6,
+      "file": "TCGA-44-6147.pt"
+    },
+    "TCGA-44-6148": {
+      "num_patches": 6,
+      "file": "TCGA-44-6148.pt"
+    },
+    "TCGA-44-6774": {
+      "num_patches": 2,
+      "file": "TCGA-44-6774.pt"
+    },
+    "TCGA-44-6775": {
+      "num_patches": 6,
+      "file": "TCGA-44-6775.pt"
+    },
+    "TCGA-44-6776": {
+      "num_patches": 1,
+      "file": "TCGA-44-6776.pt"
+    },
+    "TCGA-44-6777": {
+      "num_patches": 1,
+      "file": "TCGA-44-6777.pt"
+    },
+    "TCGA-44-6778": {
+      "num_patches": 1,
+      "file": "TCGA-44-6778.pt"
+    },
+    "TCGA-44-6779": {
+      "num_patches": 3,
+      "file": "TCGA-44-6779.pt"
+    },
+    "TCGA-44-7659": {
+      "num_patches": 5,
+      "file": "TCGA-44-7659.pt"
+    },
+    "TCGA-44-7660": {
+      "num_patches": 1,
+      "file": "TCGA-44-7660.pt"
+    },
+    "TCGA-44-7662": {
+      "num_patches": 5,
+      "file": "TCGA-44-7662.pt"
+    },
+    "TCGA-44-7669": {
+      "num_patches": 5,
+      "file": "TCGA-44-7669.pt"
+    },
+    "TCGA-44-7670": {
+      "num_patches": 1,
+      "file": "TCGA-44-7670.pt"
+    },
+    "TCGA-44-7671": {
+      "num_patches": 1,
+      "file": "TCGA-44-7671.pt"
+    },
+    "TCGA-44-7672": {
+      "num_patches": 4,
+      "file": "TCGA-44-7672.pt"
+    },
+    "TCGA-44-A479": {
+      "num_patches": 1,
+      "file": "TCGA-44-A479.pt"
+    },
+    "TCGA-44-A47A": {
+      "num_patches": 6,
+      "file": "TCGA-44-A47A.pt"
+    },
+    "TCGA-44-A47F": {
+      "num_patches": 1,
+      "file": "TCGA-44-A47F.pt"
+    },
+    "TCGA-44-A47G": {
+      "num_patches": 3,
+      "file": "TCGA-44-A47G.pt"
+    },
+    "TCGA-44-A4SS": {
+      "num_patches": 3,
+      "file": "TCGA-44-A4SS.pt"
+    },
+    "TCGA-44-A4SU": {
+      "num_patches": 1,
+      "file": "TCGA-44-A4SU.pt"
+    },
+    "TCGA-49-4486": {
+      "num_patches": 1,
+      "file": "TCGA-49-4486.pt"
+    },
+    "TCGA-49-4488": {
+      "num_patches": 16,
+      "file": "TCGA-49-4488.pt"
+    },
+    "TCGA-49-4490": {
+      "num_patches": 15,
+      "file": "TCGA-49-4490.pt"
+    },
+    "TCGA-49-4494": {
+      "num_patches": 2,
+      "file": "TCGA-49-4494.pt"
+    },
+    "TCGA-49-4505": {
+      "num_patches": 13,
+      "file": "TCGA-49-4505.pt"
+    },
+    "TCGA-49-4506": {
+      "num_patches": 13,
+      "file": "TCGA-49-4506.pt"
+    },
+    "TCGA-49-4507": {
+      "num_patches": 6,
+      "file": "TCGA-49-4507.pt"
+    },
+    "TCGA-49-4510": {
+      "num_patches": 5,
+      "file": "TCGA-49-4510.pt"
+    },
+    "TCGA-49-4512": {
+      "num_patches": 10,
+      "file": "TCGA-49-4512.pt"
+    },
+    "TCGA-49-4514": {
+      "num_patches": 10,
+      "file": "TCGA-49-4514.pt"
+    },
+    "TCGA-49-6742": {
+      "num_patches": 8,
+      "file": "TCGA-49-6742.pt"
+    },
+    "TCGA-49-6743": {
+      "num_patches": 3,
+      "file": "TCGA-49-6743.pt"
+    },
+    "TCGA-49-6744": {
+      "num_patches": 14,
+      "file": "TCGA-49-6744.pt"
+    },
+    "TCGA-49-6745": {
+      "num_patches": 16,
+      "file": "TCGA-49-6745.pt"
+    },
+    "TCGA-49-6761": {
+      "num_patches": 2,
+      "file": "TCGA-49-6761.pt"
+    },
+    "TCGA-49-6767": {
+      "num_patches": 6,
+      "file": "TCGA-49-6767.pt"
+    },
+    "TCGA-49-AAR0": {
+      "num_patches": 7,
+      "file": "TCGA-49-AAR0.pt"
+    },
+    "TCGA-49-AAR3": {
+      "num_patches": 5,
+      "file": "TCGA-49-AAR3.pt"
+    },
+    "TCGA-49-AAR4": {
+      "num_patches": 3,
+      "file": "TCGA-49-AAR4.pt"
+    },
+    "TCGA-49-AAR9": {
+      "num_patches": 2,
+      "file": "TCGA-49-AAR9.pt"
+    },
+    "TCGA-49-AARN": {
+      "num_patches": 1,
+      "file": "TCGA-49-AARN.pt"
+    },
+    "TCGA-49-AARQ": {
+      "num_patches": 2,
+      "file": "TCGA-49-AARQ.pt"
+    },
+    "TCGA-4B-A93V": {
+      "num_patches": 1,
+      "file": "TCGA-4B-A93V.pt"
+    },
+    "TCGA-50-5045": {
+      "num_patches": 3,
+      "file": "TCGA-50-5045.pt"
+    },
+    "TCGA-50-5055": {
+      "num_patches": 3,
+      "file": "TCGA-50-5055.pt"
+    },
+    "TCGA-50-5066": {
+      "num_patches": 9,
+      "file": "TCGA-50-5066.pt"
+    },
+    "TCGA-50-5068": {
+      "num_patches": 7,
+      "file": "TCGA-50-5068.pt"
+    },
+    "TCGA-50-5931": {
+      "num_patches": 6,
+      "file": "TCGA-50-5931.pt"
+    },
+    "TCGA-50-5939": {
+      "num_patches": 2,
+      "file": "TCGA-50-5939.pt"
+    },
+    "TCGA-50-6591": {
+      "num_patches": 5,
+      "file": "TCGA-50-6591.pt"
+    },
+    "TCGA-50-6593": {
+      "num_patches": 1,
+      "file": "TCGA-50-6593.pt"
+    },
+    "TCGA-50-6594": {
+      "num_patches": 1,
+      "file": "TCGA-50-6594.pt"
+    },
+    "TCGA-50-8457": {
+      "num_patches": 6,
+      "file": "TCGA-50-8457.pt"
+    },
+    "TCGA-50-8459": {
+      "num_patches": 1,
+      "file": "TCGA-50-8459.pt"
+    },
+    "TCGA-53-7626": {
+      "num_patches": 4,
+      "file": "TCGA-53-7626.pt"
+    },
+    "TCGA-53-7813": {
+      "num_patches": 3,
+      "file": "TCGA-53-7813.pt"
+    },
+    "TCGA-55-1592": {
+      "num_patches": 3,
+      "file": "TCGA-55-1592.pt"
+    },
+    "TCGA-55-1596": {
+      "num_patches": 1,
+      "file": "TCGA-55-1596.pt"
+    },
+    "TCGA-55-6969": {
+      "num_patches": 2,
+      "file": "TCGA-55-6969.pt"
+    },
+    "TCGA-55-6970": {
+      "num_patches": 1,
+      "file": "TCGA-55-6970.pt"
+    },
+    "TCGA-55-6971": {
+      "num_patches": 1,
+      "file": "TCGA-55-6971.pt"
+    },
+    "TCGA-55-6979": {
+      "num_patches": 4,
+      "file": "TCGA-55-6979.pt"
+    },
+    "TCGA-55-6980": {
+      "num_patches": 5,
+      "file": "TCGA-55-6980.pt"
+    },
+    "TCGA-55-6982": {
+      "num_patches": 4,
+      "file": "TCGA-55-6982.pt"
+    },
+    "TCGA-55-6983": {
+      "num_patches": 2,
+      "file": "TCGA-55-6983.pt"
+    },
+    "TCGA-55-6984": {
+      "num_patches": 2,
+      "file": "TCGA-55-6984.pt"
+    },
+    "TCGA-55-6985": {
+      "num_patches": 1,
+      "file": "TCGA-55-6985.pt"
+    },
+    "TCGA-55-7570": {
+      "num_patches": 1,
+      "file": "TCGA-55-7570.pt"
+    },
+    "TCGA-55-7573": {
+      "num_patches": 4,
+      "file": "TCGA-55-7573.pt"
+    },
+    "TCGA-55-7725": {
+      "num_patches": 5,
+      "file": "TCGA-55-7725.pt"
+    },
+    "TCGA-55-7726": {
+      "num_patches": 4,
+      "file": "TCGA-55-7726.pt"
+    },
+    "TCGA-55-7815": {
+      "num_patches": 4,
+      "file": "TCGA-55-7815.pt"
+    },
+    "TCGA-55-7907": {
+      "num_patches": 5,
+      "file": "TCGA-55-7907.pt"
+    },
+    "TCGA-55-7910": {
+      "num_patches": 2,
+      "file": "TCGA-55-7910.pt"
+    },
+    "TCGA-55-7911": {
+      "num_patches": 3,
+      "file": "TCGA-55-7911.pt"
+    },
+    "TCGA-55-7914": {
+      "num_patches": 2,
+      "file": "TCGA-55-7914.pt"
+    },
+    "TCGA-55-7995": {
+      "num_patches": 4,
+      "file": "TCGA-55-7995.pt"
+    },
+    "TCGA-55-8085": {
+      "num_patches": 1,
+      "file": "TCGA-55-8085.pt"
+    },
+    "TCGA-55-8087": {
+      "num_patches": 2,
+      "file": "TCGA-55-8087.pt"
+    },
+    "TCGA-55-8089": {
+      "num_patches": 4,
+      "file": "TCGA-55-8089.pt"
+    },
+    "TCGA-55-8090": {
+      "num_patches": 2,
+      "file": "TCGA-55-8090.pt"
+    },
+    "TCGA-55-8091": {
+      "num_patches": 2,
+      "file": "TCGA-55-8091.pt"
+    },
+    "TCGA-55-8092": {
+      "num_patches": 8,
+      "file": "TCGA-55-8092.pt"
+    },
+    "TCGA-55-8097": {
+      "num_patches": 4,
+      "file": "TCGA-55-8097.pt"
+    },
+    "TCGA-55-8205": {
+      "num_patches": 4,
+      "file": "TCGA-55-8205.pt"
+    },
+    "TCGA-55-8206": {
+      "num_patches": 1,
+      "file": "TCGA-55-8206.pt"
+    },
+    "TCGA-55-8301": {
+      "num_patches": 6,
+      "file": "TCGA-55-8301.pt"
+    },
+    "TCGA-55-8302": {
+      "num_patches": 5,
+      "file": "TCGA-55-8302.pt"
+    },
+    "TCGA-55-8505": {
+      "num_patches": 5,
+      "file": "TCGA-55-8505.pt"
+    },
+    "TCGA-55-8507": {
+      "num_patches": 1,
+      "file": "TCGA-55-8507.pt"
+    },
+    "TCGA-55-8508": {
+      "num_patches": 1,
+      "file": "TCGA-55-8508.pt"
+    },
+    "TCGA-55-8514": {
+      "num_patches": 1,
+      "file": "TCGA-55-8514.pt"
+    },
+    "TCGA-55-8615": {
+      "num_patches": 1,
+      "file": "TCGA-55-8615.pt"
+    },
+    "TCGA-55-A48Y": {
+      "num_patches": 2,
+      "file": "TCGA-55-A48Y.pt"
+    },
+    "TCGA-55-A48Z": {
+      "num_patches": 6,
+      "file": "TCGA-55-A48Z.pt"
+    },
+    "TCGA-55-A492": {
+      "num_patches": 1,
+      "file": "TCGA-55-A492.pt"
+    },
+    "TCGA-55-A493": {
+      "num_patches": 3,
+      "file": "TCGA-55-A493.pt"
+    },
+    "TCGA-55-A494": {
+      "num_patches": 1,
+      "file": "TCGA-55-A494.pt"
+    },
+    "TCGA-55-A4DF": {
+      "num_patches": 3,
+      "file": "TCGA-55-A4DF.pt"
+    },
+    "TCGA-55-A57B": {
+      "num_patches": 1,
+      "file": "TCGA-55-A57B.pt"
+    },
+    "TCGA-62-A46O": {
+      "num_patches": 1,
+      "file": "TCGA-62-A46O.pt"
+    },
+    "TCGA-62-A46R": {
+      "num_patches": 4,
+      "file": "TCGA-62-A46R.pt"
+    },
+    "TCGA-62-A46U": {
+      "num_patches": 1,
+      "file": "TCGA-62-A46U.pt"
+    },
+    "TCGA-62-A471": {
+      "num_patches": 3,
+      "file": "TCGA-62-A471.pt"
+    },
+    "TCGA-64-1676": {
+      "num_patches": 7,
+      "file": "TCGA-64-1676.pt"
+    },
+    "TCGA-64-1677": {
+      "num_patches": 4,
+      "file": "TCGA-64-1677.pt"
+    },
+    "TCGA-64-1678": {
+      "num_patches": 1,
+      "file": "TCGA-64-1678.pt"
+    },
+    "TCGA-64-1680": {
+      "num_patches": 7,
+      "file": "TCGA-64-1680.pt"
+    },
+    "TCGA-64-5775": {
+      "num_patches": 1,
+      "file": "TCGA-64-5775.pt"
+    },
+    "TCGA-64-5779": {
+      "num_patches": 3,
+      "file": "TCGA-64-5779.pt"
+    },
+    "TCGA-64-5815": {
+      "num_patches": 1,
+      "file": "TCGA-64-5815.pt"
+    },
+    "TCGA-67-3771": {
+      "num_patches": 1,
+      "file": "TCGA-67-3771.pt"
+    },
+    "TCGA-67-3772": {
+      "num_patches": 1,
+      "file": "TCGA-67-3772.pt"
+    },
+    "TCGA-67-3773": {
+      "num_patches": 3,
+      "file": "TCGA-67-3773.pt"
+    },
+    "TCGA-67-3774": {
+      "num_patches": 3,
+      "file": "TCGA-67-3774.pt"
+    },
+    "TCGA-67-4679": {
+      "num_patches": 1,
+      "file": "TCGA-67-4679.pt"
+    },
+    "TCGA-67-6216": {
+      "num_patches": 2,
+      "file": "TCGA-67-6216.pt"
+    },
+    "TCGA-67-6217": {
+      "num_patches": 4,
+      "file": "TCGA-67-6217.pt"
+    },
+    "TCGA-69-7761": {
+      "num_patches": 4,
+      "file": "TCGA-69-7761.pt"
+    },
+    "TCGA-69-7763": {
+      "num_patches": 2,
+      "file": "TCGA-69-7763.pt"
+    },
+    "TCGA-69-7765": {
+      "num_patches": 2,
+      "file": "TCGA-69-7765.pt"
+    },
+    "TCGA-69-7973": {
+      "num_patches": 4,
+      "file": "TCGA-69-7973.pt"
+    },
+    "TCGA-69-7974": {
+      "num_patches": 3,
+      "file": "TCGA-69-7974.pt"
+    },
+    "TCGA-69-7978": {
+      "num_patches": 5,
+      "file": "TCGA-69-7978.pt"
+    },
+    "TCGA-69-8253": {
+      "num_patches": 2,
+      "file": "TCGA-69-8253.pt"
+    },
+    "TCGA-69-8254": {
+      "num_patches": 4,
+      "file": "TCGA-69-8254.pt"
+    },
+    "TCGA-69-8453": {
+      "num_patches": 4,
+      "file": "TCGA-69-8453.pt"
+    },
+    "TCGA-73-4658": {
+      "num_patches": 1,
+      "file": "TCGA-73-4658.pt"
+    },
+    "TCGA-73-4659": {
+      "num_patches": 6,
+      "file": "TCGA-73-4659.pt"
+    },
+    "TCGA-73-4668": {
+      "num_patches": 5,
+      "file": "TCGA-73-4668.pt"
+    },
+    "TCGA-73-4670": {
+      "num_patches": 1,
+      "file": "TCGA-73-4670.pt"
+    },
+    "TCGA-73-4675": {
+      "num_patches": 4,
+      "file": "TCGA-73-4675.pt"
+    },
+    "TCGA-73-7499": {
+      "num_patches": 1,
+      "file": "TCGA-73-7499.pt"
+    },
+    "TCGA-75-5122": {
+      "num_patches": 2,
+      "file": "TCGA-75-5122.pt"
+    },
+    "TCGA-75-5146": {
+      "num_patches": 3,
+      "file": "TCGA-75-5146.pt"
+    },
+    "TCGA-75-5147": {
+      "num_patches": 4,
+      "file": "TCGA-75-5147.pt"
+    },
+    "TCGA-75-6205": {
+      "num_patches": 1,
+      "file": "TCGA-75-6205.pt"
+    },
+    "TCGA-75-6211": {
+      "num_patches": 4,
+      "file": "TCGA-75-6211.pt"
+    },
+    "TCGA-75-6214": {
+      "num_patches": 6,
+      "file": "TCGA-75-6214.pt"
+    },
+    "TCGA-75-7027": {
+      "num_patches": 3,
+      "file": "TCGA-75-7027.pt"
+    },
+    "TCGA-75-7030": {
+      "num_patches": 5,
+      "file": "TCGA-75-7030.pt"
+    },
+    "TCGA-78-7145": {
+      "num_patches": 5,
+      "file": "TCGA-78-7145.pt"
+    },
+    "TCGA-78-7146": {
+      "num_patches": 3,
+      "file": "TCGA-78-7146.pt"
+    },
+    "TCGA-78-7147": {
+      "num_patches": 3,
+      "file": "TCGA-78-7147.pt"
+    },
+    "TCGA-78-7148": {
+      "num_patches": 4,
+      "file": "TCGA-78-7148.pt"
+    },
+    "TCGA-78-7150": {
+      "num_patches": 1,
+      "file": "TCGA-78-7150.pt"
+    },
+    "TCGA-78-7152": {
+      "num_patches": 2,
+      "file": "TCGA-78-7152.pt"
+    },
+    "TCGA-78-7155": {
+      "num_patches": 1,
+      "file": "TCGA-78-7155.pt"
+    },
+    "TCGA-78-7158": {
+      "num_patches": 6,
+      "file": "TCGA-78-7158.pt"
+    },
+    "TCGA-78-7159": {
+      "num_patches": 7,
+      "file": "TCGA-78-7159.pt"
+    },
+    "TCGA-78-7160": {
+      "num_patches": 2,
+      "file": "TCGA-78-7160.pt"
+    },
+    "TCGA-78-7161": {
+      "num_patches": 1,
+      "file": "TCGA-78-7161.pt"
+    },
+    "TCGA-78-7163": {
+      "num_patches": 1,
+      "file": "TCGA-78-7163.pt"
+    },
+    "TCGA-78-7166": {
+      "num_patches": 3,
+      "file": "TCGA-78-7166.pt"
+    },
+    "TCGA-78-7220": {
+      "num_patches": 4,
+      "file": "TCGA-78-7220.pt"
+    },
+    "TCGA-78-7536": {
+      "num_patches": 3,
+      "file": "TCGA-78-7536.pt"
+    },
+    "TCGA-78-7537": {
+      "num_patches": 2,
+      "file": "TCGA-78-7537.pt"
+    },
+    "TCGA-78-7539": {
+      "num_patches": 1,
+      "file": "TCGA-78-7539.pt"
+    },
+    "TCGA-78-7540": {
+      "num_patches": 1,
+      "file": "TCGA-78-7540.pt"
+    },
+    "TCGA-78-8640": {
+      "num_patches": 1,
+      "file": "TCGA-78-8640.pt"
+    },
+    "TCGA-78-8655": {
+      "num_patches": 1,
+      "file": "TCGA-78-8655.pt"
+    },
+    "TCGA-80-5607": {
+      "num_patches": 3,
+      "file": "TCGA-80-5607.pt"
+    },
+    "TCGA-80-5608": {
+      "num_patches": 2,
+      "file": "TCGA-80-5608.pt"
+    },
+    "TCGA-80-5611": {
+      "num_patches": 3,
+      "file": "TCGA-80-5611.pt"
+    },
+    "TCGA-83-5908": {
+      "num_patches": 4,
+      "file": "TCGA-83-5908.pt"
+    },
+    "TCGA-86-6851": {
+      "num_patches": 2,
+      "file": "TCGA-86-6851.pt"
+    },
+    "TCGA-86-7701": {
+      "num_patches": 4,
+      "file": "TCGA-86-7701.pt"
+    },
+    "TCGA-86-7711": {
+      "num_patches": 4,
+      "file": "TCGA-86-7711.pt"
+    },
+    "TCGA-86-7713": {
+      "num_patches": 4,
+      "file": "TCGA-86-7713.pt"
+    },
+    "TCGA-86-7714": {
+      "num_patches": 5,
+      "file": "TCGA-86-7714.pt"
+    },
+    "TCGA-86-7954": {
+      "num_patches": 4,
+      "file": "TCGA-86-7954.pt"
+    },
+    "TCGA-86-7955": {
+      "num_patches": 3,
+      "file": "TCGA-86-7955.pt"
+    },
+    "TCGA-86-8055": {
+      "num_patches": 4,
+      "file": "TCGA-86-8055.pt"
+    },
+    "TCGA-86-8056": {
+      "num_patches": 2,
+      "file": "TCGA-86-8056.pt"
+    },
+    "TCGA-86-8073": {
+      "num_patches": 6,
+      "file": "TCGA-86-8073.pt"
+    },
+    "TCGA-86-8075": {
+      "num_patches": 3,
+      "file": "TCGA-86-8075.pt"
+    },
+    "TCGA-86-8278": {
+      "num_patches": 6,
+      "file": "TCGA-86-8278.pt"
+    },
+    "TCGA-86-8279": {
+      "num_patches": 2,
+      "file": "TCGA-86-8279.pt"
+    },
+    "TCGA-86-8280": {
+      "num_patches": 4,
+      "file": "TCGA-86-8280.pt"
+    },
+    "TCGA-86-8358": {
+      "num_patches": 1,
+      "file": "TCGA-86-8358.pt"
+    },
+    "TCGA-86-8359": {
+      "num_patches": 5,
+      "file": "TCGA-86-8359.pt"
+    },
+    "TCGA-86-8585": {
+      "num_patches": 1,
+      "file": "TCGA-86-8585.pt"
+    },
+    "TCGA-86-8669": {
+      "num_patches": 1,
+      "file": "TCGA-86-8669.pt"
+    },
+    "TCGA-86-8671": {
+      "num_patches": 3,
+      "file": "TCGA-86-8671.pt"
+    },
+    "TCGA-86-8672": {
+      "num_patches": 3,
+      "file": "TCGA-86-8672.pt"
+    },
+    "TCGA-86-8673": {
+      "num_patches": 1,
+      "file": "TCGA-86-8673.pt"
+    },
+    "TCGA-86-A4D0": {
+      "num_patches": 1,
+      "file": "TCGA-86-A4D0.pt"
+    },
+    "TCGA-86-A4P8": {
+      "num_patches": 1,
+      "file": "TCGA-86-A4P8.pt"
+    },
+    "TCGA-91-A4BD": {
+      "num_patches": 6,
+      "file": "TCGA-91-A4BD.pt"
+    },
+    "TCGA-93-7347": {
+      "num_patches": 5,
+      "file": "TCGA-93-7347.pt"
+    },
+    "TCGA-93-A4JN": {
+      "num_patches": 3,
+      "file": "TCGA-93-A4JN.pt"
+    },
+    "TCGA-93-A4JO": {
+      "num_patches": 4,
+      "file": "TCGA-93-A4JO.pt"
+    },
+    "TCGA-93-A4JQ": {
+      "num_patches": 5,
+      "file": "TCGA-93-A4JQ.pt"
+    },
+    "TCGA-95-7039": {
+      "num_patches": 6,
+      "file": "TCGA-95-7039.pt"
+    },
+    "TCGA-95-7567": {
+      "num_patches": 5,
+      "file": "TCGA-95-7567.pt"
+    },
+    "TCGA-95-7944": {
+      "num_patches": 2,
+      "file": "TCGA-95-7944.pt"
+    },
+    "TCGA-95-7947": {
+      "num_patches": 2,
+      "file": "TCGA-95-7947.pt"
+    },
+    "TCGA-95-7948": {
+      "num_patches": 8,
+      "file": "TCGA-95-7948.pt"
+    },
+    "TCGA-95-8039": {
+      "num_patches": 4,
+      "file": "TCGA-95-8039.pt"
+    },
+    "TCGA-95-A4VK": {
+      "num_patches": 7,
+      "file": "TCGA-95-A4VK.pt"
+    },
+    "TCGA-95-A4VN": {
+      "num_patches": 4,
+      "file": "TCGA-95-A4VN.pt"
+    },
+    "TCGA-95-A4VP": {
+      "num_patches": 3,
+      "file": "TCGA-95-A4VP.pt"
+    },
+    "TCGA-97-7547": {
+      "num_patches": 1,
+      "file": "TCGA-97-7547.pt"
+    },
+    "TCGA-97-7552": {
+      "num_patches": 2,
+      "file": "TCGA-97-7552.pt"
+    },
+    "TCGA-97-7553": {
+      "num_patches": 5,
+      "file": "TCGA-97-7553.pt"
+    },
+    "TCGA-97-7554": {
+      "num_patches": 2,
+      "file": "TCGA-97-7554.pt"
+    },
+    "TCGA-97-7938": {
+      "num_patches": 1,
+      "file": "TCGA-97-7938.pt"
+    },
+    "TCGA-97-8175": {
+      "num_patches": 5,
+      "file": "TCGA-97-8175.pt"
+    },
+    "TCGA-97-A4LX": {
+      "num_patches": 1,
+      "file": "TCGA-97-A4LX.pt"
+    },
+    "TCGA-97-A4M1": {
+      "num_patches": 4,
+      "file": "TCGA-97-A4M1.pt"
+    },
+    "TCGA-97-A4M2": {
+      "num_patches": 6,
+      "file": "TCGA-97-A4M2.pt"
+    },
+    "TCGA-97-A4M5": {
+      "num_patches": 2,
+      "file": "TCGA-97-A4M5.pt"
+    },
+    "TCGA-97-A4M7": {
+      "num_patches": 7,
+      "file": "TCGA-97-A4M7.pt"
+    },
+    "TCGA-99-8025": {
+      "num_patches": 2,
+      "file": "TCGA-99-8025.pt"
+    },
+    "TCGA-99-8032": {
+      "num_patches": 5,
+      "file": "TCGA-99-8032.pt"
+    },
+    "TCGA-J2-8192": {
+      "num_patches": 4,
+      "file": "TCGA-J2-8192.pt"
+    },
+    "TCGA-J2-8194": {
+      "num_patches": 1,
+      "file": "TCGA-J2-8194.pt"
+    },
+    "TCGA-L9-A7SV": {
+      "num_patches": 1,
+      "file": "TCGA-L9-A7SV.pt"
+    },
+    "TCGA-L9-A8F4": {
+      "num_patches": 4,
+      "file": "TCGA-L9-A8F4.pt"
+    },
+    "TCGA-MN-A4N4": {
+      "num_patches": 1,
+      "file": "TCGA-MN-A4N4.pt"
+    },
+    "TCGA-MP-A4SV": {
+      "num_patches": 2,
+      "file": "TCGA-MP-A4SV.pt"
+    },
+    "TCGA-MP-A4SW": {
+      "num_patches": 5,
+      "file": "TCGA-MP-A4SW.pt"
+    },
+    "TCGA-MP-A4T6": {
+      "num_patches": 1,
+      "file": "TCGA-MP-A4T6.pt"
+    },
+    "TCGA-MP-A4T8": {
+      "num_patches": 1,
+      "file": "TCGA-MP-A4T8.pt"
+    },
+    "TCGA-MP-A4T9": {
+      "num_patches": 2,
+      "file": "TCGA-MP-A4T9.pt"
+    },
+    "TCGA-MP-A4TA": {
+      "num_patches": 6,
+      "file": "TCGA-MP-A4TA.pt"
+    },
+    "TCGA-MP-A4TC": {
+      "num_patches": 4,
+      "file": "TCGA-MP-A4TC.pt"
+    },
+    "TCGA-MP-A4TD": {
+      "num_patches": 5,
+      "file": "TCGA-MP-A4TD.pt"
+    },
+    "TCGA-MP-A4TE": {
+      "num_patches": 6,
+      "file": "TCGA-MP-A4TE.pt"
+    },
+    "TCGA-MP-A4TH": {
+      "num_patches": 6,
+      "file": "TCGA-MP-A4TH.pt"
+    },
+    "TCGA-MP-A4TI": {
+      "num_patches": 3,
+      "file": "TCGA-MP-A4TI.pt"
+    },
+    "TCGA-MP-A4TJ": {
+      "num_patches": 4,
+      "file": "TCGA-MP-A4TJ.pt"
+    },
+    "TCGA-MP-A4TK": {
+      "num_patches": 1,
+      "file": "TCGA-MP-A4TK.pt"
+    },
+    "TCGA-MP-A5C7": {
+      "num_patches": 1,
+      "file": "TCGA-MP-A5C7.pt"
+    },
+    "TCGA-NJ-A55A": {
+      "num_patches": 5,
+      "file": "TCGA-NJ-A55A.pt"
+    }
+  },
+  "lusc": {
+    "TCGA-21-1070": {
+      "num_patches": 119,
+      "file": "TCGA-21-1070.pt"
+    },
+    "TCGA-21-1071": {
+      "num_patches": 1,
+      "file": "TCGA-21-1071.pt"
+    },
+    "TCGA-21-1072": {
+      "num_patches": 118,
+      "file": "TCGA-21-1072.pt"
+    },
+    "TCGA-21-1076": {
+      "num_patches": 1,
+      "file": "TCGA-21-1076.pt"
+    },
+    "TCGA-21-1077": {
+      "num_patches": 119,
+      "file": "TCGA-21-1077.pt"
+    },
+    "TCGA-21-1078": {
+      "num_patches": 119,
+      "file": "TCGA-21-1078.pt"
+    },
+    "TCGA-21-1079": {
+      "num_patches": 1,
+      "file": "TCGA-21-1079.pt"
+    },
+    "TCGA-21-1081": {
+      "num_patches": 118,
+      "file": "TCGA-21-1081.pt"
+    },
+    "TCGA-21-1082": {
+      "num_patches": 119,
+      "file": "TCGA-21-1082.pt"
+    },
+    "TCGA-21-1083": {
+      "num_patches": 116,
+      "file": "TCGA-21-1083.pt"
+    },
+    "TCGA-21-5782": {
+      "num_patches": 1,
+      "file": "TCGA-21-5782.pt"
+    },
+    "TCGA-21-5786": {
+      "num_patches": 119,
+      "file": "TCGA-21-5786.pt"
+    },
+    "TCGA-33-4532": {
+      "num_patches": 1,
+      "file": "TCGA-33-4532.pt"
+    },
+    "TCGA-33-4538": {
+      "num_patches": 1,
+      "file": "TCGA-33-4538.pt"
+    },
+    "TCGA-33-4583": {
+      "num_patches": 1,
+      "file": "TCGA-33-4583.pt"
+    },
+    "TCGA-33-4587": {
+      "num_patches": 119,
+      "file": "TCGA-33-4587.pt"
+    },
+    "TCGA-33-6738": {
+      "num_patches": 3,
+      "file": "TCGA-33-6738.pt"
+    },
+    "TCGA-33-A4WN": {
+      "num_patches": 238,
+      "file": "TCGA-33-A4WN.pt"
+    },
+    "TCGA-33-A5GW": {
+      "num_patches": 119,
+      "file": "TCGA-33-A5GW.pt"
+    },
+    "TCGA-33-AASD": {
+      "num_patches": 1,
+      "file": "TCGA-33-AASD.pt"
+    },
+    "TCGA-33-AASI": {
+      "num_patches": 119,
+      "file": "TCGA-33-AASI.pt"
+    },
+    "TCGA-33-AASJ": {
+      "num_patches": 119,
+      "file": "TCGA-33-AASJ.pt"
+    },
+    "TCGA-33-AASL": {
+      "num_patches": 119,
+      "file": "TCGA-33-AASL.pt"
+    },
+    "TCGA-34-2600": {
+      "num_patches": 119,
+      "file": "TCGA-34-2600.pt"
+    },
+    "TCGA-34-2604": {
+      "num_patches": 1,
+      "file": "TCGA-34-2604.pt"
+    },
+    "TCGA-34-2605": {
+      "num_patches": 119,
+      "file": "TCGA-34-2605.pt"
+    },
+    "TCGA-34-5232": {
+      "num_patches": 119,
+      "file": "TCGA-34-5232.pt"
+    },
+    "TCGA-34-5240": {
+      "num_patches": 1,
+      "file": "TCGA-34-5240.pt"
+    },
+    "TCGA-34-5241": {
+      "num_patches": 1,
+      "file": "TCGA-34-5241.pt"
+    },
+    "TCGA-34-5929": {
+      "num_patches": 118,
+      "file": "TCGA-34-5929.pt"
+    },
+    "TCGA-34-7107": {
+      "num_patches": 119,
+      "file": "TCGA-34-7107.pt"
+    },
+    "TCGA-34-8454": {
+      "num_patches": 1,
+      "file": "TCGA-34-8454.pt"
+    },
+    "TCGA-34-8455": {
+      "num_patches": 119,
+      "file": "TCGA-34-8455.pt"
+    },
+    "TCGA-34-A5IX": {
+      "num_patches": 119,
+      "file": "TCGA-34-A5IX.pt"
+    },
+    "TCGA-37-4129": {
+      "num_patches": 119,
+      "file": "TCGA-37-4129.pt"
+    },
+    "TCGA-37-4130": {
+      "num_patches": 119,
+      "file": "TCGA-37-4130.pt"
+    },
+    "TCGA-37-4141": {
+      "num_patches": 119,
+      "file": "TCGA-37-4141.pt"
+    },
+    "TCGA-37-5819": {
+      "num_patches": 119,
+      "file": "TCGA-37-5819.pt"
+    },
+    "TCGA-39-5011": {
+      "num_patches": 119,
+      "file": "TCGA-39-5011.pt"
+    },
+    "TCGA-39-5016": {
+      "num_patches": 119,
+      "file": "TCGA-39-5016.pt"
+    },
+    "TCGA-39-5021": {
+      "num_patches": 119,
+      "file": "TCGA-39-5021.pt"
+    },
+    "TCGA-39-5027": {
+      "num_patches": 119,
+      "file": "TCGA-39-5027.pt"
+    },
+    "TCGA-39-5034": {
+      "num_patches": 1,
+      "file": "TCGA-39-5034.pt"
+    },
+    "TCGA-39-5035": {
+      "num_patches": 1,
+      "file": "TCGA-39-5035.pt"
+    },
+    "TCGA-39-5037": {
+      "num_patches": 119,
+      "file": "TCGA-39-5037.pt"
+    },
+    "TCGA-39-5039": {
+      "num_patches": 119,
+      "file": "TCGA-39-5039.pt"
+    },
+    "TCGA-43-2576": {
+      "num_patches": 119,
+      "file": "TCGA-43-2576.pt"
+    },
+    "TCGA-43-2578": {
+      "num_patches": 1,
+      "file": "TCGA-43-2578.pt"
+    },
+    "TCGA-43-2581": {
+      "num_patches": 1,
+      "file": "TCGA-43-2581.pt"
+    },
+    "TCGA-43-3920": {
+      "num_patches": 119,
+      "file": "TCGA-43-3920.pt"
+    },
+    "TCGA-43-5670": {
+      "num_patches": 118,
+      "file": "TCGA-43-5670.pt"
+    },
+    "TCGA-43-6143": {
+      "num_patches": 117,
+      "file": "TCGA-43-6143.pt"
+    },
+    "TCGA-43-6647": {
+      "num_patches": 119,
+      "file": "TCGA-43-6647.pt"
+    },
+    "TCGA-43-6770": {
+      "num_patches": 119,
+      "file": "TCGA-43-6770.pt"
+    },
+    "TCGA-43-6771": {
+      "num_patches": 119,
+      "file": "TCGA-43-6771.pt"
+    },
+    "TCGA-43-6773": {
+      "num_patches": 119,
+      "file": "TCGA-43-6773.pt"
+    },
+    "TCGA-43-7656": {
+      "num_patches": 116,
+      "file": "TCGA-43-7656.pt"
+    },
+    "TCGA-43-8115": {
+      "num_patches": 119,
+      "file": "TCGA-43-8115.pt"
+    },
+    "TCGA-43-A474": {
+      "num_patches": 119,
+      "file": "TCGA-43-A474.pt"
+    },
+    "TCGA-43-A56U": {
+      "num_patches": 118,
+      "file": "TCGA-43-A56U.pt"
+    },
+    "TCGA-46-3765": {
+      "num_patches": 119,
+      "file": "TCGA-46-3765.pt"
+    },
+    "TCGA-46-3766": {
+      "num_patches": 119,
+      "file": "TCGA-46-3766.pt"
+    },
+    "TCGA-46-3767": {
+      "num_patches": 119,
+      "file": "TCGA-46-3767.pt"
+    },
+    "TCGA-46-3769": {
+      "num_patches": 1,
+      "file": "TCGA-46-3769.pt"
+    },
+    "TCGA-46-6025": {
+      "num_patches": 119,
+      "file": "TCGA-46-6025.pt"
+    },
+    "TCGA-51-4079": {
+      "num_patches": 119,
+      "file": "TCGA-51-4079.pt"
+    },
+    "TCGA-51-4080": {
+      "num_patches": 119,
+      "file": "TCGA-51-4080.pt"
+    },
+    "TCGA-51-4081": {
+      "num_patches": 118,
+      "file": "TCGA-51-4081.pt"
+    },
+    "TCGA-51-6867": {
+      "num_patches": 119,
+      "file": "TCGA-51-6867.pt"
+    },
+    "TCGA-52-7622": {
+      "num_patches": 119,
+      "file": "TCGA-52-7622.pt"
+    },
+    "TCGA-52-7809": {
+      "num_patches": 119,
+      "file": "TCGA-52-7809.pt"
+    },
+    "TCGA-52-7810": {
+      "num_patches": 96,
+      "file": "TCGA-52-7810.pt"
+    },
+    "TCGA-52-7812": {
+      "num_patches": 119,
+      "file": "TCGA-52-7812.pt"
+    },
+    "TCGA-56-7222": {
+      "num_patches": 1,
+      "file": "TCGA-56-7222.pt"
+    },
+    "TCGA-56-7223": {
+      "num_patches": 1,
+      "file": "TCGA-56-7223.pt"
+    },
+    "TCGA-56-7579": {
+      "num_patches": 119,
+      "file": "TCGA-56-7579.pt"
+    },
+    "TCGA-56-7580": {
+      "num_patches": 1,
+      "file": "TCGA-56-7580.pt"
+    },
+    "TCGA-56-7582": {
+      "num_patches": 119,
+      "file": "TCGA-56-7582.pt"
+    },
+    "TCGA-56-7730": {
+      "num_patches": 118,
+      "file": "TCGA-56-7730.pt"
+    },
+    "TCGA-56-7731": {
+      "num_patches": 119,
+      "file": "TCGA-56-7731.pt"
+    },
+    "TCGA-56-7822": {
+      "num_patches": 1,
+      "file": "TCGA-56-7822.pt"
+    },
+    "TCGA-56-7823": {
+      "num_patches": 1,
+      "file": "TCGA-56-7823.pt"
+    },
+    "TCGA-56-8082": {
+      "num_patches": 115,
+      "file": "TCGA-56-8082.pt"
+    },
+    "TCGA-56-8083": {
+      "num_patches": 118,
+      "file": "TCGA-56-8083.pt"
+    },
+    "TCGA-56-8201": {
+      "num_patches": 117,
+      "file": "TCGA-56-8201.pt"
+    },
+    "TCGA-56-8304": {
+      "num_patches": 1,
+      "file": "TCGA-56-8304.pt"
+    },
+    "TCGA-56-8305": {
+      "num_patches": 119,
+      "file": "TCGA-56-8305.pt"
+    },
+    "TCGA-56-8307": {
+      "num_patches": 1,
+      "file": "TCGA-56-8307.pt"
+    },
+    "TCGA-56-8308": {
+      "num_patches": 119,
+      "file": "TCGA-56-8308.pt"
+    },
+    "TCGA-56-8309": {
+      "num_patches": 117,
+      "file": "TCGA-56-8309.pt"
+    },
+    "TCGA-56-8503": {
+      "num_patches": 119,
+      "file": "TCGA-56-8503.pt"
+    },
+    "TCGA-56-8504": {
+      "num_patches": 119,
+      "file": "TCGA-56-8504.pt"
+    },
+    "TCGA-56-8622": {
+      "num_patches": 119,
+      "file": "TCGA-56-8622.pt"
+    },
+    "TCGA-56-8623": {
+      "num_patches": 119,
+      "file": "TCGA-56-8623.pt"
+    },
+    "TCGA-56-8624": {
+      "num_patches": 1,
+      "file": "TCGA-56-8624.pt"
+    },
+    "TCGA-56-8626": {
+      "num_patches": 119,
+      "file": "TCGA-56-8626.pt"
+    },
+    "TCGA-56-8628": {
+      "num_patches": 1,
+      "file": "TCGA-56-8628.pt"
+    },
+    "TCGA-56-8629": {
+      "num_patches": 119,
+      "file": "TCGA-56-8629.pt"
+    },
+    "TCGA-56-A49D": {
+      "num_patches": 1,
+      "file": "TCGA-56-A49D.pt"
+    },
+    "TCGA-56-A4BX": {
+      "num_patches": 117,
+      "file": "TCGA-56-A4BX.pt"
+    },
+    "TCGA-56-A4BY": {
+      "num_patches": 119,
+      "file": "TCGA-56-A4BY.pt"
+    },
+    "TCGA-56-A4ZK": {
+      "num_patches": 118,
+      "file": "TCGA-56-A4ZK.pt"
+    },
+    "TCGA-56-A5DR": {
+      "num_patches": 118,
+      "file": "TCGA-56-A5DR.pt"
+    },
+    "TCGA-56-A5DS": {
+      "num_patches": 1,
+      "file": "TCGA-56-A5DS.pt"
+    },
+    "TCGA-58-A46J": {
+      "num_patches": 119,
+      "file": "TCGA-58-A46J.pt"
+    },
+    "TCGA-58-A46K": {
+      "num_patches": 1,
+      "file": "TCGA-58-A46K.pt"
+    },
+    "TCGA-58-A46L": {
+      "num_patches": 119,
+      "file": "TCGA-58-A46L.pt"
+    },
+    "TCGA-58-A46M": {
+      "num_patches": 1,
+      "file": "TCGA-58-A46M.pt"
+    },
+    "TCGA-58-A46N": {
+      "num_patches": 1,
+      "file": "TCGA-58-A46N.pt"
+    },
+    "TCGA-60-2695": {
+      "num_patches": 119,
+      "file": "TCGA-60-2695.pt"
+    },
+    "TCGA-60-2696": {
+      "num_patches": 119,
+      "file": "TCGA-60-2696.pt"
+    },
+    "TCGA-60-2698": {
+      "num_patches": 119,
+      "file": "TCGA-60-2698.pt"
+    },
+    "TCGA-60-2703": {
+      "num_patches": 119,
+      "file": "TCGA-60-2703.pt"
+    },
+    "TCGA-60-2704": {
+      "num_patches": 119,
+      "file": "TCGA-60-2704.pt"
+    },
+    "TCGA-60-2706": {
+      "num_patches": 119,
+      "file": "TCGA-60-2706.pt"
+    },
+    "TCGA-60-2707": {
+      "num_patches": 119,
+      "file": "TCGA-60-2707.pt"
+    },
+    "TCGA-60-2708": {
+      "num_patches": 119,
+      "file": "TCGA-60-2708.pt"
+    },
+    "TCGA-60-2709": {
+      "num_patches": 119,
+      "file": "TCGA-60-2709.pt"
+    },
+    "TCGA-60-2710": {
+      "num_patches": 1,
+      "file": "TCGA-60-2710.pt"
+    },
+    "TCGA-60-2715": {
+      "num_patches": 119,
+      "file": "TCGA-60-2715.pt"
+    },
+    "TCGA-60-2716": {
+      "num_patches": 119,
+      "file": "TCGA-60-2716.pt"
+    },
+    "TCGA-60-2719": {
+      "num_patches": 119,
+      "file": "TCGA-60-2719.pt"
+    },
+    "TCGA-60-2720": {
+      "num_patches": 118,
+      "file": "TCGA-60-2720.pt"
+    },
+    "TCGA-60-2722": {
+      "num_patches": 119,
+      "file": "TCGA-60-2722.pt"
+    },
+    "TCGA-60-2724": {
+      "num_patches": 119,
+      "file": "TCGA-60-2724.pt"
+    },
+    "TCGA-60-2726": {
+      "num_patches": 119,
+      "file": "TCGA-60-2726.pt"
+    },
+    "TCGA-63-5128": {
+      "num_patches": 1,
+      "file": "TCGA-63-5128.pt"
+    },
+    "TCGA-63-5131": {
+      "num_patches": 1,
+      "file": "TCGA-63-5131.pt"
+    },
+    "TCGA-63-6202": {
+      "num_patches": 119,
+      "file": "TCGA-63-6202.pt"
+    },
+    "TCGA-63-7020": {
+      "num_patches": 1,
+      "file": "TCGA-63-7020.pt"
+    },
+    "TCGA-63-7021": {
+      "num_patches": 118,
+      "file": "TCGA-63-7021.pt"
+    },
+    "TCGA-63-7022": {
+      "num_patches": 119,
+      "file": "TCGA-63-7022.pt"
+    },
+    "TCGA-63-7023": {
+      "num_patches": 119,
+      "file": "TCGA-63-7023.pt"
+    },
+    "TCGA-63-A5M9": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5M9.pt"
+    },
+    "TCGA-63-A5MB": {
+      "num_patches": 1,
+      "file": "TCGA-63-A5MB.pt"
+    },
+    "TCGA-63-A5MG": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MG.pt"
+    },
+    "TCGA-63-A5MI": {
+      "num_patches": 1,
+      "file": "TCGA-63-A5MI.pt"
+    },
+    "TCGA-63-A5MJ": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MJ.pt"
+    },
+    "TCGA-63-A5ML": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5ML.pt"
+    },
+    "TCGA-63-A5MM": {
+      "num_patches": 118,
+      "file": "TCGA-63-A5MM.pt"
+    },
+    "TCGA-63-A5MP": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MP.pt"
+    },
+    "TCGA-63-A5MR": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MR.pt"
+    },
+    "TCGA-63-A5MS": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MS.pt"
+    },
+    "TCGA-63-A5MT": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MT.pt"
+    },
+    "TCGA-63-A5MU": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MU.pt"
+    },
+    "TCGA-63-A5MV": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MV.pt"
+    },
+    "TCGA-63-A5MW": {
+      "num_patches": 1,
+      "file": "TCGA-63-A5MW.pt"
+    },
+    "TCGA-63-A5MY": {
+      "num_patches": 119,
+      "file": "TCGA-63-A5MY.pt"
+    },
+    "TCGA-66-2734": {
+      "num_patches": 119,
+      "file": "TCGA-66-2734.pt"
+    },
+    "TCGA-66-2737": {
+      "num_patches": 119,
+      "file": "TCGA-66-2737.pt"
+    },
+    "TCGA-66-2742": {
+      "num_patches": 1,
+      "file": "TCGA-66-2742.pt"
+    },
+    "TCGA-66-2754": {
+      "num_patches": 118,
+      "file": "TCGA-66-2754.pt"
+    },
+    "TCGA-66-2755": {
+      "num_patches": 119,
+      "file": "TCGA-66-2755.pt"
+    },
+    "TCGA-66-2757": {
+      "num_patches": 119,
+      "file": "TCGA-66-2757.pt"
+    },
+    "TCGA-66-2758": {
+      "num_patches": 1,
+      "file": "TCGA-66-2758.pt"
+    },
+    "TCGA-66-2763": {
+      "num_patches": 119,
+      "file": "TCGA-66-2763.pt"
+    },
+    "TCGA-66-2766": {
+      "num_patches": 1,
+      "file": "TCGA-66-2766.pt"
+    },
+    "TCGA-66-2767": {
+      "num_patches": 119,
+      "file": "TCGA-66-2767.pt"
+    },
+    "TCGA-66-2768": {
+      "num_patches": 117,
+      "file": "TCGA-66-2768.pt"
+    },
+    "TCGA-66-2769": {
+      "num_patches": 1,
+      "file": "TCGA-66-2769.pt"
+    },
+    "TCGA-66-2770": {
+      "num_patches": 238,
+      "file": "TCGA-66-2770.pt"
+    },
+    "TCGA-66-2773": {
+      "num_patches": 1,
+      "file": "TCGA-66-2773.pt"
+    },
+    "TCGA-66-2777": {
+      "num_patches": 119,
+      "file": "TCGA-66-2777.pt"
+    },
+    "TCGA-66-2778": {
+      "num_patches": 119,
+      "file": "TCGA-66-2778.pt"
+    },
+    "TCGA-66-2780": {
+      "num_patches": 118,
+      "file": "TCGA-66-2780.pt"
+    },
+    "TCGA-66-2781": {
+      "num_patches": 118,
+      "file": "TCGA-66-2781.pt"
+    },
+    "TCGA-66-2783": {
+      "num_patches": 119,
+      "file": "TCGA-66-2783.pt"
+    },
+    "TCGA-66-2785": {
+      "num_patches": 118,
+      "file": "TCGA-66-2785.pt"
+    },
+    "TCGA-66-2786": {
+      "num_patches": 119,
+      "file": "TCGA-66-2786.pt"
+    },
+    "TCGA-66-2787": {
+      "num_patches": 118,
+      "file": "TCGA-66-2787.pt"
+    },
+    "TCGA-66-2788": {
+      "num_patches": 119,
+      "file": "TCGA-66-2788.pt"
+    },
+    "TCGA-66-2790": {
+      "num_patches": 118,
+      "file": "TCGA-66-2790.pt"
+    },
+    "TCGA-66-2800": {
+      "num_patches": 119,
+      "file": "TCGA-66-2800.pt"
+    },
+    "TCGA-68-7756": {
+      "num_patches": 119,
+      "file": "TCGA-68-7756.pt"
+    },
+    "TCGA-68-8250": {
+      "num_patches": 119,
+      "file": "TCGA-68-8250.pt"
+    },
+    "TCGA-68-8251": {
+      "num_patches": 119,
+      "file": "TCGA-68-8251.pt"
+    },
+    "TCGA-68-A59J": {
+      "num_patches": 119,
+      "file": "TCGA-68-A59J.pt"
+    },
+    "TCGA-6A-AB49": {
+      "num_patches": 119,
+      "file": "TCGA-6A-AB49.pt"
+    },
+    "TCGA-70-6722": {
+      "num_patches": 119,
+      "file": "TCGA-70-6722.pt"
+    },
+    "TCGA-70-6723": {
+      "num_patches": 119,
+      "file": "TCGA-70-6723.pt"
+    },
+    "TCGA-77-6842": {
+      "num_patches": 1,
+      "file": "TCGA-77-6842.pt"
+    },
+    "TCGA-77-6843": {
+      "num_patches": 119,
+      "file": "TCGA-77-6843.pt"
+    },
+    "TCGA-77-6844": {
+      "num_patches": 119,
+      "file": "TCGA-77-6844.pt"
+    },
+    "TCGA-77-6845": {
+      "num_patches": 119,
+      "file": "TCGA-77-6845.pt"
+    },
+    "TCGA-77-7138": {
+      "num_patches": 1,
+      "file": "TCGA-77-7138.pt"
+    },
+    "TCGA-77-7139": {
+      "num_patches": 119,
+      "file": "TCGA-77-7139.pt"
+    },
+    "TCGA-77-7141": {
+      "num_patches": 119,
+      "file": "TCGA-77-7141.pt"
+    },
+    "TCGA-77-7337": {
+      "num_patches": 119,
+      "file": "TCGA-77-7337.pt"
+    },
+    "TCGA-77-7463": {
+      "num_patches": 1,
+      "file": "TCGA-77-7463.pt"
+    },
+    "TCGA-77-8007": {
+      "num_patches": 118,
+      "file": "TCGA-77-8007.pt"
+    },
+    "TCGA-77-8008": {
+      "num_patches": 118,
+      "file": "TCGA-77-8008.pt"
+    },
+    "TCGA-77-8128": {
+      "num_patches": 118,
+      "file": "TCGA-77-8128.pt"
+    },
+    "TCGA-77-8130": {
+      "num_patches": 1,
+      "file": "TCGA-77-8130.pt"
+    },
+    "TCGA-77-8131": {
+      "num_patches": 119,
+      "file": "TCGA-77-8131.pt"
+    },
+    "TCGA-77-8136": {
+      "num_patches": 119,
+      "file": "TCGA-77-8136.pt"
+    },
+    "TCGA-77-8138": {
+      "num_patches": 1,
+      "file": "TCGA-77-8138.pt"
+    },
+    "TCGA-77-8139": {
+      "num_patches": 119,
+      "file": "TCGA-77-8139.pt"
+    },
+    "TCGA-77-8146": {
+      "num_patches": 118,
+      "file": "TCGA-77-8146.pt"
+    },
+    "TCGA-77-8148": {
+      "num_patches": 119,
+      "file": "TCGA-77-8148.pt"
+    },
+    "TCGA-77-8150": {
+      "num_patches": 1,
+      "file": "TCGA-77-8150.pt"
+    },
+    "TCGA-77-8153": {
+      "num_patches": 118,
+      "file": "TCGA-77-8153.pt"
+    },
+    "TCGA-77-8154": {
+      "num_patches": 117,
+      "file": "TCGA-77-8154.pt"
+    },
+    "TCGA-77-8156": {
+      "num_patches": 119,
+      "file": "TCGA-77-8156.pt"
+    },
+    "TCGA-77-A5G1": {
+      "num_patches": 119,
+      "file": "TCGA-77-A5G1.pt"
+    },
+    "TCGA-77-A5G6": {
+      "num_patches": 119,
+      "file": "TCGA-77-A5G6.pt"
+    },
+    "TCGA-77-A5G7": {
+      "num_patches": 1,
+      "file": "TCGA-77-A5G7.pt"
+    },
+    "TCGA-77-A5G8": {
+      "num_patches": 119,
+      "file": "TCGA-77-A5G8.pt"
+    },
+    "TCGA-77-A5GA": {
+      "num_patches": 1,
+      "file": "TCGA-77-A5GA.pt"
+    },
+    "TCGA-77-A5GF": {
+      "num_patches": 1,
+      "file": "TCGA-77-A5GF.pt"
+    },
+    "TCGA-79-5596": {
+      "num_patches": 118,
+      "file": "TCGA-79-5596.pt"
+    },
+    "TCGA-85-6175": {
+      "num_patches": 115,
+      "file": "TCGA-85-6175.pt"
+    },
+    "TCGA-85-6560": {
+      "num_patches": 119,
+      "file": "TCGA-85-6560.pt"
+    },
+    "TCGA-85-6798": {
+      "num_patches": 119,
+      "file": "TCGA-85-6798.pt"
+    },
+    "TCGA-85-7696": {
+      "num_patches": 119,
+      "file": "TCGA-85-7696.pt"
+    },
+    "TCGA-85-7710": {
+      "num_patches": 119,
+      "file": "TCGA-85-7710.pt"
+    },
+    "TCGA-85-7844": {
+      "num_patches": 119,
+      "file": "TCGA-85-7844.pt"
+    },
+    "TCGA-85-7950": {
+      "num_patches": 1,
+      "file": "TCGA-85-7950.pt"
+    },
+    "TCGA-85-8049": {
+      "num_patches": 119,
+      "file": "TCGA-85-8049.pt"
+    },
+    "TCGA-85-8052": {
+      "num_patches": 119,
+      "file": "TCGA-85-8052.pt"
+    },
+    "TCGA-85-8070": {
+      "num_patches": 1,
+      "file": "TCGA-85-8070.pt"
+    },
+    "TCGA-85-8071": {
+      "num_patches": 119,
+      "file": "TCGA-85-8071.pt"
+    },
+    "TCGA-85-8072": {
+      "num_patches": 119,
+      "file": "TCGA-85-8072.pt"
+    },
+    "TCGA-85-8277": {
+      "num_patches": 119,
+      "file": "TCGA-85-8277.pt"
+    },
+    "TCGA-85-8287": {
+      "num_patches": 119,
+      "file": "TCGA-85-8287.pt"
+    },
+    "TCGA-85-8350": {
+      "num_patches": 119,
+      "file": "TCGA-85-8350.pt"
+    },
+    "TCGA-85-8352": {
+      "num_patches": 119,
+      "file": "TCGA-85-8352.pt"
+    },
+    "TCGA-85-8353": {
+      "num_patches": 119,
+      "file": "TCGA-85-8353.pt"
+    },
+    "TCGA-85-8355": {
+      "num_patches": 1,
+      "file": "TCGA-85-8355.pt"
+    },
+    "TCGA-85-8479": {
+      "num_patches": 119,
+      "file": "TCGA-85-8479.pt"
+    },
+    "TCGA-85-8481": {
+      "num_patches": 119,
+      "file": "TCGA-85-8481.pt"
+    },
+    "TCGA-85-8580": {
+      "num_patches": 1,
+      "file": "TCGA-85-8580.pt"
+    },
+    "TCGA-85-8584": {
+      "num_patches": 119,
+      "file": "TCGA-85-8584.pt"
+    },
+    "TCGA-85-8664": {
+      "num_patches": 118,
+      "file": "TCGA-85-8664.pt"
+    },
+    "TCGA-85-8666": {
+      "num_patches": 119,
+      "file": "TCGA-85-8666.pt"
+    },
+    "TCGA-85-A4CL": {
+      "num_patches": 119,
+      "file": "TCGA-85-A4CL.pt"
+    },
+    "TCGA-85-A4CN": {
+      "num_patches": 119,
+      "file": "TCGA-85-A4CN.pt"
+    },
+    "TCGA-85-A4JB": {
+      "num_patches": 119,
+      "file": "TCGA-85-A4JB.pt"
+    },
+    "TCGA-85-A4JC": {
+      "num_patches": 119,
+      "file": "TCGA-85-A4JC.pt"
+    },
+    "TCGA-85-A4PA": {
+      "num_patches": 119,
+      "file": "TCGA-85-A4PA.pt"
+    },
+    "TCGA-85-A4QQ": {
+      "num_patches": 1,
+      "file": "TCGA-85-A4QQ.pt"
+    },
+    "TCGA-85-A4QR": {
+      "num_patches": 1,
+      "file": "TCGA-85-A4QR.pt"
+    },
+    "TCGA-85-A50M": {
+      "num_patches": 119,
+      "file": "TCGA-85-A50M.pt"
+    },
+    "TCGA-85-A50Z": {
+      "num_patches": 119,
+      "file": "TCGA-85-A50Z.pt"
+    },
+    "TCGA-85-A510": {
+      "num_patches": 119,
+      "file": "TCGA-85-A510.pt"
+    },
+    "TCGA-85-A513": {
+      "num_patches": 119,
+      "file": "TCGA-85-A513.pt"
+    },
+    "TCGA-85-A5B5": {
+      "num_patches": 117,
+      "file": "TCGA-85-A5B5.pt"
+    },
+    "TCGA-90-7964": {
+      "num_patches": 1,
+      "file": "TCGA-90-7964.pt"
+    },
+    "TCGA-90-A4ED": {
+      "num_patches": 119,
+      "file": "TCGA-90-A4ED.pt"
+    },
+    "TCGA-90-A59Q": {
+      "num_patches": 118,
+      "file": "TCGA-90-A59Q.pt"
+    },
+    "TCGA-94-7557": {
+      "num_patches": 119,
+      "file": "TCGA-94-7557.pt"
+    },
+    "TCGA-94-8035": {
+      "num_patches": 1,
+      "file": "TCGA-94-8035.pt"
+    },
+    "TCGA-94-8491": {
+      "num_patches": 119,
+      "file": "TCGA-94-8491.pt"
+    },
+    "TCGA-94-A5I4": {
+      "num_patches": 119,
+      "file": "TCGA-94-A5I4.pt"
+    },
+    "TCGA-94-A5I6": {
+      "num_patches": 119,
+      "file": "TCGA-94-A5I6.pt"
+    },
+    "TCGA-96-7544": {
+      "num_patches": 119,
+      "file": "TCGA-96-7544.pt"
+    },
+    "TCGA-96-7545": {
+      "num_patches": 119,
+      "file": "TCGA-96-7545.pt"
+    },
+    "TCGA-96-8169": {
+      "num_patches": 119,
+      "file": "TCGA-96-8169.pt"
+    },
+    "TCGA-96-A4JK": {
+      "num_patches": 119,
+      "file": "TCGA-96-A4JK.pt"
+    },
+    "TCGA-96-A4JL": {
+      "num_patches": 119,
+      "file": "TCGA-96-A4JL.pt"
+    },
+    "TCGA-98-7454": {
+      "num_patches": 1,
+      "file": "TCGA-98-7454.pt"
+    },
+    "TCGA-98-8020": {
+      "num_patches": 119,
+      "file": "TCGA-98-8020.pt"
+    },
+    "TCGA-98-8021": {
+      "num_patches": 1,
+      "file": "TCGA-98-8021.pt"
+    },
+    "TCGA-98-8022": {
+      "num_patches": 1,
+      "file": "TCGA-98-8022.pt"
+    },
+    "TCGA-98-A538": {
+      "num_patches": 118,
+      "file": "TCGA-98-A538.pt"
+    },
+    "TCGA-98-A539": {
+      "num_patches": 1,
+      "file": "TCGA-98-A539.pt"
+    },
+    "TCGA-98-A53A": {
+      "num_patches": 1,
+      "file": "TCGA-98-A53A.pt"
+    },
+    "TCGA-98-A53B": {
+      "num_patches": 1,
+      "file": "TCGA-98-A53B.pt"
+    },
+    "TCGA-98-A53C": {
+      "num_patches": 119,
+      "file": "TCGA-98-A53C.pt"
+    },
+    "TCGA-98-A53D": {
+      "num_patches": 119,
+      "file": "TCGA-98-A53D.pt"
+    },
+    "TCGA-98-A53H": {
+      "num_patches": 1,
+      "file": "TCGA-98-A53H.pt"
+    },
+    "TCGA-98-A53J": {
+      "num_patches": 119,
+      "file": "TCGA-98-A53J.pt"
+    },
+    "TCGA-J1-A4AH": {
+      "num_patches": 119,
+      "file": "TCGA-J1-A4AH.pt"
+    },
+    "TCGA-L3-A4E7": {
+      "num_patches": 119,
+      "file": "TCGA-L3-A4E7.pt"
+    },
+    "TCGA-LA-A446": {
+      "num_patches": 1,
+      "file": "TCGA-LA-A446.pt"
+    },
+    "TCGA-LA-A7SW": {
+      "num_patches": 119,
+      "file": "TCGA-LA-A7SW.pt"
+    },
+    "TCGA-MF-A522": {
+      "num_patches": 1,
+      "file": "TCGA-MF-A522.pt"
+    },
+    "TCGA-NK-A5CR": {
+      "num_patches": 119,
+      "file": "TCGA-NK-A5CR.pt"
+    },
+    "TCGA-NK-A5CT": {
+      "num_patches": 119,
+      "file": "TCGA-NK-A5CT.pt"
+    },
+    "TCGA-NK-A5CX": {
+      "num_patches": 1,
+      "file": "TCGA-NK-A5CX.pt"
+    },
+    "TCGA-NK-A5D1": {
+      "num_patches": 118,
+      "file": "TCGA-NK-A5D1.pt"
+    },
+    "TCGA-NK-A7XE": {
+      "num_patches": 119,
+      "file": "TCGA-NK-A7XE.pt"
+    },
+    "TCGA-O2-A52N": {
+      "num_patches": 1,
+      "file": "TCGA-O2-A52N.pt"
+    },
+    "TCGA-O2-A52S": {
+      "num_patches": 119,
+      "file": "TCGA-O2-A52S.pt"
+    },
+    "TCGA-O2-A52V": {
+      "num_patches": 119,
+      "file": "TCGA-O2-A52V.pt"
+    },
+    "TCGA-O2-A52W": {
+      "num_patches": 119,
+      "file": "TCGA-O2-A52W.pt"
+    },
+    "TCGA-O2-A5IB": {
+      "num_patches": 119,
+      "file": "TCGA-O2-A5IB.pt"
+    }
+  },
+  "meso": {
+    "TCGA-3H-AB3O": {
+      "num_patches": 301,
+      "file": "TCGA-3H-AB3O.pt"
+    },
+    "TCGA-3H-AB3S": {
+      "num_patches": 37,
+      "file": "TCGA-3H-AB3S.pt"
+    },
+    "TCGA-3H-AB3U": {
+      "num_patches": 953,
+      "file": "TCGA-3H-AB3U.pt"
+    },
+    "TCGA-3H-AB3X": {
+      "num_patches": 78,
+      "file": "TCGA-3H-AB3X.pt"
+    },
+    "TCGA-LK-A4NZ": {
+      "num_patches": 2000,
+      "file": "TCGA-LK-A4NZ.pt"
+    },
+    "TCGA-LK-A4O0": {
+      "num_patches": 12,
+      "file": "TCGA-LK-A4O0.pt"
+    },
+    "TCGA-MQ-A6BQ": {
+      "num_patches": 11,
+      "file": "TCGA-MQ-A6BQ.pt"
+    },
+    "TCGA-MQ-A6BR": {
+      "num_patches": 1579,
+      "file": "TCGA-MQ-A6BR.pt"
+    },
+    "TCGA-SC-AA5Z": {
+      "num_patches": 487,
+      "file": "TCGA-SC-AA5Z.pt"
+    },
+    "TCGA-SH-A7BD": {
+      "num_patches": 1633,
+      "file": "TCGA-SH-A7BD.pt"
+    },
+    "TCGA-TS-A7OZ": {
+      "num_patches": 583,
+      "file": "TCGA-TS-A7OZ.pt"
+    },
+    "TCGA-TS-A7P8": {
+      "num_patches": 20,
+      "file": "TCGA-TS-A7P8.pt"
+    },
+    "TCGA-TS-A7PB": {
+      "num_patches": 1894,
+      "file": "TCGA-TS-A7PB.pt"
+    },
+    "TCGA-TS-A8AS": {
+      "num_patches": 1183,
+      "file": "TCGA-TS-A8AS.pt"
+    },
+    "TCGA-UD-AAC5": {
+      "num_patches": 29,
+      "file": "TCGA-UD-AAC5.pt"
+    }
+  },
+  "ov": {
+    "TCGA-13-A5FU": {
+      "num_patches": 149,
+      "file": "TCGA-13-A5FU.pt"
+    },
+    "TCGA-23-1023": {
+      "num_patches": 1208,
+      "file": "TCGA-23-1023.pt"
+    },
+    "TCGA-23-1024": {
+      "num_patches": 3,
+      "file": "TCGA-23-1024.pt"
+    },
+    "TCGA-23-1029": {
+      "num_patches": 2000,
+      "file": "TCGA-23-1029.pt"
+    },
+    "TCGA-23-1032": {
+      "num_patches": 2000,
+      "file": "TCGA-23-1032.pt"
+    },
+    "TCGA-23-1107": {
+      "num_patches": 150,
+      "file": "TCGA-23-1107.pt"
+    },
+    "TCGA-23-1109": {
+      "num_patches": 2000,
+      "file": "TCGA-23-1109.pt"
+    },
+    "TCGA-23-1111": {
+      "num_patches": 4,
+      "file": "TCGA-23-1111.pt"
+    },
+    "TCGA-23-1120": {
+      "num_patches": 2000,
+      "file": "TCGA-23-1120.pt"
+    },
+    "TCGA-23-1809": {
+      "num_patches": 2000,
+      "file": "TCGA-23-1809.pt"
+    },
+    "TCGA-23-2079": {
+      "num_patches": 2000,
+      "file": "TCGA-23-2079.pt"
+    },
+    "TCGA-25-1316": {
+      "num_patches": 1506,
+      "file": "TCGA-25-1316.pt"
+    },
+    "TCGA-25-1328": {
+      "num_patches": 1147,
+      "file": "TCGA-25-1328.pt"
+    },
+    "TCGA-25-1329": {
+      "num_patches": 2000,
+      "file": "TCGA-25-1329.pt"
+    },
+    "TCGA-25-1626": {
+      "num_patches": 2000,
+      "file": "TCGA-25-1626.pt"
+    },
+    "TCGA-25-2391": {
+      "num_patches": 15,
+      "file": "TCGA-25-2391.pt"
+    },
+    "TCGA-42-2589": {
+      "num_patches": 384,
+      "file": "TCGA-42-2589.pt"
+    }
+  },
+  "paad": {
+    "TCGA-2J-AAB4": {
+      "num_patches": 1,
+      "file": "TCGA-2J-AAB4.pt"
+    },
+    "TCGA-2J-AABE": {
+      "num_patches": 1,
+      "file": "TCGA-2J-AABE.pt"
+    },
+    "TCGA-2J-AABT": {
+      "num_patches": 1,
+      "file": "TCGA-2J-AABT.pt"
+    },
+    "TCGA-2J-AABV": {
+      "num_patches": 1,
+      "file": "TCGA-2J-AABV.pt"
+    },
+    "TCGA-2L-AAQA": {
+      "num_patches": 33,
+      "file": "TCGA-2L-AAQA.pt"
+    },
+    "TCGA-2L-AAQE": {
+      "num_patches": 15,
+      "file": "TCGA-2L-AAQE.pt"
+    },
+    "TCGA-2L-AAQI": {
+      "num_patches": 1,
+      "file": "TCGA-2L-AAQI.pt"
+    },
+    "TCGA-2L-AAQM": {
+      "num_patches": 1,
+      "file": "TCGA-2L-AAQM.pt"
+    },
+    "TCGA-3A-A9I5": {
+      "num_patches": 1,
+      "file": "TCGA-3A-A9I5.pt"
+    },
+    "TCGA-3A-A9IJ": {
+      "num_patches": 1,
+      "file": "TCGA-3A-A9IJ.pt"
+    },
+    "TCGA-3A-A9IO": {
+      "num_patches": 1,
+      "file": "TCGA-3A-A9IO.pt"
+    },
+    "TCGA-3A-A9IR": {
+      "num_patches": 1299,
+      "file": "TCGA-3A-A9IR.pt"
+    },
+    "TCGA-3A-A9IV": {
+      "num_patches": 106,
+      "file": "TCGA-3A-A9IV.pt"
+    },
+    "TCGA-3E-AAAY": {
+      "num_patches": 1,
+      "file": "TCGA-3E-AAAY.pt"
+    },
+    "TCGA-3E-AAAZ": {
+      "num_patches": 1,
+      "file": "TCGA-3E-AAAZ.pt"
+    },
+    "TCGA-F2-6880": {
+      "num_patches": 1,
+      "file": "TCGA-F2-6880.pt"
+    },
+    "TCGA-F2-7276": {
+      "num_patches": 1,
+      "file": "TCGA-F2-7276.pt"
+    },
+    "TCGA-F2-A44H": {
+      "num_patches": 1,
+      "file": "TCGA-F2-A44H.pt"
+    },
+    "TCGA-F2-A7TX": {
+      "num_patches": 1,
+      "file": "TCGA-F2-A7TX.pt"
+    },
+    "TCGA-F2-A8YN": {
+      "num_patches": 1,
+      "file": "TCGA-F2-A8YN.pt"
+    },
+    "TCGA-FB-A4P5": {
+      "num_patches": 1,
+      "file": "TCGA-FB-A4P5.pt"
+    },
+    "TCGA-FB-A4P6": {
+      "num_patches": 1,
+      "file": "TCGA-FB-A4P6.pt"
+    },
+    "TCGA-FB-A545": {
+      "num_patches": 1,
+      "file": "TCGA-FB-A545.pt"
+    },
+    "TCGA-FB-A5VM": {
+      "num_patches": 1,
+      "file": "TCGA-FB-A5VM.pt"
+    },
+    "TCGA-FB-A78T": {
+      "num_patches": 1,
+      "file": "TCGA-FB-A78T.pt"
+    },
+    "TCGA-FB-A7DR": {
+      "num_patches": 1,
+      "file": "TCGA-FB-A7DR.pt"
+    },
+    "TCGA-FB-AAPU": {
+      "num_patches": 1,
+      "file": "TCGA-FB-AAPU.pt"
+    },
+    "TCGA-FB-AAPY": {
+      "num_patches": 1,
+      "file": "TCGA-FB-AAPY.pt"
+    },
+    "TCGA-FB-AAPZ": {
+      "num_patches": 1,
+      "file": "TCGA-FB-AAPZ.pt"
+    },
+    "TCGA-FZ-5919": {
+      "num_patches": 1,
+      "file": "TCGA-FZ-5919.pt"
+    },
+    "TCGA-FZ-5920": {
+      "num_patches": 1,
+      "file": "TCGA-FZ-5920.pt"
+    },
+    "TCGA-FZ-5921": {
+      "num_patches": 11,
+      "file": "TCGA-FZ-5921.pt"
+    },
+    "TCGA-FZ-5922": {
+      "num_patches": 1,
+      "file": "TCGA-FZ-5922.pt"
+    },
+    "TCGA-FZ-5926": {
+      "num_patches": 1,
+      "file": "TCGA-FZ-5926.pt"
+    },
+    "TCGA-HV-A5A5": {
+      "num_patches": 9,
+      "file": "TCGA-HV-A5A5.pt"
+    },
+    "TCGA-HV-AA8V": {
+      "num_patches": 7,
+      "file": "TCGA-HV-AA8V.pt"
+    },
+    "TCGA-HV-AA8X": {
+      "num_patches": 17,
+      "file": "TCGA-HV-AA8X.pt"
+    },
+    "TCGA-HZ-7918": {
+      "num_patches": 12,
+      "file": "TCGA-HZ-7918.pt"
+    },
+    "TCGA-HZ-7919": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-7919.pt"
+    },
+    "TCGA-HZ-7925": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-7925.pt"
+    },
+    "TCGA-HZ-8002": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-8002.pt"
+    },
+    "TCGA-HZ-8003": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-8003.pt"
+    },
+    "TCGA-HZ-8317": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-8317.pt"
+    },
+    "TCGA-HZ-8519": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-8519.pt"
+    },
+    "TCGA-HZ-8637": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-8637.pt"
+    },
+    "TCGA-HZ-8638": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-8638.pt"
+    },
+    "TCGA-HZ-A49G": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-A49G.pt"
+    },
+    "TCGA-HZ-A49H": {
+      "num_patches": 1,
+      "file": "TCGA-HZ-A49H.pt"
+    },
+    "TCGA-HZ-A49I": {
+      "num_patches": 4,
+      "file": "TCGA-HZ-A49I.pt"
+    },
+    "TCGA-HZ-A9TJ": {
+      "num_patches": 31,
+      "file": "TCGA-HZ-A9TJ.pt"
+    },
+    "TCGA-IB-7645": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7645.pt"
+    },
+    "TCGA-IB-7649": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7649.pt"
+    },
+    "TCGA-IB-7651": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7651.pt"
+    },
+    "TCGA-IB-7652": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7652.pt"
+    },
+    "TCGA-IB-7885": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7885.pt"
+    },
+    "TCGA-IB-7887": {
+      "num_patches": 2,
+      "file": "TCGA-IB-7887.pt"
+    },
+    "TCGA-IB-7888": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7888.pt"
+    },
+    "TCGA-IB-7890": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7890.pt"
+    },
+    "TCGA-IB-7891": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7891.pt"
+    },
+    "TCGA-IB-7893": {
+      "num_patches": 1,
+      "file": "TCGA-IB-7893.pt"
+    },
+    "TCGA-IB-7897": {
+      "num_patches": 9,
+      "file": "TCGA-IB-7897.pt"
+    },
+    "TCGA-IB-A5SS": {
+      "num_patches": 1,
+      "file": "TCGA-IB-A5SS.pt"
+    },
+    "TCGA-IB-A5ST": {
+      "num_patches": 1,
+      "file": "TCGA-IB-A5ST.pt"
+    },
+    "TCGA-IB-A6UF": {
+      "num_patches": 1,
+      "file": "TCGA-IB-A6UF.pt"
+    },
+    "TCGA-IB-A7M4": {
+      "num_patches": 1,
+      "file": "TCGA-IB-A7M4.pt"
+    },
+    "TCGA-IB-AAUM": {
+      "num_patches": 1659,
+      "file": "TCGA-IB-AAUM.pt"
+    },
+    "TCGA-IB-AAUN": {
+      "num_patches": 1,
+      "file": "TCGA-IB-AAUN.pt"
+    },
+    "TCGA-IB-AAUO": {
+      "num_patches": 381,
+      "file": "TCGA-IB-AAUO.pt"
+    },
+    "TCGA-IB-AAUP": {
+      "num_patches": 1,
+      "file": "TCGA-IB-AAUP.pt"
+    },
+    "TCGA-IB-AAUR": {
+      "num_patches": 3,
+      "file": "TCGA-IB-AAUR.pt"
+    },
+    "TCGA-IB-AAUT": {
+      "num_patches": 1,
+      "file": "TCGA-IB-AAUT.pt"
+    },
+    "TCGA-IB-AAUV": {
+      "num_patches": 1,
+      "file": "TCGA-IB-AAUV.pt"
+    },
+    "TCGA-IB-AAUW": {
+      "num_patches": 1,
+      "file": "TCGA-IB-AAUW.pt"
+    },
+    "TCGA-L1-A7W4": {
+      "num_patches": 3,
+      "file": "TCGA-L1-A7W4.pt"
+    },
+    "TCGA-LB-A7SX": {
+      "num_patches": 1,
+      "file": "TCGA-LB-A7SX.pt"
+    },
+    "TCGA-LB-A8F3": {
+      "num_patches": 1,
+      "file": "TCGA-LB-A8F3.pt"
+    },
+    "TCGA-LB-A9Q5": {
+      "num_patches": 1,
+      "file": "TCGA-LB-A9Q5.pt"
+    },
+    "TCGA-OE-A75W": {
+      "num_patches": 1,
+      "file": "TCGA-OE-A75W.pt"
+    },
+    "TCGA-Q3-AA2A": {
+      "num_patches": 10,
+      "file": "TCGA-Q3-AA2A.pt"
+    },
+    "TCGA-RB-A7B8": {
+      "num_patches": 1,
+      "file": "TCGA-RB-A7B8.pt"
+    },
+    "TCGA-S4-A8RM": {
+      "num_patches": 1,
+      "file": "TCGA-S4-A8RM.pt"
+    },
+    "TCGA-S4-A8RP": {
+      "num_patches": 1,
+      "file": "TCGA-S4-A8RP.pt"
+    },
+    "TCGA-US-A77E": {
+      "num_patches": 11,
+      "file": "TCGA-US-A77E.pt"
+    },
+    "TCGA-XD-AAUG": {
+      "num_patches": 1,
+      "file": "TCGA-XD-AAUG.pt"
+    },
+    "TCGA-XD-AAUH": {
+      "num_patches": 3,
+      "file": "TCGA-XD-AAUH.pt"
+    },
+    "TCGA-XD-AAUI": {
+      "num_patches": 3,
+      "file": "TCGA-XD-AAUI.pt"
+    },
+    "TCGA-XD-AAUL": {
+      "num_patches": 1,
+      "file": "TCGA-XD-AAUL.pt"
+    },
+    "TCGA-YB-A89D": {
+      "num_patches": 1,
+      "file": "TCGA-YB-A89D.pt"
+    },
+    "TCGA-Z5-AAPL": {
+      "num_patches": 84,
+      "file": "TCGA-Z5-AAPL.pt"
+    }
+  },
+  "prad": {
+    "TCGA-2A-A8VL": {
+      "num_patches": 544,
+      "file": "TCGA-2A-A8VL.pt"
+    },
+    "TCGA-2A-A8VO": {
+      "num_patches": 678,
+      "file": "TCGA-2A-A8VO.pt"
+    },
+    "TCGA-2A-A8VV": {
+      "num_patches": 258,
+      "file": "TCGA-2A-A8VV.pt"
+    },
+    "TCGA-2A-A8VX": {
+      "num_patches": 360,
+      "file": "TCGA-2A-A8VX.pt"
+    },
+    "TCGA-2A-A8W1": {
+      "num_patches": 608,
+      "file": "TCGA-2A-A8W1.pt"
+    },
+    "TCGA-2A-A8W3": {
+      "num_patches": 501,
+      "file": "TCGA-2A-A8W3.pt"
+    },
+    "TCGA-2A-AAYF": {
+      "num_patches": 318,
+      "file": "TCGA-2A-AAYF.pt"
+    },
+    "TCGA-2A-AAYO": {
+      "num_patches": 1275,
+      "file": "TCGA-2A-AAYO.pt"
+    },
+    "TCGA-2A-AAYU": {
+      "num_patches": 631,
+      "file": "TCGA-2A-AAYU.pt"
+    },
+    "TCGA-4L-AA1F": {
+      "num_patches": 356,
+      "file": "TCGA-4L-AA1F.pt"
+    },
+    "TCGA-CH-5764": {
+      "num_patches": 1,
+      "file": "TCGA-CH-5764.pt"
+    },
+    "TCGA-CH-5765": {
+      "num_patches": 1,
+      "file": "TCGA-CH-5765.pt"
+    },
+    "TCGA-CH-5768": {
+      "num_patches": 1,
+      "file": "TCGA-CH-5768.pt"
+    },
+    "TCGA-EJ-5494": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5494.pt"
+    },
+    "TCGA-EJ-5495": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5495.pt"
+    },
+    "TCGA-EJ-5497": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5497.pt"
+    },
+    "TCGA-EJ-5503": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5503.pt"
+    },
+    "TCGA-EJ-5506": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5506.pt"
+    },
+    "TCGA-EJ-5507": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5507.pt"
+    },
+    "TCGA-EJ-5517": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5517.pt"
+    },
+    "TCGA-EJ-5518": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-5518.pt"
+    },
+    "TCGA-EJ-7115": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-7115.pt"
+    },
+    "TCGA-EJ-7328": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-7328.pt"
+    },
+    "TCGA-EJ-7330": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-7330.pt"
+    },
+    "TCGA-EJ-A46D": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-A46D.pt"
+    },
+    "TCGA-EJ-A46I": {
+      "num_patches": 1,
+      "file": "TCGA-EJ-A46I.pt"
+    },
+    "TCGA-FC-A4JI": {
+      "num_patches": 1,
+      "file": "TCGA-FC-A4JI.pt"
+    },
+    "TCGA-FC-A5OB": {
+      "num_patches": 1,
+      "file": "TCGA-FC-A5OB.pt"
+    },
+    "TCGA-G9-6336": {
+      "num_patches": 1,
+      "file": "TCGA-G9-6336.pt"
+    },
+    "TCGA-G9-6353": {
+      "num_patches": 1,
+      "file": "TCGA-G9-6353.pt"
+    },
+    "TCGA-G9-6362": {
+      "num_patches": 1,
+      "file": "TCGA-G9-6362.pt"
+    },
+    "TCGA-G9-6499": {
+      "num_patches": 1,
+      "file": "TCGA-G9-6499.pt"
+    },
+    "TCGA-G9-7519": {
+      "num_patches": 1,
+      "file": "TCGA-G9-7519.pt"
+    },
+    "TCGA-G9-7523": {
+      "num_patches": 1,
+      "file": "TCGA-G9-7523.pt"
+    },
+    "TCGA-H9-7775": {
+      "num_patches": 1,
+      "file": "TCGA-H9-7775.pt"
+    },
+    "TCGA-H9-A6BY": {
+      "num_patches": 1,
+      "file": "TCGA-H9-A6BY.pt"
+    },
+    "TCGA-HC-7210": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7210.pt"
+    },
+    "TCGA-HC-7232": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7232.pt"
+    },
+    "TCGA-HC-7738": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7738.pt"
+    },
+    "TCGA-HC-7742": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7742.pt"
+    },
+    "TCGA-HC-7748": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7748.pt"
+    },
+    "TCGA-HC-7749": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7749.pt"
+    },
+    "TCGA-HC-7820": {
+      "num_patches": 1,
+      "file": "TCGA-HC-7820.pt"
+    },
+    "TCGA-HC-8257": {
+      "num_patches": 1,
+      "file": "TCGA-HC-8257.pt"
+    },
+    "TCGA-HC-A6AL": {
+      "num_patches": 1,
+      "file": "TCGA-HC-A6AL.pt"
+    },
+    "TCGA-HC-A6AS": {
+      "num_patches": 1,
+      "file": "TCGA-HC-A6AS.pt"
+    },
+    "TCGA-HC-A8D1": {
+      "num_patches": 1,
+      "file": "TCGA-HC-A8D1.pt"
+    },
+    "TCGA-HC-A9TE": {
+      "num_patches": 1,
+      "file": "TCGA-HC-A9TE.pt"
+    },
+    "TCGA-HI-7169": {
+      "num_patches": 1,
+      "file": "TCGA-HI-7169.pt"
+    },
+    "TCGA-HI-7171": {
+      "num_patches": 1,
+      "file": "TCGA-HI-7171.pt"
+    },
+    "TCGA-J4-8200": {
+      "num_patches": 1,
+      "file": "TCGA-J4-8200.pt"
+    },
+    "TCGA-J4-A67K": {
+      "num_patches": 1,
+      "file": "TCGA-J4-A67K.pt"
+    },
+    "TCGA-M7-A71Y": {
+      "num_patches": 1,
+      "file": "TCGA-M7-A71Y.pt"
+    },
+    "TCGA-V1-A8MF": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A8MF.pt"
+    },
+    "TCGA-V1-A8MK": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A8MK.pt"
+    },
+    "TCGA-V1-A8WV": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A8WV.pt"
+    },
+    "TCGA-V1-A8WW": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A8WW.pt"
+    },
+    "TCGA-V1-A8X3": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A8X3.pt"
+    },
+    "TCGA-V1-A9OT": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A9OT.pt"
+    },
+    "TCGA-V1-A9OX": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A9OX.pt"
+    },
+    "TCGA-V1-A9ZI": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A9ZI.pt"
+    },
+    "TCGA-V1-A9ZR": {
+      "num_patches": 1,
+      "file": "TCGA-V1-A9ZR.pt"
+    },
+    "TCGA-VP-A87D": {
+      "num_patches": 1,
+      "file": "TCGA-VP-A87D.pt"
+    },
+    "TCGA-X4-A8KS": {
+      "num_patches": 1,
+      "file": "TCGA-X4-A8KS.pt"
+    },
+    "TCGA-XA-A8JR": {
+      "num_patches": 1,
+      "file": "TCGA-XA-A8JR.pt"
+    },
+    "TCGA-XJ-A83G": {
+      "num_patches": 1,
+      "file": "TCGA-XJ-A83G.pt"
+    },
+    "TCGA-XJ-A9DX": {
+      "num_patches": 1,
+      "file": "TCGA-XJ-A9DX.pt"
+    },
+    "TCGA-Y6-A9XI": {
+      "num_patches": 1,
+      "file": "TCGA-Y6-A9XI.pt"
+    },
+    "TCGA-YL-A8S9": {
+      "num_patches": 1,
+      "file": "TCGA-YL-A8S9.pt"
+    },
+    "TCGA-YL-A8SB": {
+      "num_patches": 1,
+      "file": "TCGA-YL-A8SB.pt"
+    },
+    "TCGA-YL-A8SH": {
+      "num_patches": 3,
+      "file": "TCGA-YL-A8SH.pt"
+    },
+    "TCGA-YL-A8SI": {
+      "num_patches": 1,
+      "file": "TCGA-YL-A8SI.pt"
+    },
+    "TCGA-YL-A8SK": {
+      "num_patches": 1,
+      "file": "TCGA-YL-A8SK.pt"
+    },
+    "TCGA-YL-A8SR": {
+      "num_patches": 1,
+      "file": "TCGA-YL-A8SR.pt"
+    }
+  },
+  "read": {
+    "TCGA-AF-2687": {
+      "num_patches": 119,
+      "file": "TCGA-AF-2687.pt"
+    },
+    "TCGA-AF-2689": {
+      "num_patches": 119,
+      "file": "TCGA-AF-2689.pt"
+    },
+    "TCGA-AF-2690": {
+      "num_patches": 119,
+      "file": "TCGA-AF-2690.pt"
+    },
+    "TCGA-AF-2691": {
+      "num_patches": 119,
+      "file": "TCGA-AF-2691.pt"
+    },
+    "TCGA-AF-2692": {
+      "num_patches": 119,
+      "file": "TCGA-AF-2692.pt"
+    },
+    "TCGA-AF-3400": {
+      "num_patches": 1,
+      "file": "TCGA-AF-3400.pt"
+    },
+    "TCGA-AF-3913": {
+      "num_patches": 1,
+      "file": "TCGA-AF-3913.pt"
+    },
+    "TCGA-AF-4110": {
+      "num_patches": 119,
+      "file": "TCGA-AF-4110.pt"
+    },
+    "TCGA-AF-6136": {
+      "num_patches": 1,
+      "file": "TCGA-AF-6136.pt"
+    },
+    "TCGA-AF-6655": {
+      "num_patches": 1,
+      "file": "TCGA-AF-6655.pt"
+    },
+    "TCGA-AG-3574": {
+      "num_patches": 118,
+      "file": "TCGA-AG-3574.pt"
+    },
+    "TCGA-AG-3575": {
+      "num_patches": 118,
+      "file": "TCGA-AG-3575.pt"
+    },
+    "TCGA-AG-3578": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3578.pt"
+    },
+    "TCGA-AG-3580": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3580.pt"
+    },
+    "TCGA-AG-3582": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3582.pt"
+    },
+    "TCGA-AG-3586": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3586.pt"
+    },
+    "TCGA-AG-3587": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3587.pt"
+    },
+    "TCGA-AG-3593": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3593.pt"
+    },
+    "TCGA-AG-3594": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3594.pt"
+    },
+    "TCGA-AG-3598": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3598.pt"
+    },
+    "TCGA-AG-3600": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3600.pt"
+    },
+    "TCGA-AG-3601": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3601.pt"
+    },
+    "TCGA-AG-3602": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3602.pt"
+    },
+    "TCGA-AG-3608": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3608.pt"
+    },
+    "TCGA-AG-3609": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3609.pt"
+    },
+    "TCGA-AG-3611": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3611.pt"
+    },
+    "TCGA-AG-3612": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3612.pt"
+    },
+    "TCGA-AG-3878": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3878.pt"
+    },
+    "TCGA-AG-3881": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3881.pt"
+    },
+    "TCGA-AG-3882": {
+      "num_patches": 118,
+      "file": "TCGA-AG-3882.pt"
+    },
+    "TCGA-AG-3890": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3890.pt"
+    },
+    "TCGA-AG-3892": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3892.pt"
+    },
+    "TCGA-AG-3893": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3893.pt"
+    },
+    "TCGA-AG-3896": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3896.pt"
+    },
+    "TCGA-AG-3898": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3898.pt"
+    },
+    "TCGA-AG-3901": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3901.pt"
+    },
+    "TCGA-AG-3902": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3902.pt"
+    },
+    "TCGA-AG-3909": {
+      "num_patches": 1,
+      "file": "TCGA-AG-3909.pt"
+    },
+    "TCGA-AG-3999": {
+      "num_patches": 119,
+      "file": "TCGA-AG-3999.pt"
+    },
+    "TCGA-AG-4001": {
+      "num_patches": 1,
+      "file": "TCGA-AG-4001.pt"
+    },
+    "TCGA-AG-4005": {
+      "num_patches": 1,
+      "file": "TCGA-AG-4005.pt"
+    },
+    "TCGA-AG-4007": {
+      "num_patches": 1,
+      "file": "TCGA-AG-4007.pt"
+    },
+    "TCGA-AG-4015": {
+      "num_patches": 1,
+      "file": "TCGA-AG-4015.pt"
+    },
+    "TCGA-AG-4021": {
+      "num_patches": 118,
+      "file": "TCGA-AG-4021.pt"
+    },
+    "TCGA-AG-4022": {
+      "num_patches": 1,
+      "file": "TCGA-AG-4022.pt"
+    },
+    "TCGA-AG-A002": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A002.pt"
+    },
+    "TCGA-AG-A008": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A008.pt"
+    },
+    "TCGA-AG-A00C": {
+      "num_patches": 118,
+      "file": "TCGA-AG-A00C.pt"
+    },
+    "TCGA-AG-A00H": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A00H.pt"
+    },
+    "TCGA-AG-A00Y": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A00Y.pt"
+    },
+    "TCGA-AG-A011": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A011.pt"
+    },
+    "TCGA-AG-A015": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A015.pt"
+    },
+    "TCGA-AG-A01L": {
+      "num_patches": 118,
+      "file": "TCGA-AG-A01L.pt"
+    },
+    "TCGA-AG-A01W": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A01W.pt"
+    },
+    "TCGA-AG-A01Y": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A01Y.pt"
+    },
+    "TCGA-AG-A020": {
+      "num_patches": 119,
+      "file": "TCGA-AG-A020.pt"
+    },
+    "TCGA-AG-A023": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A023.pt"
+    },
+    "TCGA-AG-A025": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A025.pt"
+    },
+    "TCGA-AG-A026": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A026.pt"
+    },
+    "TCGA-AG-A02G": {
+      "num_patches": 119,
+      "file": "TCGA-AG-A02G.pt"
+    },
+    "TCGA-AG-A02N": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A02N.pt"
+    },
+    "TCGA-AG-A02X": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A02X.pt"
+    },
+    "TCGA-AG-A032": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A032.pt"
+    },
+    "TCGA-AG-A036": {
+      "num_patches": 1,
+      "file": "TCGA-AG-A036.pt"
+    },
+    "TCGA-AH-6544": {
+      "num_patches": 119,
+      "file": "TCGA-AH-6544.pt"
+    },
+    "TCGA-AH-6547": {
+      "num_patches": 1,
+      "file": "TCGA-AH-6547.pt"
+    },
+    "TCGA-AH-6549": {
+      "num_patches": 119,
+      "file": "TCGA-AH-6549.pt"
+    },
+    "TCGA-AH-6643": {
+      "num_patches": 115,
+      "file": "TCGA-AH-6643.pt"
+    },
+    "TCGA-AH-6644": {
+      "num_patches": 119,
+      "file": "TCGA-AH-6644.pt"
+    },
+    "TCGA-AH-6903": {
+      "num_patches": 1,
+      "file": "TCGA-AH-6903.pt"
+    },
+    "TCGA-CI-6624": {
+      "num_patches": 118,
+      "file": "TCGA-CI-6624.pt"
+    },
+    "TCGA-CL-4957": {
+      "num_patches": 1,
+      "file": "TCGA-CL-4957.pt"
+    },
+    "TCGA-CL-5917": {
+      "num_patches": 1,
+      "file": "TCGA-CL-5917.pt"
+    },
+    "TCGA-CL-5918": {
+      "num_patches": 1,
+      "file": "TCGA-CL-5918.pt"
+    },
+    "TCGA-DC-4745": {
+      "num_patches": 1,
+      "file": "TCGA-DC-4745.pt"
+    },
+    "TCGA-DC-4749": {
+      "num_patches": 1,
+      "file": "TCGA-DC-4749.pt"
+    },
+    "TCGA-DC-5337": {
+      "num_patches": 118,
+      "file": "TCGA-DC-5337.pt"
+    },
+    "TCGA-DC-6154": {
+      "num_patches": 1,
+      "file": "TCGA-DC-6154.pt"
+    },
+    "TCGA-DC-6155": {
+      "num_patches": 1,
+      "file": "TCGA-DC-6155.pt"
+    },
+    "TCGA-DC-6156": {
+      "num_patches": 1,
+      "file": "TCGA-DC-6156.pt"
+    },
+    "TCGA-DC-6157": {
+      "num_patches": 1,
+      "file": "TCGA-DC-6157.pt"
+    },
+    "TCGA-DC-6158": {
+      "num_patches": 1,
+      "file": "TCGA-DC-6158.pt"
+    },
+    "TCGA-DC-6160": {
+      "num_patches": 119,
+      "file": "TCGA-DC-6160.pt"
+    },
+    "TCGA-DC-6683": {
+      "num_patches": 1,
+      "file": "TCGA-DC-6683.pt"
+    },
+    "TCGA-DT-5265": {
+      "num_patches": 1,
+      "file": "TCGA-DT-5265.pt"
+    },
+    "TCGA-DY-A1DD": {
+      "num_patches": 119,
+      "file": "TCGA-DY-A1DD.pt"
+    },
+    "TCGA-DY-A1DE": {
+      "num_patches": 119,
+      "file": "TCGA-DY-A1DE.pt"
+    },
+    "TCGA-DY-A1DG": {
+      "num_patches": 1,
+      "file": "TCGA-DY-A1DG.pt"
+    },
+    "TCGA-EI-6506": {
+      "num_patches": 1,
+      "file": "TCGA-EI-6506.pt"
+    },
+    "TCGA-EI-6508": {
+      "num_patches": 1,
+      "file": "TCGA-EI-6508.pt"
+    },
+    "TCGA-EI-6509": {
+      "num_patches": 1,
+      "file": "TCGA-EI-6509.pt"
+    },
+    "TCGA-EI-6510": {
+      "num_patches": 119,
+      "file": "TCGA-EI-6510.pt"
+    },
+    "TCGA-EI-6513": {
+      "num_patches": 119,
+      "file": "TCGA-EI-6513.pt"
+    },
+    "TCGA-EI-6514": {
+      "num_patches": 119,
+      "file": "TCGA-EI-6514.pt"
+    },
+    "TCGA-EI-6881": {
+      "num_patches": 115,
+      "file": "TCGA-EI-6881.pt"
+    },
+    "TCGA-EI-6884": {
+      "num_patches": 1,
+      "file": "TCGA-EI-6884.pt"
+    },
+    "TCGA-EI-6917": {
+      "num_patches": 1,
+      "file": "TCGA-EI-6917.pt"
+    },
+    "TCGA-EI-7002": {
+      "num_patches": 1,
+      "file": "TCGA-EI-7002.pt"
+    },
+    "TCGA-EI-7004": {
+      "num_patches": 1,
+      "file": "TCGA-EI-7004.pt"
+    },
+    "TCGA-F5-6464": {
+      "num_patches": 119,
+      "file": "TCGA-F5-6464.pt"
+    },
+    "TCGA-F5-6465": {
+      "num_patches": 1,
+      "file": "TCGA-F5-6465.pt"
+    },
+    "TCGA-F5-6571": {
+      "num_patches": 1,
+      "file": "TCGA-F5-6571.pt"
+    },
+    "TCGA-F5-6813": {
+      "num_patches": 119,
+      "file": "TCGA-F5-6813.pt"
+    },
+    "TCGA-F5-6861": {
+      "num_patches": 118,
+      "file": "TCGA-F5-6861.pt"
+    },
+    "TCGA-F5-6863": {
+      "num_patches": 1,
+      "file": "TCGA-F5-6863.pt"
+    },
+    "TCGA-F5-6864": {
+      "num_patches": 1,
+      "file": "TCGA-F5-6864.pt"
+    },
+    "TCGA-G5-6233": {
+      "num_patches": 119,
+      "file": "TCGA-G5-6233.pt"
+    },
+    "TCGA-G5-6641": {
+      "num_patches": 1,
+      "file": "TCGA-G5-6641.pt"
+    }
+  },
+  "sarc": {
+    "TCGA-3B-A9HJ": {
+      "num_patches": 10,
+      "file": "TCGA-3B-A9HJ.pt"
+    },
+    "TCGA-3B-A9HP": {
+      "num_patches": 23,
+      "file": "TCGA-3B-A9HP.pt"
+    },
+    "TCGA-3R-A8YX": {
+      "num_patches": 10,
+      "file": "TCGA-3R-A8YX.pt"
+    },
+    "TCGA-DX-A1KZ": {
+      "num_patches": 12,
+      "file": "TCGA-DX-A1KZ.pt"
+    },
+    "TCGA-DX-A1L1": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A1L1.pt"
+    },
+    "TCGA-DX-A1L4": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A1L4.pt"
+    },
+    "TCGA-DX-A23V": {
+      "num_patches": 1392,
+      "file": "TCGA-DX-A23V.pt"
+    },
+    "TCGA-DX-A23Z": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A23Z.pt"
+    },
+    "TCGA-DX-A240": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A240.pt"
+    },
+    "TCGA-DX-A2IZ": {
+      "num_patches": 2000,
+      "file": "TCGA-DX-A2IZ.pt"
+    },
+    "TCGA-DX-A2J0": {
+      "num_patches": 2000,
+      "file": "TCGA-DX-A2J0.pt"
+    },
+    "TCGA-DX-A2J1": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A2J1.pt"
+    },
+    "TCGA-DX-A3LS": {
+      "num_patches": 1060,
+      "file": "TCGA-DX-A3LS.pt"
+    },
+    "TCGA-DX-A3LT": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A3LT.pt"
+    },
+    "TCGA-DX-A3LU": {
+      "num_patches": 8,
+      "file": "TCGA-DX-A3LU.pt"
+    },
+    "TCGA-DX-A3M2": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A3M2.pt"
+    },
+    "TCGA-DX-A3U5": {
+      "num_patches": 8,
+      "file": "TCGA-DX-A3U5.pt"
+    },
+    "TCGA-DX-A3U6": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A3U6.pt"
+    },
+    "TCGA-DX-A3U7": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A3U7.pt"
+    },
+    "TCGA-DX-A3U8": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A3U8.pt"
+    },
+    "TCGA-DX-A3UA": {
+      "num_patches": 2000,
+      "file": "TCGA-DX-A3UA.pt"
+    },
+    "TCGA-DX-A3UB": {
+      "num_patches": 2000,
+      "file": "TCGA-DX-A3UB.pt"
+    },
+    "TCGA-DX-A3UD": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A3UD.pt"
+    },
+    "TCGA-DX-A3UF": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A3UF.pt"
+    },
+    "TCGA-DX-A48J": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A48J.pt"
+    },
+    "TCGA-DX-A48R": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A48R.pt"
+    },
+    "TCGA-DX-A48V": {
+      "num_patches": 1798,
+      "file": "TCGA-DX-A48V.pt"
+    },
+    "TCGA-DX-A6B9": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A6B9.pt"
+    },
+    "TCGA-DX-A6BE": {
+      "num_patches": 19,
+      "file": "TCGA-DX-A6BE.pt"
+    },
+    "TCGA-DX-A6BF": {
+      "num_patches": 20,
+      "file": "TCGA-DX-A6BF.pt"
+    },
+    "TCGA-DX-A6BG": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A6BG.pt"
+    },
+    "TCGA-DX-A6BK": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A6BK.pt"
+    },
+    "TCGA-DX-A6YQ": {
+      "num_patches": 19,
+      "file": "TCGA-DX-A6YQ.pt"
+    },
+    "TCGA-DX-A6YZ": {
+      "num_patches": 9,
+      "file": "TCGA-DX-A6YZ.pt"
+    },
+    "TCGA-DX-A6Z0": {
+      "num_patches": 1994,
+      "file": "TCGA-DX-A6Z0.pt"
+    },
+    "TCGA-DX-A7EI": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A7EI.pt"
+    },
+    "TCGA-DX-A8BK": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A8BK.pt"
+    },
+    "TCGA-DX-A8BL": {
+      "num_patches": 29,
+      "file": "TCGA-DX-A8BL.pt"
+    },
+    "TCGA-DX-A8BQ": {
+      "num_patches": 10,
+      "file": "TCGA-DX-A8BQ.pt"
+    },
+    "TCGA-DX-A8BV": {
+      "num_patches": 2000,
+      "file": "TCGA-DX-A8BV.pt"
+    },
+    "TCGA-DX-A8BZ": {
+      "num_patches": 2000,
+      "file": "TCGA-DX-A8BZ.pt"
+    },
+    "TCGA-IE-A4EJ": {
+      "num_patches": 11,
+      "file": "TCGA-IE-A4EJ.pt"
+    },
+    "TCGA-QQ-A5VC": {
+      "num_patches": 1509,
+      "file": "TCGA-QQ-A5VC.pt"
+    },
+    "TCGA-WK-A8XS": {
+      "num_patches": 49,
+      "file": "TCGA-WK-A8XS.pt"
+    }
+  },
+  "skcm": {
+    "TCGA-3N-A9WB": {
+      "num_patches": 1187,
+      "file": "TCGA-3N-A9WB.pt"
+    },
+    "TCGA-3N-A9WC": {
+      "num_patches": 1057,
+      "file": "TCGA-3N-A9WC.pt"
+    },
+    "TCGA-3N-A9WD": {
+      "num_patches": 1749,
+      "file": "TCGA-3N-A9WD.pt"
+    },
+    "TCGA-D3-A1Q1": {
+      "num_patches": 1551,
+      "file": "TCGA-D3-A1Q1.pt"
+    },
+    "TCGA-D3-A1Q5": {
+      "num_patches": 1103,
+      "file": "TCGA-D3-A1Q5.pt"
+    },
+    "TCGA-D3-A1Q6": {
+      "num_patches": 1383,
+      "file": "TCGA-D3-A1Q6.pt"
+    },
+    "TCGA-D3-A1Q7": {
+      "num_patches": 1377,
+      "file": "TCGA-D3-A1Q7.pt"
+    },
+    "TCGA-D3-A1Q9": {
+      "num_patches": 1153,
+      "file": "TCGA-D3-A1Q9.pt"
+    },
+    "TCGA-D3-A1QA": {
+      "num_patches": 3137,
+      "file": "TCGA-D3-A1QA.pt"
+    },
+    "TCGA-D3-A1QB": {
+      "num_patches": 1818,
+      "file": "TCGA-D3-A1QB.pt"
+    },
+    "TCGA-D3-A2J6": {
+      "num_patches": 1374,
+      "file": "TCGA-D3-A2J6.pt"
+    },
+    "TCGA-D3-A2J7": {
+      "num_patches": 993,
+      "file": "TCGA-D3-A2J7.pt"
+    },
+    "TCGA-D3-A2J8": {
+      "num_patches": 2146,
+      "file": "TCGA-D3-A2J8.pt"
+    },
+    "TCGA-D3-A2J9": {
+      "num_patches": 1712,
+      "file": "TCGA-D3-A2J9.pt"
+    },
+    "TCGA-D3-A2JA": {
+      "num_patches": 1002,
+      "file": "TCGA-D3-A2JA.pt"
+    },
+    "TCGA-D3-A2JB": {
+      "num_patches": 1588,
+      "file": "TCGA-D3-A2JB.pt"
+    },
+    "TCGA-D3-A2JC": {
+      "num_patches": 3085,
+      "file": "TCGA-D3-A2JC.pt"
+    },
+    "TCGA-D3-A2JD": {
+      "num_patches": 1526,
+      "file": "TCGA-D3-A2JD.pt"
+    },
+    "TCGA-D3-A2JE": {
+      "num_patches": 438,
+      "file": "TCGA-D3-A2JE.pt"
+    },
+    "TCGA-D3-A2JF": {
+      "num_patches": 1092,
+      "file": "TCGA-D3-A2JF.pt"
+    },
+    "TCGA-D3-A2JG": {
+      "num_patches": 993,
+      "file": "TCGA-D3-A2JG.pt"
+    },
+    "TCGA-D3-A2JH": {
+      "num_patches": 125,
+      "file": "TCGA-D3-A2JH.pt"
+    },
+    "TCGA-D3-A2JK": {
+      "num_patches": 483,
+      "file": "TCGA-D3-A2JK.pt"
+    },
+    "TCGA-D3-A2JL": {
+      "num_patches": 590,
+      "file": "TCGA-D3-A2JL.pt"
+    },
+    "TCGA-D3-A2JN": {
+      "num_patches": 14,
+      "file": "TCGA-D3-A2JN.pt"
+    },
+    "TCGA-D3-A2JO": {
+      "num_patches": 267,
+      "file": "TCGA-D3-A2JO.pt"
+    },
+    "TCGA-D3-A2JP": {
+      "num_patches": 323,
+      "file": "TCGA-D3-A2JP.pt"
+    },
+    "TCGA-D3-A3BZ": {
+      "num_patches": 266,
+      "file": "TCGA-D3-A3BZ.pt"
+    },
+    "TCGA-D3-A3C1": {
+      "num_patches": 534,
+      "file": "TCGA-D3-A3C1.pt"
+    },
+    "TCGA-D3-A3C3": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A3C3.pt"
+    },
+    "TCGA-D3-A3CC": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A3CC.pt"
+    },
+    "TCGA-D3-A3CF": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A3CF.pt"
+    },
+    "TCGA-D3-A51J": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A51J.pt"
+    },
+    "TCGA-D3-A5GN": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A5GN.pt"
+    },
+    "TCGA-D3-A8GC": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A8GC.pt"
+    },
+    "TCGA-D3-A8GD": {
+      "num_patches": 1,
+      "file": "TCGA-D3-A8GD.pt"
+    },
+    "TCGA-D9-A1JW": {
+      "num_patches": 1,
+      "file": "TCGA-D9-A1JW.pt"
+    },
+    "TCGA-D9-A1X3": {
+      "num_patches": 2,
+      "file": "TCGA-D9-A1X3.pt"
+    },
+    "TCGA-D9-A3Z3": {
+      "num_patches": 1,
+      "file": "TCGA-D9-A3Z3.pt"
+    },
+    "TCGA-D9-A4Z2": {
+      "num_patches": 1,
+      "file": "TCGA-D9-A4Z2.pt"
+    },
+    "TCGA-D9-A6EC": {
+      "num_patches": 1,
+      "file": "TCGA-D9-A6EC.pt"
+    },
+    "TCGA-DA-A1I4": {
+      "num_patches": 1,
+      "file": "TCGA-DA-A1I4.pt"
+    },
+    "TCGA-EB-A299": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A299.pt"
+    },
+    "TCGA-EB-A3XC": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A3XC.pt"
+    },
+    "TCGA-EB-A42Y": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A42Y.pt"
+    },
+    "TCGA-EB-A430": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A430.pt"
+    },
+    "TCGA-EB-A431": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A431.pt"
+    },
+    "TCGA-EB-A44O": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A44O.pt"
+    },
+    "TCGA-EB-A44Q": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A44Q.pt"
+    },
+    "TCGA-EB-A4OZ": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A4OZ.pt"
+    },
+    "TCGA-EB-A5FP": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A5FP.pt"
+    },
+    "TCGA-EB-A5SF": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A5SF.pt"
+    },
+    "TCGA-EB-A5UM": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A5UM.pt"
+    },
+    "TCGA-EB-A6L9": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A6L9.pt"
+    },
+    "TCGA-EB-A6QY": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A6QY.pt"
+    },
+    "TCGA-EB-A82C": {
+      "num_patches": 1,
+      "file": "TCGA-EB-A82C.pt"
+    },
+    "TCGA-EE-A17Y": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A17Y.pt"
+    },
+    "TCGA-EE-A17Z": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A17Z.pt"
+    },
+    "TCGA-EE-A182": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A182.pt"
+    },
+    "TCGA-EE-A183": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A183.pt"
+    },
+    "TCGA-EE-A185": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A185.pt"
+    },
+    "TCGA-EE-A29C": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A29C.pt"
+    },
+    "TCGA-EE-A29H": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A29H.pt"
+    },
+    "TCGA-EE-A29P": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A29P.pt"
+    },
+    "TCGA-EE-A29T": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A29T.pt"
+    },
+    "TCGA-EE-A2A1": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2A1.pt"
+    },
+    "TCGA-EE-A2GJ": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2GJ.pt"
+    },
+    "TCGA-EE-A2GP": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2GP.pt"
+    },
+    "TCGA-EE-A2GR": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2GR.pt"
+    },
+    "TCGA-EE-A2M6": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2M6.pt"
+    },
+    "TCGA-EE-A2M8": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2M8.pt"
+    },
+    "TCGA-EE-A2MR": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2MR.pt"
+    },
+    "TCGA-EE-A2MU": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A2MU.pt"
+    },
+    "TCGA-EE-A3J5": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A3J5.pt"
+    },
+    "TCGA-EE-A3JH": {
+      "num_patches": 1,
+      "file": "TCGA-EE-A3JH.pt"
+    },
+    "TCGA-ER-A19P": {
+      "num_patches": 1,
+      "file": "TCGA-ER-A19P.pt"
+    },
+    "TCGA-ER-A19S": {
+      "num_patches": 1,
+      "file": "TCGA-ER-A19S.pt"
+    },
+    "TCGA-ER-A19W": {
+      "num_patches": 1,
+      "file": "TCGA-ER-A19W.pt"
+    },
+    "TCGA-ER-A2NC": {
+      "num_patches": 1,
+      "file": "TCGA-ER-A2NC.pt"
+    },
+    "TCGA-ER-A2NF": {
+      "num_patches": 1,
+      "file": "TCGA-ER-A2NF.pt"
+    },
+    "TCGA-ER-A42H": {
+      "num_patches": 1,
+      "file": "TCGA-ER-A42H.pt"
+    },
+    "TCGA-FR-A3R1": {
+      "num_patches": 1,
+      "file": "TCGA-FR-A3R1.pt"
+    },
+    "TCGA-FR-A729": {
+      "num_patches": 1,
+      "file": "TCGA-FR-A729.pt"
+    },
+    "TCGA-FR-A8YE": {
+      "num_patches": 1,
+      "file": "TCGA-FR-A8YE.pt"
+    },
+    "TCGA-FS-A1Z7": {
+      "num_patches": 1,
+      "file": "TCGA-FS-A1Z7.pt"
+    },
+    "TCGA-FS-A1ZC": {
+      "num_patches": 1,
+      "file": "TCGA-FS-A1ZC.pt"
+    },
+    "TCGA-FS-A1ZD": {
+      "num_patches": 1,
+      "file": "TCGA-FS-A1ZD.pt"
+    },
+    "TCGA-FS-A1ZM": {
+      "num_patches": 1,
+      "file": "TCGA-FS-A1ZM.pt"
+    },
+    "TCGA-FS-A1ZN": {
+      "num_patches": 2,
+      "file": "TCGA-FS-A1ZN.pt"
+    },
+    "TCGA-FS-A1ZW": {
+      "num_patches": 1,
+      "file": "TCGA-FS-A1ZW.pt"
+    },
+    "TCGA-GF-A6C8": {
+      "num_patches": 1,
+      "file": "TCGA-GF-A6C8.pt"
+    },
+    "TCGA-GF-A769": {
+      "num_patches": 1,
+      "file": "TCGA-GF-A769.pt"
+    },
+    "TCGA-GN-A26C": {
+      "num_patches": 1,
+      "file": "TCGA-GN-A26C.pt"
+    },
+    "TCGA-GN-A26D": {
+      "num_patches": 1,
+      "file": "TCGA-GN-A26D.pt"
+    },
+    "TCGA-GN-A4U4": {
+      "num_patches": 1,
+      "file": "TCGA-GN-A4U4.pt"
+    },
+    "TCGA-GN-A4U5": {
+      "num_patches": 1,
+      "file": "TCGA-GN-A4U5.pt"
+    },
+    "TCGA-IH-A3EA": {
+      "num_patches": 1,
+      "file": "TCGA-IH-A3EA.pt"
+    },
+    "TCGA-QB-A6FS": {
+      "num_patches": 1,
+      "file": "TCGA-QB-A6FS.pt"
+    },
+    "TCGA-RP-A690": {
+      "num_patches": 1,
+      "file": "TCGA-RP-A690.pt"
+    },
+    "TCGA-RP-A693": {
+      "num_patches": 1,
+      "file": "TCGA-RP-A693.pt"
+    },
+    "TCGA-W3-AA1Q": {
+      "num_patches": 1,
+      "file": "TCGA-W3-AA1Q.pt"
+    },
+    "TCGA-WE-A8K1": {
+      "num_patches": 1,
+      "file": "TCGA-WE-A8K1.pt"
+    },
+    "TCGA-WE-A8ZO": {
+      "num_patches": 1,
+      "file": "TCGA-WE-A8ZO.pt"
+    },
+    "TCGA-XV-A9W5": {
+      "num_patches": 1,
+      "file": "TCGA-XV-A9W5.pt"
+    },
+    "TCGA-Z2-AA3S": {
+      "num_patches": 1,
+      "file": "TCGA-Z2-AA3S.pt"
+    }
+  },
+  "stad": {
+    "TCGA-3M-AB46": {
+      "num_patches": 1,
+      "file": "TCGA-3M-AB46.pt"
+    },
+    "TCGA-BR-6452": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6452.pt"
+    },
+    "TCGA-BR-6453": {
+      "num_patches": 118,
+      "file": "TCGA-BR-6453.pt"
+    },
+    "TCGA-BR-6455": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6455.pt"
+    },
+    "TCGA-BR-6457": {
+      "num_patches": 1,
+      "file": "TCGA-BR-6457.pt"
+    },
+    "TCGA-BR-6458": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6458.pt"
+    },
+    "TCGA-BR-6563": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6563.pt"
+    },
+    "TCGA-BR-6564": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6564.pt"
+    },
+    "TCGA-BR-6705": {
+      "num_patches": 1,
+      "file": "TCGA-BR-6705.pt"
+    },
+    "TCGA-BR-6706": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6706.pt"
+    },
+    "TCGA-BR-6707": {
+      "num_patches": 1,
+      "file": "TCGA-BR-6707.pt"
+    },
+    "TCGA-BR-6709": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6709.pt"
+    },
+    "TCGA-BR-6710": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6710.pt"
+    },
+    "TCGA-BR-6802": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6802.pt"
+    },
+    "TCGA-BR-6803": {
+      "num_patches": 119,
+      "file": "TCGA-BR-6803.pt"
+    },
+    "TCGA-BR-7197": {
+      "num_patches": 1,
+      "file": "TCGA-BR-7197.pt"
+    },
+    "TCGA-BR-7703": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7703.pt"
+    },
+    "TCGA-BR-7704": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7704.pt"
+    },
+    "TCGA-BR-7707": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7707.pt"
+    },
+    "TCGA-BR-7715": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7715.pt"
+    },
+    "TCGA-BR-7716": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7716.pt"
+    },
+    "TCGA-BR-7851": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7851.pt"
+    },
+    "TCGA-BR-7957": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7957.pt"
+    },
+    "TCGA-BR-7959": {
+      "num_patches": 119,
+      "file": "TCGA-BR-7959.pt"
+    },
+    "TCGA-BR-8058": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8058.pt"
+    },
+    "TCGA-BR-8059": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8059.pt"
+    },
+    "TCGA-BR-8060": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8060.pt"
+    },
+    "TCGA-BR-8077": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8077.pt"
+    },
+    "TCGA-BR-8078": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8078.pt"
+    },
+    "TCGA-BR-8080": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8080.pt"
+    },
+    "TCGA-BR-8284": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8284.pt"
+    },
+    "TCGA-BR-8285": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8285.pt"
+    },
+    "TCGA-BR-8286": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8286.pt"
+    },
+    "TCGA-BR-8289": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8289.pt"
+    },
+    "TCGA-BR-8295": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8295.pt"
+    },
+    "TCGA-BR-8297": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8297.pt"
+    },
+    "TCGA-BR-8360": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8360.pt"
+    },
+    "TCGA-BR-8361": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8361.pt"
+    },
+    "TCGA-BR-8362": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8362.pt"
+    },
+    "TCGA-BR-8363": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8363.pt"
+    },
+    "TCGA-BR-8364": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8364.pt"
+    },
+    "TCGA-BR-8365": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8365.pt"
+    },
+    "TCGA-BR-8366": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8366.pt"
+    },
+    "TCGA-BR-8368": {
+      "num_patches": 118,
+      "file": "TCGA-BR-8368.pt"
+    },
+    "TCGA-BR-8370": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8370.pt"
+    },
+    "TCGA-BR-8372": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8372.pt"
+    },
+    "TCGA-BR-8384": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8384.pt"
+    },
+    "TCGA-BR-8483": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8483.pt"
+    },
+    "TCGA-BR-8484": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8484.pt"
+    },
+    "TCGA-BR-8485": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8485.pt"
+    },
+    "TCGA-BR-8486": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8486.pt"
+    },
+    "TCGA-BR-8487": {
+      "num_patches": 118,
+      "file": "TCGA-BR-8487.pt"
+    },
+    "TCGA-BR-8588": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8588.pt"
+    },
+    "TCGA-BR-8589": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8589.pt"
+    },
+    "TCGA-BR-8590": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8590.pt"
+    },
+    "TCGA-BR-8591": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8591.pt"
+    },
+    "TCGA-BR-8676": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8676.pt"
+    },
+    "TCGA-BR-8679": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8679.pt"
+    },
+    "TCGA-BR-8680": {
+      "num_patches": 1,
+      "file": "TCGA-BR-8680.pt"
+    },
+    "TCGA-BR-8682": {
+      "num_patches": 118,
+      "file": "TCGA-BR-8682.pt"
+    },
+    "TCGA-BR-8683": {
+      "num_patches": 119,
+      "file": "TCGA-BR-8683.pt"
+    },
+    "TCGA-BR-8690": {
+      "num_patches": 118,
+      "file": "TCGA-BR-8690.pt"
+    },
+    "TCGA-BR-A44U": {
+      "num_patches": 118,
+      "file": "TCGA-BR-A44U.pt"
+    },
+    "TCGA-BR-A452": {
+      "num_patches": 1,
+      "file": "TCGA-BR-A452.pt"
+    },
+    "TCGA-BR-A453": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A453.pt"
+    },
+    "TCGA-BR-A4CQ": {
+      "num_patches": 1,
+      "file": "TCGA-BR-A4CQ.pt"
+    },
+    "TCGA-BR-A4CR": {
+      "num_patches": 1,
+      "file": "TCGA-BR-A4CR.pt"
+    },
+    "TCGA-BR-A4IU": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4IU.pt"
+    },
+    "TCGA-BR-A4J1": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4J1.pt"
+    },
+    "TCGA-BR-A4J4": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4J4.pt"
+    },
+    "TCGA-BR-A4J5": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4J5.pt"
+    },
+    "TCGA-BR-A4J6": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4J6.pt"
+    },
+    "TCGA-BR-A4J7": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4J7.pt"
+    },
+    "TCGA-BR-A4J8": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4J8.pt"
+    },
+    "TCGA-BR-A4J9": {
+      "num_patches": 1,
+      "file": "TCGA-BR-A4J9.pt"
+    },
+    "TCGA-BR-A4PD": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4PD.pt"
+    },
+    "TCGA-BR-A4PF": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4PF.pt"
+    },
+    "TCGA-BR-A4QI": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4QI.pt"
+    },
+    "TCGA-BR-A4QL": {
+      "num_patches": 119,
+      "file": "TCGA-BR-A4QL.pt"
+    },
+    "TCGA-CD-5798": {
+      "num_patches": 119,
+      "file": "TCGA-CD-5798.pt"
+    },
+    "TCGA-CD-5799": {
+      "num_patches": 119,
+      "file": "TCGA-CD-5799.pt"
+    },
+    "TCGA-CD-5800": {
+      "num_patches": 119,
+      "file": "TCGA-CD-5800.pt"
+    },
+    "TCGA-CD-5801": {
+      "num_patches": 1,
+      "file": "TCGA-CD-5801.pt"
+    },
+    "TCGA-CD-5803": {
+      "num_patches": 1,
+      "file": "TCGA-CD-5803.pt"
+    },
+    "TCGA-CD-5804": {
+      "num_patches": 119,
+      "file": "TCGA-CD-5804.pt"
+    },
+    "TCGA-CD-5813": {
+      "num_patches": 119,
+      "file": "TCGA-CD-5813.pt"
+    },
+    "TCGA-CD-A486": {
+      "num_patches": 119,
+      "file": "TCGA-CD-A486.pt"
+    },
+    "TCGA-CD-A487": {
+      "num_patches": 118,
+      "file": "TCGA-CD-A487.pt"
+    },
+    "TCGA-CD-A489": {
+      "num_patches": 1,
+      "file": "TCGA-CD-A489.pt"
+    },
+    "TCGA-CD-A48A": {
+      "num_patches": 1,
+      "file": "TCGA-CD-A48A.pt"
+    },
+    "TCGA-CD-A48C": {
+      "num_patches": 119,
+      "file": "TCGA-CD-A48C.pt"
+    },
+    "TCGA-CD-A4MG": {
+      "num_patches": 1,
+      "file": "TCGA-CD-A4MG.pt"
+    },
+    "TCGA-CD-A4MI": {
+      "num_patches": 1,
+      "file": "TCGA-CD-A4MI.pt"
+    },
+    "TCGA-CD-A4MJ": {
+      "num_patches": 119,
+      "file": "TCGA-CD-A4MJ.pt"
+    },
+    "TCGA-CG-4301": {
+      "num_patches": 1,
+      "file": "TCGA-CG-4301.pt"
+    },
+    "TCGA-CG-4304": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4304.pt"
+    },
+    "TCGA-CG-4305": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4305.pt"
+    },
+    "TCGA-CG-4436": {
+      "num_patches": 118,
+      "file": "TCGA-CG-4436.pt"
+    },
+    "TCGA-CG-4438": {
+      "num_patches": 118,
+      "file": "TCGA-CG-4438.pt"
+    },
+    "TCGA-CG-4440": {
+      "num_patches": 1,
+      "file": "TCGA-CG-4440.pt"
+    },
+    "TCGA-CG-4441": {
+      "num_patches": 1,
+      "file": "TCGA-CG-4441.pt"
+    },
+    "TCGA-CG-4442": {
+      "num_patches": 1,
+      "file": "TCGA-CG-4442.pt"
+    },
+    "TCGA-CG-4443": {
+      "num_patches": 117,
+      "file": "TCGA-CG-4443.pt"
+    },
+    "TCGA-CG-4444": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4444.pt"
+    },
+    "TCGA-CG-4449": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4449.pt"
+    },
+    "TCGA-CG-4460": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4460.pt"
+    },
+    "TCGA-CG-4462": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4462.pt"
+    },
+    "TCGA-CG-4465": {
+      "num_patches": 1,
+      "file": "TCGA-CG-4465.pt"
+    },
+    "TCGA-CG-4466": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4466.pt"
+    },
+    "TCGA-CG-4472": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4472.pt"
+    },
+    "TCGA-CG-4474": {
+      "num_patches": 119,
+      "file": "TCGA-CG-4474.pt"
+    },
+    "TCGA-CG-4475": {
+      "num_patches": 118,
+      "file": "TCGA-CG-4475.pt"
+    },
+    "TCGA-D7-5577": {
+      "num_patches": 119,
+      "file": "TCGA-D7-5577.pt"
+    },
+    "TCGA-D7-5578": {
+      "num_patches": 1,
+      "file": "TCGA-D7-5578.pt"
+    },
+    "TCGA-D7-5579": {
+      "num_patches": 1,
+      "file": "TCGA-D7-5579.pt"
+    },
+    "TCGA-D7-6518": {
+      "num_patches": 238,
+      "file": "TCGA-D7-6518.pt"
+    },
+    "TCGA-D7-6520": {
+      "num_patches": 1,
+      "file": "TCGA-D7-6520.pt"
+    },
+    "TCGA-D7-6521": {
+      "num_patches": 119,
+      "file": "TCGA-D7-6521.pt"
+    },
+    "TCGA-D7-6522": {
+      "num_patches": 119,
+      "file": "TCGA-D7-6522.pt"
+    },
+    "TCGA-D7-6526": {
+      "num_patches": 237,
+      "file": "TCGA-D7-6526.pt"
+    },
+    "TCGA-D7-6527": {
+      "num_patches": 1,
+      "file": "TCGA-D7-6527.pt"
+    },
+    "TCGA-D7-6528": {
+      "num_patches": 237,
+      "file": "TCGA-D7-6528.pt"
+    },
+    "TCGA-D7-6815": {
+      "num_patches": 119,
+      "file": "TCGA-D7-6815.pt"
+    },
+    "TCGA-D7-6817": {
+      "num_patches": 119,
+      "file": "TCGA-D7-6817.pt"
+    },
+    "TCGA-D7-6818": {
+      "num_patches": 223,
+      "file": "TCGA-D7-6818.pt"
+    },
+    "TCGA-D7-6820": {
+      "num_patches": 237,
+      "file": "TCGA-D7-6820.pt"
+    },
+    "TCGA-D7-6822": {
+      "num_patches": 1,
+      "file": "TCGA-D7-6822.pt"
+    },
+    "TCGA-D7-8572": {
+      "num_patches": 1,
+      "file": "TCGA-D7-8572.pt"
+    },
+    "TCGA-D7-8573": {
+      "num_patches": 238,
+      "file": "TCGA-D7-8573.pt"
+    },
+    "TCGA-D7-8574": {
+      "num_patches": 238,
+      "file": "TCGA-D7-8574.pt"
+    },
+    "TCGA-D7-8575": {
+      "num_patches": 238,
+      "file": "TCGA-D7-8575.pt"
+    },
+    "TCGA-D7-8576": {
+      "num_patches": 1,
+      "file": "TCGA-D7-8576.pt"
+    },
+    "TCGA-D7-8579": {
+      "num_patches": 238,
+      "file": "TCGA-D7-8579.pt"
+    },
+    "TCGA-D7-A4YT": {
+      "num_patches": 119,
+      "file": "TCGA-D7-A4YT.pt"
+    },
+    "TCGA-D7-A4YU": {
+      "num_patches": 1,
+      "file": "TCGA-D7-A4YU.pt"
+    },
+    "TCGA-D7-A4YX": {
+      "num_patches": 119,
+      "file": "TCGA-D7-A4YX.pt"
+    },
+    "TCGA-D7-A4YY": {
+      "num_patches": 1,
+      "file": "TCGA-D7-A4YY.pt"
+    },
+    "TCGA-D7-A6ET": {
+      "num_patches": 1,
+      "file": "TCGA-D7-A6ET.pt"
+    },
+    "TCGA-D7-A6EY": {
+      "num_patches": 1,
+      "file": "TCGA-D7-A6EY.pt"
+    },
+    "TCGA-D7-A747": {
+      "num_patches": 119,
+      "file": "TCGA-D7-A747.pt"
+    },
+    "TCGA-D7-A74B": {
+      "num_patches": 119,
+      "file": "TCGA-D7-A74B.pt"
+    },
+    "TCGA-EQ-5647": {
+      "num_patches": 119,
+      "file": "TCGA-EQ-5647.pt"
+    },
+    "TCGA-EQ-A4SO": {
+      "num_patches": 119,
+      "file": "TCGA-EQ-A4SO.pt"
+    },
+    "TCGA-F1-6177": {
+      "num_patches": 1,
+      "file": "TCGA-F1-6177.pt"
+    },
+    "TCGA-F1-6874": {
+      "num_patches": 118,
+      "file": "TCGA-F1-6874.pt"
+    },
+    "TCGA-F1-A72C": {
+      "num_patches": 1,
+      "file": "TCGA-F1-A72C.pt"
+    },
+    "TCGA-FP-7735": {
+      "num_patches": 1,
+      "file": "TCGA-FP-7735.pt"
+    },
+    "TCGA-FP-7829": {
+      "num_patches": 118,
+      "file": "TCGA-FP-7829.pt"
+    },
+    "TCGA-FP-7916": {
+      "num_patches": 1,
+      "file": "TCGA-FP-7916.pt"
+    },
+    "TCGA-FP-7998": {
+      "num_patches": 119,
+      "file": "TCGA-FP-7998.pt"
+    },
+    "TCGA-FP-8099": {
+      "num_patches": 119,
+      "file": "TCGA-FP-8099.pt"
+    },
+    "TCGA-FP-8209": {
+      "num_patches": 118,
+      "file": "TCGA-FP-8209.pt"
+    },
+    "TCGA-FP-8211": {
+      "num_patches": 118,
+      "file": "TCGA-FP-8211.pt"
+    },
+    "TCGA-FP-8631": {
+      "num_patches": 119,
+      "file": "TCGA-FP-8631.pt"
+    },
+    "TCGA-FP-A4BE": {
+      "num_patches": 119,
+      "file": "TCGA-FP-A4BE.pt"
+    },
+    "TCGA-FP-A4BF": {
+      "num_patches": 119,
+      "file": "TCGA-FP-A4BF.pt"
+    },
+    "TCGA-FP-A8CX": {
+      "num_patches": 1,
+      "file": "TCGA-FP-A8CX.pt"
+    },
+    "TCGA-FP-A9TM": {
+      "num_patches": 117,
+      "file": "TCGA-FP-A9TM.pt"
+    },
+    "TCGA-HF-7131": {
+      "num_patches": 1,
+      "file": "TCGA-HF-7131.pt"
+    },
+    "TCGA-HF-7132": {
+      "num_patches": 117,
+      "file": "TCGA-HF-7132.pt"
+    },
+    "TCGA-HF-7133": {
+      "num_patches": 1,
+      "file": "TCGA-HF-7133.pt"
+    },
+    "TCGA-HF-7136": {
+      "num_patches": 1,
+      "file": "TCGA-HF-7136.pt"
+    },
+    "TCGA-HF-A5NB": {
+      "num_patches": 1,
+      "file": "TCGA-HF-A5NB.pt"
+    },
+    "TCGA-HJ-7597": {
+      "num_patches": 119,
+      "file": "TCGA-HJ-7597.pt"
+    },
+    "TCGA-HU-8238": {
+      "num_patches": 116,
+      "file": "TCGA-HU-8238.pt"
+    },
+    "TCGA-HU-8244": {
+      "num_patches": 118,
+      "file": "TCGA-HU-8244.pt"
+    },
+    "TCGA-HU-8249": {
+      "num_patches": 119,
+      "file": "TCGA-HU-8249.pt"
+    },
+    "TCGA-HU-8604": {
+      "num_patches": 119,
+      "file": "TCGA-HU-8604.pt"
+    },
+    "TCGA-HU-8610": {
+      "num_patches": 118,
+      "file": "TCGA-HU-8610.pt"
+    },
+    "TCGA-HU-A4G2": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4G2.pt"
+    },
+    "TCGA-HU-A4G3": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4G3.pt"
+    },
+    "TCGA-HU-A4G8": {
+      "num_patches": 119,
+      "file": "TCGA-HU-A4G8.pt"
+    },
+    "TCGA-HU-A4G9": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4G9.pt"
+    },
+    "TCGA-HU-A4GC": {
+      "num_patches": 119,
+      "file": "TCGA-HU-A4GC.pt"
+    },
+    "TCGA-HU-A4GD": {
+      "num_patches": 116,
+      "file": "TCGA-HU-A4GD.pt"
+    },
+    "TCGA-HU-A4GF": {
+      "num_patches": 119,
+      "file": "TCGA-HU-A4GF.pt"
+    },
+    "TCGA-HU-A4GN": {
+      "num_patches": 119,
+      "file": "TCGA-HU-A4GN.pt"
+    },
+    "TCGA-HU-A4GP": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4GP.pt"
+    },
+    "TCGA-HU-A4GU": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4GU.pt"
+    },
+    "TCGA-HU-A4GX": {
+      "num_patches": 118,
+      "file": "TCGA-HU-A4GX.pt"
+    },
+    "TCGA-HU-A4H5": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4H5.pt"
+    },
+    "TCGA-HU-A4H6": {
+      "num_patches": 119,
+      "file": "TCGA-HU-A4H6.pt"
+    },
+    "TCGA-HU-A4H8": {
+      "num_patches": 1,
+      "file": "TCGA-HU-A4H8.pt"
+    },
+    "TCGA-HU-A4HB": {
+      "num_patches": 113,
+      "file": "TCGA-HU-A4HB.pt"
+    },
+    "TCGA-HU-A4HD": {
+      "num_patches": 119,
+      "file": "TCGA-HU-A4HD.pt"
+    },
+    "TCGA-IN-7806": {
+      "num_patches": 1,
+      "file": "TCGA-IN-7806.pt"
+    },
+    "TCGA-IN-8663": {
+      "num_patches": 119,
+      "file": "TCGA-IN-8663.pt"
+    },
+    "TCGA-KB-A93H": {
+      "num_patches": 119,
+      "file": "TCGA-KB-A93H.pt"
+    },
+    "TCGA-KB-A93J": {
+      "num_patches": 119,
+      "file": "TCGA-KB-A93J.pt"
+    },
+    "TCGA-MX-A5UG": {
+      "num_patches": 1,
+      "file": "TCGA-MX-A5UG.pt"
+    },
+    "TCGA-MX-A663": {
+      "num_patches": 119,
+      "file": "TCGA-MX-A663.pt"
+    },
+    "TCGA-MX-A666": {
+      "num_patches": 119,
+      "file": "TCGA-MX-A666.pt"
+    },
+    "TCGA-R5-A7O7": {
+      "num_patches": 118,
+      "file": "TCGA-R5-A7O7.pt"
+    },
+    "TCGA-R5-A7ZE": {
+      "num_patches": 1,
+      "file": "TCGA-R5-A7ZE.pt"
+    },
+    "TCGA-R5-A7ZF": {
+      "num_patches": 117,
+      "file": "TCGA-R5-A7ZF.pt"
+    },
+    "TCGA-R5-A7ZI": {
+      "num_patches": 119,
+      "file": "TCGA-R5-A7ZI.pt"
+    },
+    "TCGA-R5-A7ZR": {
+      "num_patches": 119,
+      "file": "TCGA-R5-A7ZR.pt"
+    },
+    "TCGA-R5-A804": {
+      "num_patches": 118,
+      "file": "TCGA-R5-A804.pt"
+    },
+    "TCGA-R5-A805": {
+      "num_patches": 1,
+      "file": "TCGA-R5-A805.pt"
+    },
+    "TCGA-RD-A7BS": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A7BS.pt"
+    },
+    "TCGA-RD-A7BT": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A7BT.pt"
+    },
+    "TCGA-RD-A7BW": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A7BW.pt"
+    },
+    "TCGA-RD-A7C1": {
+      "num_patches": 1,
+      "file": "TCGA-RD-A7C1.pt"
+    },
+    "TCGA-RD-A8MV": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A8MV.pt"
+    },
+    "TCGA-RD-A8N2": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A8N2.pt"
+    },
+    "TCGA-RD-A8N4": {
+      "num_patches": 1,
+      "file": "TCGA-RD-A8N4.pt"
+    },
+    "TCGA-RD-A8N5": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A8N5.pt"
+    },
+    "TCGA-RD-A8N6": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A8N6.pt"
+    },
+    "TCGA-RD-A8N9": {
+      "num_patches": 119,
+      "file": "TCGA-RD-A8N9.pt"
+    },
+    "TCGA-SW-A7EB": {
+      "num_patches": 118,
+      "file": "TCGA-SW-A7EB.pt"
+    },
+    "TCGA-VQ-A8DL": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-A8DL.pt"
+    },
+    "TCGA-VQ-A8DT": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-A8DT.pt"
+    },
+    "TCGA-VQ-A8DV": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8DV.pt"
+    },
+    "TCGA-VQ-A8E0": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8E0.pt"
+    },
+    "TCGA-VQ-A8E7": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8E7.pt"
+    },
+    "TCGA-VQ-A8P2": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8P2.pt"
+    },
+    "TCGA-VQ-A8P3": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8P3.pt"
+    },
+    "TCGA-VQ-A8PB": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A8PB.pt"
+    },
+    "TCGA-VQ-A8PC": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PC.pt"
+    },
+    "TCGA-VQ-A8PD": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A8PD.pt"
+    },
+    "TCGA-VQ-A8PE": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A8PE.pt"
+    },
+    "TCGA-VQ-A8PH": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PH.pt"
+    },
+    "TCGA-VQ-A8PK": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A8PK.pt"
+    },
+    "TCGA-VQ-A8PM": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PM.pt"
+    },
+    "TCGA-VQ-A8PP": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PP.pt"
+    },
+    "TCGA-VQ-A8PQ": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PQ.pt"
+    },
+    "TCGA-VQ-A8PS": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PS.pt"
+    },
+    "TCGA-VQ-A8PT": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PT.pt"
+    },
+    "TCGA-VQ-A8PX": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PX.pt"
+    },
+    "TCGA-VQ-A8PY": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-A8PY.pt"
+    },
+    "TCGA-VQ-A8PZ": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A8PZ.pt"
+    },
+    "TCGA-VQ-A91A": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-A91A.pt"
+    },
+    "TCGA-VQ-A91D": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A91D.pt"
+    },
+    "TCGA-VQ-A91K": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-A91K.pt"
+    },
+    "TCGA-VQ-A91N": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A91N.pt"
+    },
+    "TCGA-VQ-A91S": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A91S.pt"
+    },
+    "TCGA-VQ-A91U": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A91U.pt"
+    },
+    "TCGA-VQ-A91V": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A91V.pt"
+    },
+    "TCGA-VQ-A91W": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A91W.pt"
+    },
+    "TCGA-VQ-A91X": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A91X.pt"
+    },
+    "TCGA-VQ-A91Y": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A91Y.pt"
+    },
+    "TCGA-VQ-A922": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A922.pt"
+    },
+    "TCGA-VQ-A923": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A923.pt"
+    },
+    "TCGA-VQ-A924": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A924.pt"
+    },
+    "TCGA-VQ-A925": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A925.pt"
+    },
+    "TCGA-VQ-A927": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A927.pt"
+    },
+    "TCGA-VQ-A928": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A928.pt"
+    },
+    "TCGA-VQ-A94P": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A94P.pt"
+    },
+    "TCGA-VQ-A94R": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A94R.pt"
+    },
+    "TCGA-VQ-A94T": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-A94T.pt"
+    },
+    "TCGA-VQ-A94U": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-A94U.pt"
+    },
+    "TCGA-VQ-AA64": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-AA64.pt"
+    },
+    "TCGA-VQ-AA68": {
+      "num_patches": 1,
+      "file": "TCGA-VQ-AA68.pt"
+    },
+    "TCGA-VQ-AA6A": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-AA6A.pt"
+    },
+    "TCGA-VQ-AA6B": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-AA6B.pt"
+    },
+    "TCGA-VQ-AA6F": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-AA6F.pt"
+    },
+    "TCGA-VQ-AA6G": {
+      "num_patches": 119,
+      "file": "TCGA-VQ-AA6G.pt"
+    },
+    "TCGA-VQ-AA6I": {
+      "num_patches": 118,
+      "file": "TCGA-VQ-AA6I.pt"
+    },
+    "TCGA-ZA-A8F6": {
+      "num_patches": 119,
+      "file": "TCGA-ZA-A8F6.pt"
+    }
+  },
+  "tgct": {
+    "TCGA-2G-AAF1": {
+      "num_patches": 1003,
+      "file": "TCGA-2G-AAF1.pt"
+    },
+    "TCGA-2G-AAF4": {
+      "num_patches": 1263,
+      "file": "TCGA-2G-AAF4.pt"
+    },
+    "TCGA-2G-AAF6": {
+      "num_patches": 17,
+      "file": "TCGA-2G-AAF6.pt"
+    },
+    "TCGA-2G-AAG6": {
+      "num_patches": 1672,
+      "file": "TCGA-2G-AAG6.pt"
+    },
+    "TCGA-2G-AAG9": {
+      "num_patches": 2000,
+      "file": "TCGA-2G-AAG9.pt"
+    },
+    "TCGA-2G-AAGF": {
+      "num_patches": 2000,
+      "file": "TCGA-2G-AAGF.pt"
+    },
+    "TCGA-2G-AAGI": {
+      "num_patches": 4000,
+      "file": "TCGA-2G-AAGI.pt"
+    },
+    "TCGA-2G-AAGK": {
+      "num_patches": 2000,
+      "file": "TCGA-2G-AAGK.pt"
+    },
+    "TCGA-2G-AAGP": {
+      "num_patches": 2000,
+      "file": "TCGA-2G-AAGP.pt"
+    },
+    "TCGA-2G-AALP": {
+      "num_patches": 14,
+      "file": "TCGA-2G-AALP.pt"
+    },
+    "TCGA-SB-A6J6": {
+      "num_patches": 2000,
+      "file": "TCGA-SB-A6J6.pt"
+    },
+    "TCGA-XE-AAOD": {
+      "num_patches": 5,
+      "file": "TCGA-XE-AAOD.pt"
+    },
+    "TCGA-YU-A912": {
+      "num_patches": 11,
+      "file": "TCGA-YU-A912.pt"
+    },
+    "TCGA-ZM-AA05": {
+      "num_patches": 536,
+      "file": "TCGA-ZM-AA05.pt"
+    },
+    "TCGA-ZM-AA0E": {
+      "num_patches": 31,
+      "file": "TCGA-ZM-AA0E.pt"
+    }
+  },
+  "thym": {
+    "TCGA-3T-AA9L": {
+      "num_patches": 803,
+      "file": "TCGA-3T-AA9L.pt"
+    },
+    "TCGA-4V-A9QQ": {
+      "num_patches": 2,
+      "file": "TCGA-4V-A9QQ.pt"
+    },
+    "TCGA-4X-A9FA": {
+      "num_patches": 256,
+      "file": "TCGA-4X-A9FA.pt"
+    },
+    "TCGA-5U-AB0D": {
+      "num_patches": 179,
+      "file": "TCGA-5U-AB0D.pt"
+    },
+    "TCGA-5U-AB0E": {
+      "num_patches": 1547,
+      "file": "TCGA-5U-AB0E.pt"
+    },
+    "TCGA-X7-A8D8": {
+      "num_patches": 250,
+      "file": "TCGA-X7-A8D8.pt"
+    },
+    "TCGA-XM-A8R8": {
+      "num_patches": 2000,
+      "file": "TCGA-XM-A8R8.pt"
+    },
+    "TCGA-XM-A8R9": {
+      "num_patches": 1532,
+      "file": "TCGA-XM-A8R9.pt"
+    },
+    "TCGA-XM-A8RC": {
+      "num_patches": 90,
+      "file": "TCGA-XM-A8RC.pt"
+    },
+    "TCGA-XM-A8RF": {
+      "num_patches": 290,
+      "file": "TCGA-XM-A8RF.pt"
+    },
+    "TCGA-XU-A92U": {
+      "num_patches": 269,
+      "file": "TCGA-XU-A92U.pt"
+    }
+  },
+  "ucec": {
+    "TCGA-4E-A92E": {
+      "num_patches": 1,
+      "file": "TCGA-4E-A92E.pt"
+    },
+    "TCGA-5B-A90C": {
+      "num_patches": 1,
+      "file": "TCGA-5B-A90C.pt"
+    },
+    "TCGA-A5-A0GA": {
+      "num_patches": 1,
+      "file": "TCGA-A5-A0GA.pt"
+    },
+    "TCGA-A5-A2K7": {
+      "num_patches": 1,
+      "file": "TCGA-A5-A2K7.pt"
+    },
+    "TCGA-A5-A3LO": {
+      "num_patches": 1,
+      "file": "TCGA-A5-A3LO.pt"
+    },
+    "TCGA-AJ-A2QO": {
+      "num_patches": 1,
+      "file": "TCGA-AJ-A2QO.pt"
+    },
+    "TCGA-AJ-A3EJ": {
+      "num_patches": 1,
+      "file": "TCGA-AJ-A3EJ.pt"
+    },
+    "TCGA-AJ-A5DW": {
+      "num_patches": 1,
+      "file": "TCGA-AJ-A5DW.pt"
+    },
+    "TCGA-AP-A05D": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A05D.pt"
+    },
+    "TCGA-AP-A05J": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A05J.pt"
+    },
+    "TCGA-AP-A05P": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A05P.pt"
+    },
+    "TCGA-AP-A0LF": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A0LF.pt"
+    },
+    "TCGA-AP-A0LT": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A0LT.pt"
+    },
+    "TCGA-AP-A1DM": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A1DM.pt"
+    },
+    "TCGA-AP-A1DV": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A1DV.pt"
+    },
+    "TCGA-AP-A3K1": {
+      "num_patches": 1,
+      "file": "TCGA-AP-A3K1.pt"
+    },
+    "TCGA-AX-A060": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A060.pt"
+    },
+    "TCGA-AX-A063": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A063.pt"
+    },
+    "TCGA-AX-A0IZ": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A0IZ.pt"
+    },
+    "TCGA-AX-A0J0": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A0J0.pt"
+    },
+    "TCGA-AX-A1C7": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A1C7.pt"
+    },
+    "TCGA-AX-A1C8": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A1C8.pt"
+    },
+    "TCGA-AX-A1CI": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A1CI.pt"
+    },
+    "TCGA-AX-A1CK": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A1CK.pt"
+    },
+    "TCGA-AX-A1CP": {
+      "num_patches": 1,
+      "file": "TCGA-AX-A1CP.pt"
+    },
+    "TCGA-B5-A0JX": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A0JX.pt"
+    },
+    "TCGA-B5-A0K0": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A0K0.pt"
+    },
+    "TCGA-B5-A11H": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A11H.pt"
+    },
+    "TCGA-B5-A11I": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A11I.pt"
+    },
+    "TCGA-B5-A11L": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A11L.pt"
+    },
+    "TCGA-B5-A11O": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A11O.pt"
+    },
+    "TCGA-B5-A11Z": {
+      "num_patches": 1,
+      "file": "TCGA-B5-A11Z.pt"
+    },
+    "TCGA-BG-A0M4": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A0M4.pt"
+    },
+    "TCGA-BG-A0M8": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A0M8.pt"
+    },
+    "TCGA-BG-A0MU": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A0MU.pt"
+    },
+    "TCGA-BG-A0YU": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A0YU.pt"
+    },
+    "TCGA-BG-A220": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A220.pt"
+    },
+    "TCGA-BG-A221": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A221.pt"
+    },
+    "TCGA-BG-A2L7": {
+      "num_patches": 1,
+      "file": "TCGA-BG-A2L7.pt"
+    },
+    "TCGA-BK-A56F": {
+      "num_patches": 1,
+      "file": "TCGA-BK-A56F.pt"
+    },
+    "TCGA-BS-A0U8": {
+      "num_patches": 1,
+      "file": "TCGA-BS-A0U8.pt"
+    },
+    "TCGA-BS-A0UM": {
+      "num_patches": 1,
+      "file": "TCGA-BS-A0UM.pt"
+    },
+    "TCGA-D1-A15W": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A15W.pt"
+    },
+    "TCGA-D1-A16D": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A16D.pt"
+    },
+    "TCGA-D1-A16J": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A16J.pt"
+    },
+    "TCGA-D1-A16X": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A16X.pt"
+    },
+    "TCGA-D1-A176": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A176.pt"
+    },
+    "TCGA-D1-A17C": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A17C.pt"
+    },
+    "TCGA-D1-A17H": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A17H.pt"
+    },
+    "TCGA-D1-A17R": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A17R.pt"
+    },
+    "TCGA-D1-A2G0": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A2G0.pt"
+    },
+    "TCGA-D1-A3JP": {
+      "num_patches": 1,
+      "file": "TCGA-D1-A3JP.pt"
+    },
+    "TCGA-DI-A2QY": {
+      "num_patches": 1,
+      "file": "TCGA-DI-A2QY.pt"
+    },
+    "TCGA-E6-A2P8": {
+      "num_patches": 1,
+      "file": "TCGA-E6-A2P8.pt"
+    },
+    "TCGA-EO-A1Y7": {
+      "num_patches": 1,
+      "file": "TCGA-EO-A1Y7.pt"
+    },
+    "TCGA-EO-A2CH": {
+      "num_patches": 1,
+      "file": "TCGA-EO-A2CH.pt"
+    },
+    "TCGA-FI-A2D5": {
+      "num_patches": 1,
+      "file": "TCGA-FI-A2D5.pt"
+    },
+    "TCGA-FI-A2EX": {
+      "num_patches": 1,
+      "file": "TCGA-FI-A2EX.pt"
+    },
+    "TCGA-FI-A3PX": {
+      "num_patches": 1,
+      "file": "TCGA-FI-A3PX.pt"
+    },
+    "TCGA-K6-A3WQ": {
+      "num_patches": 1,
+      "file": "TCGA-K6-A3WQ.pt"
+    },
+    "TCGA-PG-A7D5": {
+      "num_patches": 1,
+      "file": "TCGA-PG-A7D5.pt"
+    },
+    "TCGA-PG-A914": {
+      "num_patches": 1,
+      "file": "TCGA-PG-A914.pt"
+    },
+    "TCGA-PG-A916": {
+      "num_patches": 1,
+      "file": "TCGA-PG-A916.pt"
+    },
+    "TCGA-QF-A5YS": {
+      "num_patches": 1,
+      "file": "TCGA-QF-A5YS.pt"
+    },
+    "TCGA-SJ-A6ZI": {
+      "num_patches": 1,
+      "file": "TCGA-SJ-A6ZI.pt"
+    }
+  },
+  "uvm": {
+    "TCGA-RZ-AB0B": {
+      "num_patches": 1,
+      "file": "TCGA-RZ-AB0B.pt"
+    },
+    "TCGA-V3-A9ZX": {
+      "num_patches": 105,
+      "file": "TCGA-V3-A9ZX.pt"
+    },
+    "TCGA-V3-A9ZY": {
+      "num_patches": 1,
+      "file": "TCGA-V3-A9ZY.pt"
+    },
+    "TCGA-V4-A9E5": {
+      "num_patches": 106,
+      "file": "TCGA-V4-A9E5.pt"
+    },
+    "TCGA-V4-A9E7": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9E7.pt"
+    },
+    "TCGA-V4-A9E8": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9E8.pt"
+    },
+    "TCGA-V4-A9E9": {
+      "num_patches": 101,
+      "file": "TCGA-V4-A9E9.pt"
+    },
+    "TCGA-V4-A9EC": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EC.pt"
+    },
+    "TCGA-V4-A9ED": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9ED.pt"
+    },
+    "TCGA-V4-A9EE": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9EE.pt"
+    },
+    "TCGA-V4-A9EF": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9EF.pt"
+    },
+    "TCGA-V4-A9EH": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EH.pt"
+    },
+    "TCGA-V4-A9EI": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EI.pt"
+    },
+    "TCGA-V4-A9EJ": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9EJ.pt"
+    },
+    "TCGA-V4-A9EK": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EK.pt"
+    },
+    "TCGA-V4-A9EL": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EL.pt"
+    },
+    "TCGA-V4-A9EM": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EM.pt"
+    },
+    "TCGA-V4-A9EO": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EO.pt"
+    },
+    "TCGA-V4-A9ES": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9ES.pt"
+    },
+    "TCGA-V4-A9ET": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9ET.pt"
+    },
+    "TCGA-V4-A9EU": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9EU.pt"
+    },
+    "TCGA-V4-A9EV": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EV.pt"
+    },
+    "TCGA-V4-A9EW": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EW.pt"
+    },
+    "TCGA-V4-A9EX": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9EX.pt"
+    },
+    "TCGA-V4-A9EY": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9EY.pt"
+    },
+    "TCGA-V4-A9EZ": {
+      "num_patches": 100,
+      "file": "TCGA-V4-A9EZ.pt"
+    },
+    "TCGA-V4-A9F0": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9F0.pt"
+    },
+    "TCGA-V4-A9F2": {
+      "num_patches": 1,
+      "file": "TCGA-V4-A9F2.pt"
+    },
+    "TCGA-V4-A9F7": {
+      "num_patches": 101,
+      "file": "TCGA-V4-A9F7.pt"
+    },
+    "TCGA-V4-A9F8": {
+      "num_patches": 101,
+      "file": "TCGA-V4-A9F8.pt"
+    },
+    "TCGA-VD-AA8M": {
+      "num_patches": 100,
+      "file": "TCGA-VD-AA8M.pt"
+    },
+    "TCGA-VD-AA8N": {
+      "num_patches": 1,
+      "file": "TCGA-VD-AA8N.pt"
+    },
+    "TCGA-VD-AA8O": {
+      "num_patches": 1,
+      "file": "TCGA-VD-AA8O.pt"
+    },
+    "TCGA-VD-AA8P": {
+      "num_patches": 1,
+      "file": "TCGA-VD-AA8P.pt"
+    },
+    "TCGA-VD-AA8Q": {
+      "num_patches": 1,
+      "file": "TCGA-VD-AA8Q.pt"
+    },
+    "TCGA-VD-AA8R": {
+      "num_patches": 1,
+      "file": "TCGA-VD-AA8R.pt"
+    },
+    "TCGA-VD-AA8S": {
+      "num_patches": 100,
+      "file": "TCGA-VD-AA8S.pt"
+    },
+    "TCGA-VD-AA8T": {
+      "num_patches": 100,
+      "file": "TCGA-VD-AA8T.pt"
+    },
+    "TCGA-WC-A87T": {
+      "num_patches": 100,
+      "file": "TCGA-WC-A87T.pt"
+    },
+    "TCGA-WC-A87U": {
+      "num_patches": 1,
+      "file": "TCGA-WC-A87U.pt"
+    },
+    "TCGA-WC-A87W": {
+      "num_patches": 114,
+      "file": "TCGA-WC-A87W.pt"
+    },
+    "TCGA-WC-A87Y": {
+      "num_patches": 103,
+      "file": "TCGA-WC-A87Y.pt"
+    },
+    "TCGA-WC-A880": {
+      "num_patches": 103,
+      "file": "TCGA-WC-A880.pt"
+    },
+    "TCGA-WC-A882": {
+      "num_patches": 1,
+      "file": "TCGA-WC-A882.pt"
+    },
+    "TCGA-WC-A885": {
+      "num_patches": 1,
+      "file": "TCGA-WC-A885.pt"
+    },
+    "TCGA-WC-A888": {
+      "num_patches": 1,
+      "file": "TCGA-WC-A888.pt"
+    },
+    "TCGA-WC-AA9A": {
+      "num_patches": 1,
+      "file": "TCGA-WC-AA9A.pt"
+    },
+    "TCGA-WC-AA9E": {
+      "num_patches": 1,
+      "file": "TCGA-WC-AA9E.pt"
+    },
+    "TCGA-YZ-A980": {
+      "num_patches": 100,
+      "file": "TCGA-YZ-A980.pt"
+    },
+    "TCGA-YZ-A982": {
+      "num_patches": 1,
+      "file": "TCGA-YZ-A982.pt"
+    },
+    "TCGA-YZ-A984": {
+      "num_patches": 100,
+      "file": "TCGA-YZ-A984.pt"
+    },
+    "TCGA-YZ-A985": {
+      "num_patches": 104,
+      "file": "TCGA-YZ-A985.pt"
+    }
+  }
+}
