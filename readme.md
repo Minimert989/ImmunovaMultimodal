@@ -248,10 +248,8 @@ If you use this code in your research, please cite:
 
 For questions and support:
 
-- 📧 Email: [your-email@domain.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/immunova/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/immunova/wiki)
-
+- 📧 Email: [kosh.sch@gmail.com]
+- 📖 Documentation: [immunova.ai]
 ## 🙏 Acknowledgments
 
 - The Cancer Genome Atlas (TCGA) for providing the data
